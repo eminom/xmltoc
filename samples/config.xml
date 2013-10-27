@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<configs>
+<config gem_cost_gacha_1x="10" gem_cost_gacha_10x="90" fp_cost_gacha_1x="100" fp_cost_gacha_10x="1000" recover_time_per_sta="300" >
+</config>
+</configs>

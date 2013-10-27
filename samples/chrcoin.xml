@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chrcoins>
+<chrcoin lv="1" >
+<coins coin_price_q1="100" coin_price_q2="120" coin_price_q3="140" coin_price_q4="170" coin_price_q5="200" coin_price_q6="240" coin_fuse_cost_q1="100" coin_fuse_cost_q2="120" coin_fuse_cost_q3="140" coin_fuse_cost_q4="170" coin_fuse_cost_q5="200" coin_fuse_cost_q6="240" />
+</chrcoin>
+<chrcoin lv="2" >
+<coins coin_price_q1="110" coin_price_q2="130" coin_price_q3="160" coin_price_q4="190" coin_price_q5="230" coin_price_q6="280" coin_fuse_cost_q1="110" coin_fuse_cost_q2="130" coin_fuse_cost_q3="160" coin_fuse_cost_q4="190" coin_fuse_cost_q5="230" coin_fuse_cost_q6="280" />
+</chrcoin>
+<chrcoin lv="3" >
+<coins coin_price_q1="120" coin_price_q2="140" coin_price_q3="170" coin_price_q4="200" coin_price_q5="240" coin_price_q6="290" coin_fuse_cost_q1="120" coin_fuse_cost_q2="140" coin_fuse_cost_q3="170" coin_fuse_cost_q4="200" coin_fuse_cost_q5="240" coin_fuse_cost_q6="290" />
+</chrcoin>
+<chrcoin lv="4" >
+<coins coin_price_q1="130" coin_price_q2="160" coin_price_q3="190" coin_price_q4="230" coin_price_q5="280" coin_price_q6="340" coin_fuse_cost_q1="130" coin_fuse_cost_q2="160" coin_fuse_cost_q3="190" coin_fuse_cost_q4="230" coin_fuse_cost_q5="280" coin_fuse_cost_q6="340" />
+</chrcoin>
+<chrcoin lv="5" >
+<coins coin_price_q1="140" coin_price_q2="170" coin_price_q3="200" coin_price_q4="240" coin_price_q5="290" coin_price_q6="350" coin_fuse_cost_q1="140" coin_fuse_cost_q2="170" coin_fuse_cost_q3="200" coin_fuse_cost_q4="240" coin_fuse_cost_q5="290" coin_fuse_cost_q6="350" />
+</chrcoin>
+<chrcoin lv="6" >
+<coins coin_price_q1="150" coin_price_q2="180" coin_price_q3="220" coin_price_q4="260" coin_price_q5="310" coin_price_q6="370" coin_fuse_cost_q1="150" coin_fuse_cost_q2="180" coin_fuse_cost_q3="220" coin_fuse_cost_q4="260" coin_fuse_cost_q5="310" coin_fuse_cost_q6="370" />
+</chrcoin>
+<chrcoin lv="7" >
+<coins coin_price_q1="160" coin_price_q2="190" coin_price_q3="230" coin_price_q4="280" coin_price_q5="340" coin_price_q6="410" coin_fuse_cost_q1="160" coin_fuse_cost_q2="190" coin_fuse_cost_q3="230" coin_fuse_cost_q4="280" coin_fuse_cost_q5="340" coin_fuse_cost_q6="410" />
+</chrcoin>
+<chrcoin lv="8" >
+<coins coin_price_q1="170" coin_price_q2="200" coin_price_q3="240" coin_price_q4="290" coin_price_q5="350" coin_price_q6="420" coin_fuse_cost_q1="170" coin_fuse_cost_q2="200" coin_fuse_cost_q3="240" coin_fuse_cost_q4="290" coin_fuse_cost_q5="350" coin_fuse_cost_q6="420" />
+</chrcoin>
+<chrcoin lv="9" >
+<coins coin_price_q1="180" coin_price_q2="220" coin_price_q3="260" coin_price_q4="310" coin_price_q5="370" coin_price_q6="440" coin_fuse_cost_q1="180" coin_fuse_cost_q2="220" coin_fuse_cost_q3="260" coin_fuse_cost_q4="310" coin_fuse_cost_q5="370" coin_fuse_cost_q6="440" />
+</chrcoin>
+<chrcoin lv="10" >
+<coins coin_price_q1="190" coin_price_q2="230" coin_price_q3="280" coin_price_q4="340" coin_price_q5="410" coin_price_q6="490" coin_fuse_cost_q1="190" coin_fuse_cost_q2="230" coin_fuse_cost_q3="280" coin_fuse_cost_q4="340" coin_fuse_cost_q5="410" coin_fuse_cost_q6="490" />
+</chrcoin>
+<chrcoin lv="11" >
+<coins coin_price_q1="200" coin_price_q2="240" coin_price_q3="290" coin_price_q4="350" coin_price_q5="420" coin_price_q6="500" coin_fuse_cost_q1="200" coin_fuse_cost_q2="240" coin_fuse_cost_q3="290" coin_fuse_cost_q4="350" coin_fuse_cost_q5="420" coin_fuse_cost_q6="500" />
+</chrcoin>
+<chrcoin lv="12" >
+<coins coin_price_q1="210" coin_price_q2="250" coin_price_q3="300" coin_price_q4="360" coin_price_q5="430" coin_price_q6="520" coin_fuse_cost_q1="210" coin_fuse_cost_q2="250" coin_fuse_cost_q3="300" coin_fuse_cost_q4="360" coin_fuse_cost_q5="430" coin_fuse_cost_q6="520" />
+</chrcoin>
+<chrcoin lv="13" >
+<coins coin_price_q1="220" coin_price_q2="260" coin_price_q3="310" coin_price_q4="370" coin_price_q5="440" coin_price_q6="530" coin_fuse_cost_q1="220" coin_fuse_cost_q2="260" coin_fuse_cost_q3="310" coin_fuse_cost_q4="370" coin_fuse_cost_q5="440" coin_fuse_cost_q6="530" />
+</chrcoin>
+<chrcoin lv="14" >
+<coins coin_price_q1="230" coin_price_q2="280" coin_price_q3="340" coin_price_q4="410" coin_price_q5="490" coin_price_q6="590" coin_fuse_cost_q1="230" coin_fuse_cost_q2="280" coin_fuse_cost_q3="340" coin_fuse_cost_q4="410" coin_fuse_cost_q5="490" coin_fuse_cost_q6="590" />
+</chrcoin>
+<chrcoin lv="15" >
+<coins coin_price_q1="240" coin_price_q2="290" coin_price_q3="350" coin_price_q4="420" coin_price_q5="500" coin_price_q6="600" coin_fuse_cost_q1="240" coin_fuse_cost_q2="290" coin_fuse_cost_q3="350" coin_fuse_cost_q4="420" coin_fuse_cost_q5="500" coin_fuse_cost_q6="600" />
+</chrcoin>
+<chrcoin lv="16" >
+<coins coin_price_q1="250" coin_price_q2="300" coin_price_q3="360" coin_price_q4="430" coin_price_q5="520" coin_price_q6="620" coin_fuse_cost_q1="250" coin_fuse_cost_q2="300" coin_fuse_cost_q3="360" coin_fuse_cost_q4="430" coin_fuse_cost_q5="520" coin_fuse_cost_q6="620" />
+</chrcoin>
+<chrcoin lv="17" >
+<coins coin_price_q1="260" coin_price_q2="310" coin_price_q3="370" coin_price_q4="440" coin_price_q5="530" coin_price_q6="640" coin_fuse_cost_q1="260" coin_fuse_cost_q2="310" coin_fuse_cost_q3="370" coin_fuse_cost_q4="440" coin_fuse_cost_q5="530" coin_fuse_cost_q6="640" />
+</chrcoin>
+<chrcoin lv="18" >
+<coins coin_price_q1="270" coin_price_q2="320" coin_price_q3="380" coin_price_q4="460" coin_price_q5="550" coin_price_q6="660" coin_fuse_cost_q1="270" coin_fuse_cost_q2="320" coin_fuse_cost_q3="380" coin_fuse_cost_q4="460" coin_fuse_cost_q5="550" coin_fuse_cost_q6="660" />
+</chrcoin>
+<chrcoin lv="19" >
+<coins coin_price_q1="280" coin_price_q2="340" coin_price_q3="410" coin_price_q4="490" coin_price_q5="590" coin_price_q6="710" coin_fuse_cost_q1="280" coin_fuse_cost_q2="340" coin_fuse_cost_q3="410" coin_fuse_cost_q4="490" coin_fuse_cost_q5="590" coin_fuse_cost_q6="710" />
+</chrcoin>
+<chrcoin lv="20" >
+<coins coin_price_q1="290" coin_price_q2="350" coin_price_q3="420" coin_price_q4="500" coin_price_q5="600" coin_price_q6="720" coin_fuse_cost_q1="290" coin_fuse_cost_q2="350" coin_fuse_cost_q3="420" coin_fuse_cost_q4="500" coin_fuse_cost_q5="600" coin_fuse_cost_q6="720" />
+</chrcoin>
+<chrcoin lv="21" >
+<coins coin_price_q1="300" coin_price_q2="360" coin_price_q3="430" coin_price_q4="520" coin_price_q5="620" coin_price_q6="740" coin_fuse_cost_q1="300" coin_fuse_cost_q2="360" coin_fuse_cost_q3="430" coin_fuse_cost_q4="520" coin_fuse_cost_q5="620" coin_fuse_cost_q6="740" />
+</chrcoin>
+<chrcoin lv="22" >
+<coins coin_price_q1="310" coin_price_q2="370" coin_price_q3="440" coin_price_q4="530" coin_price_q5="640" coin_price_q6="770" coin_fuse_cost_q1="310" coin_fuse_cost_q2="370" coin_fuse_cost_q3="440" coin_fuse_cost_q4="530" coin_fuse_cost_q5="640" coin_fuse_cost_q6="770" />
+</chrcoin>
+<chrcoin lv="23" >
+<coins coin_price_q1="320" coin_price_q2="380" coin_price_q3="460" coin_price_q4="550" coin_price_q5="660" coin_price_q6="790" coin_fuse_cost_q1="320" coin_fuse_cost_q2="380" coin_fuse_cost_q3="460" coin_fuse_cost_q4="550" coin_fuse_cost_q5="660" coin_fuse_cost_q6="790" />
+</chrcoin>
+<chrcoin lv="24" >
+<coins coin_price_q1="330" coin_price_q2="400" coin_price_q3="480" coin_price_q4="580" coin_price_q5="700" coin_price_q6="840" coin_fuse_cost_q1="330" coin_fuse_cost_q2="400" coin_fuse_cost_q3="480" coin_fuse_cost_q4="580" coin_fuse_cost_q5="700" coin_fuse_cost_q6="840" />
+</chrcoin>
+<chrcoin lv="25" >
+<coins coin_price_q1="340" coin_price_q2="410" coin_price_q3="490" coin_price_q4="590" coin_price_q5="710" coin_price_q6="850" coin_fuse_cost_q1="340" coin_fuse_cost_q2="410" coin_fuse_cost_q3="490" coin_fuse_cost_q4="590" coin_fuse_cost_q5="710" coin_fuse_cost_q6="850" />
+</chrcoin>
+<chrcoin lv="26" >
+<coins coin_price_q1="350" coin_price_q2="420" coin_price_q3="500" coin_price_q4="600" coin_price_q5="720" coin_price_q6="860" coin_fuse_cost_q1="350" coin_fuse_cost_q2="420" coin_fuse_cost_q3="500" coin_fuse_cost_q4="600" coin_fuse_cost_q5="720" coin_fuse_cost_q6="860" />
+</chrcoin>
+<chrcoin lv="27" >
+<coins coin_price_q1="360" coin_price_q2="430" coin_price_q3="520" coin_price_q4="620" coin_price_q5="740" coin_price_q6="890" coin_fuse_cost_q1="360" coin_fuse_cost_q2="430" coin_fuse_cost_q3="520" coin_fuse_cost_q4="620" coin_fuse_cost_q5="740" coin_fuse_cost_q6="890" />
+</chrcoin>
+<chrcoin lv="28" >
+<coins coin_price_q1="370" coin_price_q2="440" coin_price_q3="530" coin_price_q4="640" coin_price_q5="770" coin_price_q6="920" coin_fuse_cost_q1="370" coin_fuse_cost_q2="440" coin_fuse_cost_q3="530" coin_fuse_cost_q4="640" coin_fuse_cost_q5="770" coin_fuse_cost_q6="920" />
+</chrcoin>
+<chrcoin lv="29" >
+<coins coin_price_q1="380" coin_price_q2="460" coin_price_q3="550" coin_price_q4="660" coin_price_q5="790" coin_price_q6="950" coin_fuse_cost_q1="380" coin_fuse_cost_q2="460" coin_fuse_cost_q3="550" coin_fuse_cost_q4="660" coin_fuse_cost_q5="790" coin_fuse_cost_q6="950" />
+</chrcoin>
+<chrcoin lv="30" >
+<coins coin_price_q1="390" coin_price_q2="470" coin_price_q3="560" coin_price_q4="670" coin_price_q5="800" coin_price_q6="960" coin_fuse_cost_q1="390" coin_fuse_cost_q2="470" coin_fuse_cost_q3="560" coin_fuse_cost_q4="670" coin_fuse_cost_q5="800" coin_fuse_cost_q6="960" />
+</chrcoin>
+<chrcoin lv="31" >
+<coins coin_price_q1="400" coin_price_q2="480" coin_price_q3="580" coin_price_q4="700" coin_price_q5="840" coin_price_q6="1010" coin_fuse_cost_q1="400" coin_fuse_cost_q2="480" coin_fuse_cost_q3="580" coin_fuse_cost_q4="700" coin_fuse_cost_q5="840" coin_fuse_cost_q6="1010" />
+</chrcoin>
+<chrcoin lv="32" >
+<coins coin_price_q1="410" coin_price_q2="490" coin_price_q3="590" coin_price_q4="710" coin_price_q5="850" coin_price_q6="1020" coin_fuse_cost_q1="410" coin_fuse_cost_q2="490" coin_fuse_cost_q3="590" coin_fuse_cost_q4="710" coin_fuse_cost_q5="850" coin_fuse_cost_q6="1020" />
+</chrcoin>
+<chrcoin lv="33" >
+<coins coin_price_q1="420" coin_price_q2="500" coin_price_q3="600" coin_price_q4="720" coin_price_q5="860" coin_price_q6="1030" coin_fuse_cost_q1="420" coin_fuse_cost_q2="500" coin_fuse_cost_q3="600" coin_fuse_cost_q4="720" coin_fuse_cost_q5="860" coin_fuse_cost_q6="1030" />
+</chrcoin>
+<chrcoin lv="34" >
+<coins coin_price_q1="430" coin_price_q2="520" coin_price_q3="620" coin_price_q4="740" coin_price_q5="890" coin_price_q6="1070" coin_fuse_cost_q1="430" coin_fuse_cost_q2="520" coin_fuse_cost_q3="620" coin_fuse_cost_q4="740" coin_fuse_cost_q5="890" coin_fuse_cost_q6="1070" />
+</chrcoin>
+<chrcoin lv="35" >
+<coins coin_price_q1="440" coin_price_q2="530" coin_price_q3="640" coin_price_q4="770" coin_price_q5="920" coin_price_q6="1100" coin_fuse_cost_q1="440" coin_fuse_cost_q2="530" coin_fuse_cost_q3="640" coin_fuse_cost_q4="770" coin_fuse_cost_q5="920" coin_fuse_cost_q6="1100" />
+</chrcoin>
+<chrcoin lv="36" >
+<coins coin_price_q1="450" coin_price_q2="540" coin_price_q3="650" coin_price_q4="780" coin_price_q5="940" coin_price_q6="1130" coin_fuse_cost_q1="450" coin_fuse_cost_q2="540" coin_fuse_cost_q3="650" coin_fuse_cost_q4="780" coin_fuse_cost_q5="940" coin_fuse_cost_q6="1130" />
+</chrcoin>
+<chrcoin lv="37" >
+<coins coin_price_q1="460" coin_price_q2="550" coin_price_q3="660" coin_price_q4="790" coin_price_q5="950" coin_price_q6="1140" coin_fuse_cost_q1="460" coin_fuse_cost_q2="550" coin_fuse_cost_q3="660" coin_fuse_cost_q4="790" coin_fuse_cost_q5="950" coin_fuse_cost_q6="1140" />
+</chrcoin>
+<chrcoin lv="38" >
+<coins coin_price_q1="470" coin_price_q2="560" coin_price_q3="670" coin_price_q4="800" coin_price_q5="960" coin_price_q6="1150" coin_fuse_cost_q1="470" coin_fuse_cost_q2="560" coin_fuse_cost_q3="670" coin_fuse_cost_q4="800" coin_fuse_cost_q5="960" coin_fuse_cost_q6="1150" />
+</chrcoin>
+<chrcoin lv="39" >
+<coins coin_price_q1="480" coin_price_q2="580" coin_price_q3="700" coin_price_q4="840" coin_price_q5="1010" coin_price_q6="1210" coin_fuse_cost_q1="480" coin_fuse_cost_q2="580" coin_fuse_cost_q3="700" coin_fuse_cost_q4="840" coin_fuse_cost_q5="1010" coin_fuse_cost_q6="1210" />
+</chrcoin>
+<chrcoin lv="40" >
+<coins coin_price_q1="490" coin_price_q2="590" coin_price_q3="710" coin_price_q4="850" coin_price_q5="1020" coin_price_q6="1220" coin_fuse_cost_q1="490" coin_fuse_cost_q2="590" coin_fuse_cost_q3="710" coin_fuse_cost_q4="850" coin_fuse_cost_q5="1020" coin_fuse_cost_q6="1220" />
+</chrcoin>
+<chrcoin lv="41" >
+<coins coin_price_q1="500" coin_price_q2="600" coin_price_q3="720" coin_price_q4="860" coin_price_q5="1030" coin_price_q6="1240" coin_fuse_cost_q1="500" coin_fuse_cost_q2="600" coin_fuse_cost_q3="720" coin_fuse_cost_q4="860" coin_fuse_cost_q5="1030" coin_fuse_cost_q6="1240" />
+</chrcoin>
+<chrcoin lv="42" >
+<coins coin_price_q1="510" coin_price_q2="610" coin_price_q3="730" coin_price_q4="880" coin_price_q5="1060" coin_price_q6="1270" coin_fuse_cost_q1="510" coin_fuse_cost_q2="610" coin_fuse_cost_q3="730" coin_fuse_cost_q4="880" coin_fuse_cost_q5="1060" coin_fuse_cost_q6="1270" />
+</chrcoin>
+<chrcoin lv="43" >
+<coins coin_price_q1="520" coin_price_q2="620" coin_price_q3="740" coin_price_q4="890" coin_price_q5="1070" coin_price_q6="1280" coin_fuse_cost_q1="520" coin_fuse_cost_q2="620" coin_fuse_cost_q3="740" coin_fuse_cost_q4="890" coin_fuse_cost_q5="1070" coin_fuse_cost_q6="1280" />
+</chrcoin>
+<chrcoin lv="44" >
+<coins coin_price_q1="530" coin_price_q2="640" coin_price_q3="770" coin_price_q4="920" coin_price_q5="1100" coin_price_q6="1320" coin_fuse_cost_q1="530" coin_fuse_cost_q2="640" coin_fuse_cost_q3="770" coin_fuse_cost_q4="920" coin_fuse_cost_q5="1100" coin_fuse_cost_q6="1320" />
+</chrcoin>
+<chrcoin lv="45" >
+<coins coin_price_q1="540" coin_price_q2="650" coin_price_q3="780" coin_price_q4="940" coin_price_q5="1130" coin_price_q6="1360" coin_fuse_cost_q1="540" coin_fuse_cost_q2="650" coin_fuse_cost_q3="780" coin_fuse_cost_q4="940" coin_fuse_cost_q5="1130" coin_fuse_cost_q6="1360" />
+</chrcoin>
+<chrcoin lv="46" >
+<coins coin_price_q1="550" coin_price_q2="660" coin_price_q3="790" coin_price_q4="950" coin_price_q5="1140" coin_price_q6="1370" coin_fuse_cost_q1="550" coin_fuse_cost_q2="660" coin_fuse_cost_q3="790" coin_fuse_cost_q4="950" coin_fuse_cost_q5="1140" coin_fuse_cost_q6="1370" />
+</chrcoin>
+<chrcoin lv="47" >
+<coins coin_price_q1="560" coin_price_q2="670" coin_price_q3="800" coin_price_q4="960" coin_price_q5="1150" coin_price_q6="1380" coin_fuse_cost_q1="560" coin_fuse_cost_q2="670" coin_fuse_cost_q3="800" coin_fuse_cost_q4="960" coin_fuse_cost_q5="1150" coin_fuse_cost_q6="1380" />
+</chrcoin>
+<chrcoin lv="48" >
+<coins coin_price_q1="570" coin_price_q2="680" coin_price_q3="820" coin_price_q4="980" coin_price_q5="1180" coin_price_q6="1420" coin_fuse_cost_q1="570" coin_fuse_cost_q2="680" coin_fuse_cost_q3="820" coin_fuse_cost_q4="980" coin_fuse_cost_q5="1180" coin_fuse_cost_q6="1420" />
+</chrcoin>
+<chrcoin lv="49" >
+<coins coin_price_q1="580" coin_price_q2="700" coin_price_q3="840" coin_price_q4="1010" coin_price_q5="1210" coin_price_q6="1450" coin_fuse_cost_q1="580" coin_fuse_cost_q2="700" coin_fuse_cost_q3="840" coin_fuse_cost_q4="1010" coin_fuse_cost_q5="1210" coin_fuse_cost_q6="1450" />
+</chrcoin>
+<chrcoin lv="50" >
+<coins coin_price_q1="590" coin_price_q2="710" coin_price_q3="850" coin_price_q4="1020" coin_price_q5="1220" coin_price_q6="1460" coin_fuse_cost_q1="590" coin_fuse_cost_q2="710" coin_fuse_cost_q3="850" coin_fuse_cost_q4="1020" coin_fuse_cost_q5="1220" coin_fuse_cost_q6="1460" />
+</chrcoin>
+<chrcoin lv="51" >
+<coins coin_price_q1="600" coin_price_q2="720" coin_price_q3="860" coin_price_q4="1030" coin_price_q5="1240" coin_price_q6="1490" coin_fuse_cost_q1="600" coin_fuse_cost_q2="720" coin_fuse_cost_q3="860" coin_fuse_cost_q4="1030" coin_fuse_cost_q5="1240" coin_fuse_cost_q6="1490" />
+</chrcoin>
+<chrcoin lv="52" >
+<coins coin_price_q1="610" coin_price_q2="730" coin_price_q3="880" coin_price_q4="1060" coin_price_q5="1270" coin_price_q6="1520" coin_fuse_cost_q1="610" coin_fuse_cost_q2="730" coin_fuse_cost_q3="880" coin_fuse_cost_q4="1060" coin_fuse_cost_q5="1270" coin_fuse_cost_q6="1520" />
+</chrcoin>
+<chrcoin lv="53" >
+<coins coin_price_q1="620" coin_price_q2="740" coin_price_q3="890" coin_price_q4="1070" coin_price_q5="1280" coin_price_q6="1540" coin_fuse_cost_q1="620" coin_fuse_cost_q2="740" coin_fuse_cost_q3="890" coin_fuse_cost_q4="1070" coin_fuse_cost_q5="1280" coin_fuse_cost_q6="1540" />
+</chrcoin>
+<chrcoin lv="54" >
+<coins coin_price_q1="630" coin_price_q2="760" coin_price_q3="910" coin_price_q4="1090" coin_price_q5="1310" coin_price_q6="1570" coin_fuse_cost_q1="630" coin_fuse_cost_q2="760" coin_fuse_cost_q3="910" coin_fuse_cost_q4="1090" coin_fuse_cost_q5="1310" coin_fuse_cost_q6="1570" />
+</chrcoin>
+<chrcoin lv="55" >
+<coins coin_price_q1="640" coin_price_q2="770" coin_price_q3="920" coin_price_q4="1100" coin_price_q5="1320" coin_price_q6="1580" coin_fuse_cost_q1="640" coin_fuse_cost_q2="770" coin_fuse_cost_q3="920" coin_fuse_cost_q4="1100" coin_fuse_cost_q5="1320" coin_fuse_cost_q6="1580" />
+</chrcoin>
+<chrcoin lv="56" >
+<coins coin_price_q1="650" coin_price_q2="780" coin_price_q3="940" coin_price_q4="1130" coin_price_q5="1360" coin_price_q6="1630" coin_fuse_cost_q1="650" coin_fuse_cost_q2="780" coin_fuse_cost_q3="940" coin_fuse_cost_q4="1130" coin_fuse_cost_q5="1360" coin_fuse_cost_q6="1630" />
+</chrcoin>
+<chrcoin lv="57" >
+<coins coin_price_q1="660" coin_price_q2="790" coin_price_q3="950" coin_price_q4="1140" coin_price_q5="1370" coin_price_q6="1640" coin_fuse_cost_q1="660" coin_fuse_cost_q2="790" coin_fuse_cost_q3="950" coin_fuse_cost_q4="1140" coin_fuse_cost_q5="1370" coin_fuse_cost_q6="1640" />
+</chrcoin>
+<chrcoin lv="58" >
+<coins coin_price_q1="670" coin_price_q2="800" coin_price_q3="960" coin_price_q4="1150" coin_price_q5="1380" coin_price_q6="1660" coin_fuse_cost_q1="670" coin_fuse_cost_q2="800" coin_fuse_cost_q3="960" coin_fuse_cost_q4="1150" coin_fuse_cost_q5="1380" coin_fuse_cost_q6="1660" />
+</chrcoin>
+<chrcoin lv="59" >
+<coins coin_price_q1="680" coin_price_q2="820" coin_price_q3="980" coin_price_q4="1180" coin_price_q5="1420" coin_price_q6="1700" coin_fuse_cost_q1="680" coin_fuse_cost_q2="820" coin_fuse_cost_q3="980" coin_fuse_cost_q4="1180" coin_fuse_cost_q5="1420" coin_fuse_cost_q6="1700" />
+</chrcoin>
+<chrcoin lv="60" >
+<coins coin_price_q1="690" coin_price_q2="830" coin_price_q3="1000" coin_price_q4="1200" coin_price_q5="1440" coin_price_q6="1730" coin_fuse_cost_q1="690" coin_fuse_cost_q2="830" coin_fuse_cost_q3="1000" coin_fuse_cost_q4="1200" coin_fuse_cost_q5="1440" coin_fuse_cost_q6="1730" />
+</chrcoin>
+<chrcoin lv="61" >
+<coins coin_price_q1="700" coin_price_q2="840" coin_price_q3="1010" coin_price_q4="1210" coin_price_q5="1450" coin_price_q6="1740" coin_fuse_cost_q1="700" coin_fuse_cost_q2="840" coin_fuse_cost_q3="1010" coin_fuse_cost_q4="1210" coin_fuse_cost_q5="1450" coin_fuse_cost_q6="1740" />
+</chrcoin>
+<chrcoin lv="62" >
+<coins coin_price_q1="710" coin_price_q2="850" coin_price_q3="1020" coin_price_q4="1220" coin_price_q5="1460" coin_price_q6="1750" coin_fuse_cost_q1="710" coin_fuse_cost_q2="850" coin_fuse_cost_q3="1020" coin_fuse_cost_q4="1220" coin_fuse_cost_q5="1460" coin_fuse_cost_q6="1750" />
+</chrcoin>
+<chrcoin lv="63" >
+<coins coin_price_q1="720" coin_price_q2="860" coin_price_q3="1030" coin_price_q4="1240" coin_price_q5="1490" coin_price_q6="1790" coin_fuse_cost_q1="720" coin_fuse_cost_q2="860" coin_fuse_cost_q3="1030" coin_fuse_cost_q4="1240" coin_fuse_cost_q5="1490" coin_fuse_cost_q6="1790" />
+</chrcoin>
+<chrcoin lv="64" >
+<coins coin_price_q1="730" coin_price_q2="880" coin_price_q3="1060" coin_price_q4="1270" coin_price_q5="1520" coin_price_q6="1820" coin_fuse_cost_q1="730" coin_fuse_cost_q2="880" coin_fuse_cost_q3="1060" coin_fuse_cost_q4="1270" coin_fuse_cost_q5="1520" coin_fuse_cost_q6="1820" />
+</chrcoin>
+<chrcoin lv="65" >
+<coins coin_price_q1="740" coin_price_q2="890" coin_price_q3="1070" coin_price_q4="1280" coin_price_q5="1540" coin_price_q6="1850" coin_fuse_cost_q1="740" coin_fuse_cost_q2="890" coin_fuse_cost_q3="1070" coin_fuse_cost_q4="1280" coin_fuse_cost_q5="1540" coin_fuse_cost_q6="1850" />
+</chrcoin>
+<chrcoin lv="66" >
+<coins coin_price_q1="750" coin_price_q2="900" coin_price_q3="1080" coin_price_q4="1300" coin_price_q5="1560" coin_price_q6="1870" coin_fuse_cost_q1="750" coin_fuse_cost_q2="900" coin_fuse_cost_q3="1080" coin_fuse_cost_q4="1300" coin_fuse_cost_q5="1560" coin_fuse_cost_q6="1870" />
+</chrcoin>
+<chrcoin lv="67" >
+<coins coin_price_q1="760" coin_price_q2="910" coin_price_q3="1090" coin_price_q4="1310" coin_price_q5="1570" coin_price_q6="1880" coin_fuse_cost_q1="760" coin_fuse_cost_q2="910" coin_fuse_cost_q3="1090" coin_fuse_cost_q4="1310" coin_fuse_cost_q5="1570" coin_fuse_cost_q6="1880" />
+</chrcoin>
+<chrcoin lv="68" >
+<coins coin_price_q1="770" coin_price_q2="920" coin_price_q3="1100" coin_price_q4="1320" coin_price_q5="1580" coin_price_q6="1900" coin_fuse_cost_q1="770" coin_fuse_cost_q2="920" coin_fuse_cost_q3="1100" coin_fuse_cost_q4="1320" coin_fuse_cost_q5="1580" coin_fuse_cost_q6="1900" />
+</chrcoin>
+<chrcoin lv="69" >
+<coins coin_price_q1="780" coin_price_q2="940" coin_price_q3="1130" coin_price_q4="1360" coin_price_q5="1630" coin_price_q6="1960" coin_fuse_cost_q1="780" coin_fuse_cost_q2="940" coin_fuse_cost_q3="1130" coin_fuse_cost_q4="1360" coin_fuse_cost_q5="1630" coin_fuse_cost_q6="1960" />
+</chrcoin>
+<chrcoin lv="70" >
+<coins coin_price_q1="790" coin_price_q2="950" coin_price_q3="1140" coin_price_q4="1370" coin_price_q5="1640" coin_price_q6="1970" coin_fuse_cost_q1="790" coin_fuse_cost_q2="950" coin_fuse_cost_q3="1140" coin_fuse_cost_q4="1370" coin_fuse_cost_q5="1640" coin_fuse_cost_q6="1970" />
+</chrcoin>
+<chrcoin lv="71" >
+<coins coin_price_q1="800" coin_price_q2="960" coin_price_q3="1150" coin_price_q4="1380" coin_price_q5="1660" coin_price_q6="1990" coin_fuse_cost_q1="800" coin_fuse_cost_q2="960" coin_fuse_cost_q3="1150" coin_fuse_cost_q4="1380" coin_fuse_cost_q5="1660" coin_fuse_cost_q6="1990" />
+</chrcoin>
+<chrcoin lv="72" >
+<coins coin_price_q1="810" coin_price_q2="970" coin_price_q3="1160" coin_price_q4="1390" coin_price_q5="1670" coin_price_q6="2000" coin_fuse_cost_q1="810" coin_fuse_cost_q2="970" coin_fuse_cost_q3="1160" coin_fuse_cost_q4="1390" coin_fuse_cost_q5="1670" coin_fuse_cost_q6="2000" />
+</chrcoin>
+<chrcoin lv="73" >
+<coins coin_price_q1="820" coin_price_q2="980" coin_price_q3="1180" coin_price_q4="1420" coin_price_q5="1700" coin_price_q6="2040" coin_fuse_cost_q1="820" coin_fuse_cost_q2="980" coin_fuse_cost_q3="1180" coin_fuse_cost_q4="1420" coin_fuse_cost_q5="1700" coin_fuse_cost_q6="2040" />
+</chrcoin>
+<chrcoin lv="74" >
+<coins coin_price_q1="830" coin_price_q2="1000" coin_price_q3="1200" coin_price_q4="1440" coin_price_q5="1730" coin_price_q6="2080" coin_fuse_cost_q1="830" coin_fuse_cost_q2="1000" coin_fuse_cost_q3="1200" coin_fuse_cost_q4="1440" coin_fuse_cost_q5="1730" coin_fuse_cost_q6="2080" />
+</chrcoin>
+<chrcoin lv="75" >
+<coins coin_price_q1="840" coin_price_q2="1010" coin_price_q3="1210" coin_price_q4="1450" coin_price_q5="1740" coin_price_q6="2090" coin_fuse_cost_q1="840" coin_fuse_cost_q2="1010" coin_fuse_cost_q3="1210" coin_fuse_cost_q4="1450" coin_fuse_cost_q5="1740" coin_fuse_cost_q6="2090" />
+</chrcoin>
+<chrcoin lv="76" >
+<coins coin_price_q1="850" coin_price_q2="1020" coin_price_q3="1220" coin_price_q4="1460" coin_price_q5="1750" coin_price_q6="2100" coin_fuse_cost_q1="850" coin_fuse_cost_q2="1020" coin_fuse_cost_q3="1220" coin_fuse_cost_q4="1460" coin_fuse_cost_q5="1750" coin_fuse_cost_q6="2100" />
+</chrcoin>
+<chrcoin lv="77" >
+<coins coin_price_q1="860" coin_price_q2="1030" coin_price_q3="1240" coin_price_q4="1490" coin_price_q5="1790" coin_price_q6="2150" coin_fuse_cost_q1="860" coin_fuse_cost_q2="1030" coin_fuse_cost_q3="1240" coin_fuse_cost_q4="1490" coin_fuse_cost_q5="1790" coin_fuse_cost_q6="2150" />
+</chrcoin>
+<chrcoin lv="78" >
+<coins coin_price_q1="870" coin_price_q2="1040" coin_price_q3="1250" coin_price_q4="1500" coin_price_q5="1800" coin_price_q6="2160" coin_fuse_cost_q1="870" coin_fuse_cost_q2="1040" coin_fuse_cost_q3="1250" coin_fuse_cost_q4="1500" coin_fuse_cost_q5="1800" coin_fuse_cost_q6="2160" />
+</chrcoin>
+<chrcoin lv="79" >
+<coins coin_price_q1="880" coin_price_q2="1060" coin_price_q3="1270" coin_price_q4="1520" coin_price_q5="1820" coin_price_q6="2180" coin_fuse_cost_q1="880" coin_fuse_cost_q2="1060" coin_fuse_cost_q3="1270" coin_fuse_cost_q4="1520" coin_fuse_cost_q5="1820" coin_fuse_cost_q6="2180" />
+</chrcoin>
+<chrcoin lv="80" >
+<coins coin_price_q1="890" coin_price_q2="1070" coin_price_q3="1280" coin_price_q4="1540" coin_price_q5="1850" coin_price_q6="2220" coin_fuse_cost_q1="890" coin_fuse_cost_q2="1070" coin_fuse_cost_q3="1280" coin_fuse_cost_q4="1540" coin_fuse_cost_q5="1850" coin_fuse_cost_q6="2220" />
+</chrcoin>
+<chrcoin lv="81" >
+<coins coin_price_q1="900" coin_price_q2="1080" coin_price_q3="1300" coin_price_q4="1560" coin_price_q5="1870" coin_price_q6="2240" coin_fuse_cost_q1="900" coin_fuse_cost_q2="1080" coin_fuse_cost_q3="1300" coin_fuse_cost_q4="1560" coin_fuse_cost_q5="1870" coin_fuse_cost_q6="2240" />
+</chrcoin>
+<chrcoin lv="82" >
+<coins coin_price_q1="910" coin_price_q2="1090" coin_price_q3="1310" coin_price_q4="1570" coin_price_q5="1880" coin_price_q6="2260" coin_fuse_cost_q1="910" coin_fuse_cost_q2="1090" coin_fuse_cost_q3="1310" coin_fuse_cost_q4="1570" coin_fuse_cost_q5="1880" coin_fuse_cost_q6="2260" />
+</chrcoin>
+<chrcoin lv="83" >
+<coins coin_price_q1="920" coin_price_q2="1100" coin_price_q3="1320" coin_price_q4="1580" coin_price_q5="1900" coin_price_q6="2280" coin_fuse_cost_q1="920" coin_fuse_cost_q2="1100" coin_fuse_cost_q3="1320" coin_fuse_cost_q4="1580" coin_fuse_cost_q5="1900" coin_fuse_cost_q6="2280" />
+</chrcoin>
+<chrcoin lv="84" >
+<coins coin_price_q1="930" coin_price_q2="1120" coin_price_q3="1340" coin_price_q4="1610" coin_price_q5="1930" coin_price_q6="2320" coin_fuse_cost_q1="930" coin_fuse_cost_q2="1120" coin_fuse_cost_q3="1340" coin_fuse_cost_q4="1610" coin_fuse_cost_q5="1930" coin_fuse_cost_q6="2320" />
+</chrcoin>
+<chrcoin lv="85" >
+<coins coin_price_q1="940" coin_price_q2="1130" coin_price_q3="1360" coin_price_q4="1630" coin_price_q5="1960" coin_price_q6="2350" coin_fuse_cost_q1="940" coin_fuse_cost_q2="1130" coin_fuse_cost_q3="1360" coin_fuse_cost_q4="1630" coin_fuse_cost_q5="1960" coin_fuse_cost_q6="2350" />
+</chrcoin>
+<chrcoin lv="86" >
+<coins coin_price_q1="950" coin_price_q2="1140" coin_price_q3="1370" coin_price_q4="1640" coin_price_q5="1970" coin_price_q6="2360" coin_fuse_cost_q1="950" coin_fuse_cost_q2="1140" coin_fuse_cost_q3="1370" coin_fuse_cost_q4="1640" coin_fuse_cost_q5="1970" coin_fuse_cost_q6="2360" />
+</chrcoin>
+<chrcoin lv="87" >
+<coins coin_price_q1="960" coin_price_q2="1150" coin_price_q3="1380" coin_price_q4="1660" coin_price_q5="1990" coin_price_q6="2390" coin_fuse_cost_q1="960" coin_fuse_cost_q2="1150" coin_fuse_cost_q3="1380" coin_fuse_cost_q4="1660" coin_fuse_cost_q5="1990" coin_fuse_cost_q6="2390" />
+</chrcoin>
+<chrcoin lv="88" >
+<coins coin_price_q1="970" coin_price_q2="1160" coin_price_q3="1390" coin_price_q4="1670" coin_price_q5="2000" coin_price_q6="2400" coin_fuse_cost_q1="970" coin_fuse_cost_q2="1160" coin_fuse_cost_q3="1390" coin_fuse_cost_q4="1670" coin_fuse_cost_q5="2000" coin_fuse_cost_q6="2400" />
+</chrcoin>
+<chrcoin lv="89" >
+<coins coin_price_q1="980" coin_price_q2="1180" coin_price_q3="1420" coin_price_q4="1700" coin_price_q5="2040" coin_price_q6="2450" coin_fuse_cost_q1="980" coin_fuse_cost_q2="1180" coin_fuse_cost_q3="1420" coin_fuse_cost_q4="1700" coin_fuse_cost_q5="2040" coin_fuse_cost_q6="2450" />
+</chrcoin>
+<chrcoin lv="90" >
+<coins coin_price_q1="990" coin_price_q2="1190" coin_price_q3="1430" coin_price_q4="1720" coin_price_q5="2060" coin_price_q6="2470" coin_fuse_cost_q1="990" coin_fuse_cost_q2="1190" coin_fuse_cost_q3="1430" coin_fuse_cost_q4="1720" coin_fuse_cost_q5="2060" coin_fuse_cost_q6="2470" />
+</chrcoin>
+<chrcoin lv="91" >
+<coins coin_price_q1="1000" coin_price_q2="1200" coin_price_q3="1440" coin_price_q4="1730" coin_price_q5="2080" coin_price_q6="2500" coin_fuse_cost_q1="1000" coin_fuse_cost_q2="1200" coin_fuse_cost_q3="1440" coin_fuse_cost_q4="1730" coin_fuse_cost_q5="2080" coin_fuse_cost_q6="2500" />
+</chrcoin>
+<chrcoin lv="92" >
+<coins coin_price_q1="1010" coin_price_q2="1210" coin_price_q3="1450" coin_price_q4="1740" coin_price_q5="2090" coin_price_q6="2510" coin_fuse_cost_q1="1010" coin_fuse_cost_q2="1210" coin_fuse_cost_q3="1450" coin_fuse_cost_q4="1740" coin_fuse_cost_q5="2090" coin_fuse_cost_q6="2510" />
+</chrcoin>
+<chrcoin lv="93" >
+<coins coin_price_q1="1020" coin_price_q2="1220" coin_price_q3="1460" coin_price_q4="1750" coin_price_q5="2100" coin_price_q6="2520" coin_fuse_cost_q1="1020" coin_fuse_cost_q2="1220" coin_fuse_cost_q3="1460" coin_fuse_cost_q4="1750" coin_fuse_cost_q5="2100" coin_fuse_cost_q6="2520" />
+</chrcoin>
+<chrcoin lv="94" >
+<coins coin_price_q1="1030" coin_price_q2="1240" coin_price_q3="1490" coin_price_q4="1790" coin_price_q5="2150" coin_price_q6="2580" coin_fuse_cost_q1="1030" coin_fuse_cost_q2="1240" coin_fuse_cost_q3="1490" coin_fuse_cost_q4="1790" coin_fuse_cost_q5="2150" coin_fuse_cost_q6="2580" />
+</chrcoin>
+<chrcoin lv="95" >
+<coins coin_price_q1="1040" coin_price_q2="1250" coin_price_q3="1500" coin_price_q4="1800" coin_price_q5="2160" coin_price_q6="2590" coin_fuse_cost_q1="1040" coin_fuse_cost_q2="1250" coin_fuse_cost_q3="1500" coin_fuse_cost_q4="1800" coin_fuse_cost_q5="2160" coin_fuse_cost_q6="2590" />
+</chrcoin>
+<chrcoin lv="96" >
+<coins coin_price_q1="1050" coin_price_q2="1260" coin_price_q3="1510" coin_price_q4="1810" coin_price_q5="2170" coin_price_q6="2600" coin_fuse_cost_q1="1050" coin_fuse_cost_q2="1260" coin_fuse_cost_q3="1510" coin_fuse_cost_q4="1810" coin_fuse_cost_q5="2170" coin_fuse_cost_q6="2600" />
+</chrcoin>
+<chrcoin lv="97" >
+<coins coin_price_q1="1060" coin_price_q2="1270" coin_price_q3="1520" coin_price_q4="1820" coin_price_q5="2180" coin_price_q6="2620" coin_fuse_cost_q1="1060" coin_fuse_cost_q2="1270" coin_fuse_cost_q3="1520" coin_fuse_cost_q4="1820" coin_fuse_cost_q5="2180" coin_fuse_cost_q6="2620" />
+</chrcoin>
+<chrcoin lv="98" >
+<coins coin_price_q1="1070" coin_price_q2="1280" coin_price_q3="1540" coin_price_q4="1850" coin_price_q5="2220" coin_price_q6="2660" coin_fuse_cost_q1="1070" coin_fuse_cost_q2="1280" coin_fuse_cost_q3="1540" coin_fuse_cost_q4="1850" coin_fuse_cost_q5="2220" coin_fuse_cost_q6="2660" />
+</chrcoin>
+<chrcoin lv="99" >
+<coins coin_price_q1="1080" coin_price_q2="1300" coin_price_q3="1560" coin_price_q4="1870" coin_price_q5="2240" coin_price_q6="2690" coin_fuse_cost_q1="1080" coin_fuse_cost_q2="1300" coin_fuse_cost_q3="1560" coin_fuse_cost_q4="1870" coin_fuse_cost_q5="2240" coin_fuse_cost_q6="2690" />
+</chrcoin>
+<chrcoin lv="100" >
+<coins coin_price_q1="1090" coin_price_q2="1310" coin_price_q3="1570" coin_price_q4="1880" coin_price_q5="2260" coin_price_q6="2710" coin_fuse_cost_q1="1090" coin_fuse_cost_q2="1310" coin_fuse_cost_q3="1570" coin_fuse_cost_q4="1880" coin_fuse_cost_q5="2260" coin_fuse_cost_q6="2710" />
+</chrcoin>
+<chrcoin lv="101" >
+<coins coin_price_q1="1100" coin_price_q2="1320" coin_price_q3="1580" coin_price_q4="1900" coin_price_q5="2280" coin_price_q6="2740" coin_fuse_cost_q1="1100" coin_fuse_cost_q2="1320" coin_fuse_cost_q3="1580" coin_fuse_cost_q4="1900" coin_fuse_cost_q5="2280" coin_fuse_cost_q6="2740" />
+</chrcoin>
+<chrcoin lv="102" >
+<coins coin_price_q1="1110" coin_price_q2="1330" coin_price_q3="1600" coin_price_q4="1920" coin_price_q5="2300" coin_price_q6="2760" coin_fuse_cost_q1="1110" coin_fuse_cost_q2="1330" coin_fuse_cost_q3="1600" coin_fuse_cost_q4="1920" coin_fuse_cost_q5="2300" coin_fuse_cost_q6="2760" />
+</chrcoin>
+<chrcoin lv="103" >
+<coins coin_price_q1="1120" coin_price_q2="1340" coin_price_q3="1610" coin_price_q4="1930" coin_price_q5="2320" coin_price_q6="2780" coin_fuse_cost_q1="1120" coin_fuse_cost_q2="1340" coin_fuse_cost_q3="1610" coin_fuse_cost_q4="1930" coin_fuse_cost_q5="2320" coin_fuse_cost_q6="2780" />
+</chrcoin>
+<chrcoin lv="104" >
+<coins coin_price_q1="1130" coin_price_q2="1360" coin_price_q3="1630" coin_price_q4="1960" coin_price_q5="2350" coin_price_q6="2820" coin_fuse_cost_q1="1130" coin_fuse_cost_q2="1360" coin_fuse_cost_q3="1630" coin_fuse_cost_q4="1960" coin_fuse_cost_q5="2350" coin_fuse_cost_q6="2820" />
+</chrcoin>
+<chrcoin lv="105" >
+<coins coin_price_q1="1140" coin_price_q2="1370" coin_price_q3="1640" coin_price_q4="1970" coin_price_q5="2360" coin_price_q6="2830" coin_fuse_cost_q1="1140" coin_fuse_cost_q2="1370" coin_fuse_cost_q3="1640" coin_fuse_cost_q4="1970" coin_fuse_cost_q5="2360" coin_fuse_cost_q6="2830" />
+</chrcoin>
+<chrcoin lv="106" >
+<coins coin_price_q1="1150" coin_price_q2="1380" coin_price_q3="1660" coin_price_q4="1990" coin_price_q5="2390" coin_price_q6="2870" coin_fuse_cost_q1="1150" coin_fuse_cost_q2="1380" coin_fuse_cost_q3="1660" coin_fuse_cost_q4="1990" coin_fuse_cost_q5="2390" coin_fuse_cost_q6="2870" />
+</chrcoin>
+<chrcoin lv="107" >
+<coins coin_price_q1="1160" coin_price_q2="1390" coin_price_q3="1670" coin_price_q4="2000" coin_price_q5="2400" coin_price_q6="2880" coin_fuse_cost_q1="1160" coin_fuse_cost_q2="1390" coin_fuse_cost_q3="1670" coin_fuse_cost_q4="2000" coin_fuse_cost_q5="2400" coin_fuse_cost_q6="2880" />
+</chrcoin>
+<chrcoin lv="108" >
+<coins coin_price_q1="1170" coin_price_q2="1400" coin_price_q3="1680" coin_price_q4="2020" coin_price_q5="2420" coin_price_q6="2900" coin_fuse_cost_q1="1170" coin_fuse_cost_q2="1400" coin_fuse_cost_q3="1680" coin_fuse_cost_q4="2020" coin_fuse_cost_q5="2420" coin_fuse_cost_q6="2900" />
+</chrcoin>
+<chrcoin lv="109" >
+<coins coin_price_q1="1180" coin_price_q2="1420" coin_price_q3="1700" coin_price_q4="2040" coin_price_q5="2450" coin_price_q6="2940" coin_fuse_cost_q1="1180" coin_fuse_cost_q2="1420" coin_fuse_cost_q3="1700" coin_fuse_cost_q4="2040" coin_fuse_cost_q5="2450" coin_fuse_cost_q6="2940" />
+</chrcoin>
+<chrcoin lv="110" >
+<coins coin_price_q1="1190" coin_price_q2="1430" coin_price_q3="1720" coin_price_q4="2060" coin_price_q5="2470" coin_price_q6="2960" coin_fuse_cost_q1="1190" coin_fuse_cost_q2="1430" coin_fuse_cost_q3="1720" coin_fuse_cost_q4="2060" coin_fuse_cost_q5="2470" coin_fuse_cost_q6="2960" />
+</chrcoin>
+<chrcoin lv="111" >
+<coins coin_price_q1="1200" coin_price_q2="1440" coin_price_q3="1730" coin_price_q4="2080" coin_price_q5="2500" coin_price_q6="3000" coin_fuse_cost_q1="1200" coin_fuse_cost_q2="1440" coin_fuse_cost_q3="1730" coin_fuse_cost_q4="2080" coin_fuse_cost_q5="2500" coin_fuse_cost_q6="3000" />
+</chrcoin>
+<chrcoin lv="112" >
+<coins coin_price_q1="1210" coin_price_q2="1450" coin_price_q3="1740" coin_price_q4="2090" coin_price_q5="2510" coin_price_q6="3010" coin_fuse_cost_q1="1210" coin_fuse_cost_q2="1450" coin_fuse_cost_q3="1740" coin_fuse_cost_q4="2090" coin_fuse_cost_q5="2510" coin_fuse_cost_q6="3010" />
+</chrcoin>
+<chrcoin lv="113" >
+<coins coin_price_q1="1220" coin_price_q2="1460" coin_price_q3="1750" coin_price_q4="2100" coin_price_q5="2520" coin_price_q6="3020" coin_fuse_cost_q1="1220" coin_fuse_cost_q2="1460" coin_fuse_cost_q3="1750" coin_fuse_cost_q4="2100" coin_fuse_cost_q5="2520" coin_fuse_cost_q6="3020" />
+</chrcoin>
+<chrcoin lv="114" >
+<coins coin_price_q1="1230" coin_price_q2="1480" coin_price_q3="1780" coin_price_q4="2140" coin_price_q5="2570" coin_price_q6="3080" coin_fuse_cost_q1="1230" coin_fuse_cost_q2="1480" coin_fuse_cost_q3="1780" coin_fuse_cost_q4="2140" coin_fuse_cost_q5="2570" coin_fuse_cost_q6="3080" />
+</chrcoin>
+<chrcoin lv="115" >
+<coins coin_price_q1="1240" coin_price_q2="1490" coin_price_q3="1790" coin_price_q4="2150" coin_price_q5="2580" coin_price_q6="3100" coin_fuse_cost_q1="1240" coin_fuse_cost_q2="1490" coin_fuse_cost_q3="1790" coin_fuse_cost_q4="2150" coin_fuse_cost_q5="2580" coin_fuse_cost_q6="3100" />
+</chrcoin>
+<chrcoin lv="116" >
+<coins coin_price_q1="1250" coin_price_q2="1500" coin_price_q3="1800" coin_price_q4="2160" coin_price_q5="2590" coin_price_q6="3110" coin_fuse_cost_q1="1250" coin_fuse_cost_q2="1500" coin_fuse_cost_q3="1800" coin_fuse_cost_q4="2160" coin_fuse_cost_q5="2590" coin_fuse_cost_q6="3110" />
+</chrcoin>
+<chrcoin lv="117" >
+<coins coin_price_q1="1260" coin_price_q2="1510" coin_price_q3="1810" coin_price_q4="2170" coin_price_q5="2600" coin_price_q6="3120" coin_fuse_cost_q1="1260" coin_fuse_cost_q2="1510" coin_fuse_cost_q3="1810" coin_fuse_cost_q4="2170" coin_fuse_cost_q5="2600" coin_fuse_cost_q6="3120" />
+</chrcoin>
+<chrcoin lv="118" >
+<coins coin_price_q1="1270" coin_price_q2="1520" coin_price_q3="1820" coin_price_q4="2180" coin_price_q5="2620" coin_price_q6="3140" coin_fuse_cost_q1="1270" coin_fuse_cost_q2="1520" coin_fuse_cost_q3="1820" coin_fuse_cost_q4="2180" coin_fuse_cost_q5="2620" coin_fuse_cost_q6="3140" />
+</chrcoin>
+<chrcoin lv="119" >
+<coins coin_price_q1="1280" coin_price_q2="1540" coin_price_q3="1850" coin_price_q4="2220" coin_price_q5="2660" coin_price_q6="3190" coin_fuse_cost_q1="1280" coin_fuse_cost_q2="1540" coin_fuse_cost_q3="1850" coin_fuse_cost_q4="2220" coin_fuse_cost_q5="2660" coin_fuse_cost_q6="3190" />
+</chrcoin>
+<chrcoin lv="120" >
+<coins coin_price_q1="1290" coin_price_q2="1550" coin_price_q3="1860" coin_price_q4="2230" coin_price_q5="2680" coin_price_q6="3220" coin_fuse_cost_q1="1290" coin_fuse_cost_q2="1550" coin_fuse_cost_q3="1860" coin_fuse_cost_q4="2230" coin_fuse_cost_q5="2680" coin_fuse_cost_q6="3220" />
+</chrcoin>
+<chrcoin lv="121" >
+<coins coin_price_q1="1300" coin_price_q2="1560" coin_price_q3="1870" coin_price_q4="2240" coin_price_q5="2690" coin_price_q6="3230" coin_fuse_cost_q1="1300" coin_fuse_cost_q2="1560" coin_fuse_cost_q3="1870" coin_fuse_cost_q4="2240" coin_fuse_cost_q5="2690" coin_fuse_cost_q6="3230" />
+</chrcoin>
+<chrcoin lv="122" >
+<coins coin_price_q1="1310" coin_price_q2="1570" coin_price_q3="1880" coin_price_q4="2260" coin_price_q5="2710" coin_price_q6="3250" coin_fuse_cost_q1="1310" coin_fuse_cost_q2="1570" coin_fuse_cost_q3="1880" coin_fuse_cost_q4="2260" coin_fuse_cost_q5="2710" coin_fuse_cost_q6="3250" />
+</chrcoin>
+<chrcoin lv="123" >
+<coins coin_price_q1="1320" coin_price_q2="1580" coin_price_q3="1900" coin_price_q4="2280" coin_price_q5="2740" coin_price_q6="3290" coin_fuse_cost_q1="1320" coin_fuse_cost_q2="1580" coin_fuse_cost_q3="1900" coin_fuse_cost_q4="2280" coin_fuse_cost_q5="2740" coin_fuse_cost_q6="3290" />
+</chrcoin>
+<chrcoin lv="124" >
+<coins coin_price_q1="1330" coin_price_q2="1600" coin_price_q3="1920" coin_price_q4="2300" coin_price_q5="2760" coin_price_q6="3310" coin_fuse_cost_q1="1330" coin_fuse_cost_q2="1600" coin_fuse_cost_q3="1920" coin_fuse_cost_q4="2300" coin_fuse_cost_q5="2760" coin_fuse_cost_q6="3310" />
+</chrcoin>
+<chrcoin lv="125" >
+<coins coin_price_q1="1340" coin_price_q2="1610" coin_price_q3="1930" coin_price_q4="2320" coin_price_q5="2780" coin_price_q6="3340" coin_fuse_cost_q1="1340" coin_fuse_cost_q2="1610" coin_fuse_cost_q3="1930" coin_fuse_cost_q4="2320" coin_fuse_cost_q5="2780" coin_fuse_cost_q6="3340" />
+</chrcoin>
+<chrcoin lv="126" >
+<coins coin_price_q1="1350" coin_price_q2="1620" coin_price_q3="1940" coin_price_q4="2330" coin_price_q5="2800" coin_price_q6="3360" coin_fuse_cost_q1="1350" coin_fuse_cost_q2="1620" coin_fuse_cost_q3="1940" coin_fuse_cost_q4="2330" coin_fuse_cost_q5="2800" coin_fuse_cost_q6="3360" />
+</chrcoin>
+<chrcoin lv="127" >
+<coins coin_price_q1="1360" coin_price_q2="1630" coin_price_q3="1960" coin_price_q4="2350" coin_price_q5="2820" coin_price_q6="3380" coin_fuse_cost_q1="1360" coin_fuse_cost_q2="1630" coin_fuse_cost_q3="1960" coin_fuse_cost_q4="2350" coin_fuse_cost_q5="2820" coin_fuse_cost_q6="3380" />
+</chrcoin>
+<chrcoin lv="128" >
+<coins coin_price_q1="1370" coin_price_q2="1640" coin_price_q3="1970" coin_price_q4="2360" coin_price_q5="2830" coin_price_q6="3400" coin_fuse_cost_q1="1370" coin_fuse_cost_q2="1640" coin_fuse_cost_q3="1970" coin_fuse_cost_q4="2360" coin_fuse_cost_q5="2830" coin_fuse_cost_q6="3400" />
+</chrcoin>
+<chrcoin lv="129" >
+<coins coin_price_q1="1380" coin_price_q2="1660" coin_price_q3="1990" coin_price_q4="2390" coin_price_q5="2870" coin_price_q6="3440" coin_fuse_cost_q1="1380" coin_fuse_cost_q2="1660" coin_fuse_cost_q3="1990" coin_fuse_cost_q4="2390" coin_fuse_cost_q5="2870" coin_fuse_cost_q6="3440" />
+</chrcoin>
+<chrcoin lv="130" >
+<coins coin_price_q1="1390" coin_price_q2="1670" coin_price_q3="2000" coin_price_q4="2400" coin_price_q5="2880" coin_price_q6="3460" coin_fuse_cost_q1="1390" coin_fuse_cost_q2="1670" coin_fuse_cost_q3="2000" coin_fuse_cost_q4="2400" coin_fuse_cost_q5="2880" coin_fuse_cost_q6="3460" />
+</chrcoin>
+<chrcoin lv="131" >
+<coins coin_price_q1="1400" coin_price_q2="1680" coin_price_q3="2020" coin_price_q4="2420" coin_price_q5="2900" coin_price_q6="3480" coin_fuse_cost_q1="1400" coin_fuse_cost_q2="1680" coin_fuse_cost_q3="2020" coin_fuse_cost_q4="2420" coin_fuse_cost_q5="2900" coin_fuse_cost_q6="3480" />
+</chrcoin>
+<chrcoin lv="132" >
+<coins coin_price_q1="1410" coin_price_q2="1690" coin_price_q3="2030" coin_price_q4="2440" coin_price_q5="2930" coin_price_q6="3520" coin_fuse_cost_q1="1410" coin_fuse_cost_q2="1690" coin_fuse_cost_q3="2030" coin_fuse_cost_q4="2440" coin_fuse_cost_q5="2930" coin_fuse_cost_q6="3520" />
+</chrcoin>
+<chrcoin lv="133" >
+<coins coin_price_q1="1420" coin_price_q2="1700" coin_price_q3="2040" coin_price_q4="2450" coin_price_q5="2940" coin_price_q6="3530" coin_fuse_cost_q1="1420" coin_fuse_cost_q2="1700" coin_fuse_cost_q3="2040" coin_fuse_cost_q4="2450" coin_fuse_cost_q5="2940" coin_fuse_cost_q6="3530" />
+</chrcoin>
+<chrcoin lv="134" >
+<coins coin_price_q1="1430" coin_price_q2="1720" coin_price_q3="2060" coin_price_q4="2470" coin_price_q5="2960" coin_price_q6="3550" coin_fuse_cost_q1="1430" coin_fuse_cost_q2="1720" coin_fuse_cost_q3="2060" coin_fuse_cost_q4="2470" coin_fuse_cost_q5="2960" coin_fuse_cost_q6="3550" />
+</chrcoin>
+<chrcoin lv="135" >
+<coins coin_price_q1="1440" coin_price_q2="1730" coin_price_q3="2080" coin_price_q4="2500" coin_price_q5="3000" coin_price_q6="3600" coin_fuse_cost_q1="1440" coin_fuse_cost_q2="1730" coin_fuse_cost_q3="2080" coin_fuse_cost_q4="2500" coin_fuse_cost_q5="3000" coin_fuse_cost_q6="3600" />
+</chrcoin>
+<chrcoin lv="136" >
+<coins coin_price_q1="1450" coin_price_q2="1740" coin_price_q3="2090" coin_price_q4="2510" coin_price_q5="3010" coin_price_q6="3610" coin_fuse_cost_q1="1450" coin_fuse_cost_q2="1740" coin_fuse_cost_q3="2090" coin_fuse_cost_q4="2510" coin_fuse_cost_q5="3010" coin_fuse_cost_q6="3610" />
+</chrcoin>
+<chrcoin lv="137" >
+<coins coin_price_q1="1460" coin_price_q2="1750" coin_price_q3="2100" coin_price_q4="2520" coin_price_q5="3020" coin_price_q6="3620" coin_fuse_cost_q1="1460" coin_fuse_cost_q2="1750" coin_fuse_cost_q3="2100" coin_fuse_cost_q4="2520" coin_fuse_cost_q5="3020" coin_fuse_cost_q6="3620" />
+</chrcoin>
+<chrcoin lv="138" >
+<coins coin_price_q1="1470" coin_price_q2="1760" coin_price_q3="2110" coin_price_q4="2530" coin_price_q5="3040" coin_price_q6="3650" coin_fuse_cost_q1="1470" coin_fuse_cost_q2="1760" coin_fuse_cost_q3="2110" coin_fuse_cost_q4="2530" coin_fuse_cost_q5="3040" coin_fuse_cost_q6="3650" />
+</chrcoin>
+<chrcoin lv="139" >
+<coins coin_price_q1="1480" coin_price_q2="1780" coin_price_q3="2140" coin_price_q4="2570" coin_price_q5="3080" coin_price_q6="3700" coin_fuse_cost_q1="1480" coin_fuse_cost_q2="1780" coin_fuse_cost_q3="2140" coin_fuse_cost_q4="2570" coin_fuse_cost_q5="3080" coin_fuse_cost_q6="3700" />
+</chrcoin>
+<chrcoin lv="140" >
+<coins coin_price_q1="1490" coin_price_q2="1790" coin_price_q3="2150" coin_price_q4="2580" coin_price_q5="3100" coin_price_q6="3720" coin_fuse_cost_q1="1490" coin_fuse_cost_q2="1790" coin_fuse_cost_q3="2150" coin_fuse_cost_q4="2580" coin_fuse_cost_q5="3100" coin_fuse_cost_q6="3720" />
+</chrcoin>
+<chrcoin lv="141" >
+<coins coin_price_q1="1500" coin_price_q2="1800" coin_price_q3="2160" coin_price_q4="2590" coin_price_q5="3110" coin_price_q6="3730" coin_fuse_cost_q1="1500" coin_fuse_cost_q2="1800" coin_fuse_cost_q3="2160" coin_fuse_cost_q4="2590" coin_fuse_cost_q5="3110" coin_fuse_cost_q6="3730" />
+</chrcoin>
+<chrcoin lv="142" >
+<coins coin_price_q1="1510" coin_price_q2="1810" coin_price_q3="2170" coin_price_q4="2600" coin_price_q5="3120" coin_price_q6="3740" coin_fuse_cost_q1="1510" coin_fuse_cost_q2="1810" coin_fuse_cost_q3="2170" coin_fuse_cost_q4="2600" coin_fuse_cost_q5="3120" coin_fuse_cost_q6="3740" />
+</chrcoin>
+<chrcoin lv="143" >
+<coins coin_price_q1="1520" coin_price_q2="1820" coin_price_q3="2180" coin_price_q4="2620" coin_price_q5="3140" coin_price_q6="3770" coin_fuse_cost_q1="1520" coin_fuse_cost_q2="1820" coin_fuse_cost_q3="2180" coin_fuse_cost_q4="2620" coin_fuse_cost_q5="3140" coin_fuse_cost_q6="3770" />
+</chrcoin>
+<chrcoin lv="144" >
+<coins coin_price_q1="1530" coin_price_q2="1840" coin_price_q3="2210" coin_price_q4="2650" coin_price_q5="3180" coin_price_q6="3820" coin_fuse_cost_q1="1530" coin_fuse_cost_q2="1840" coin_fuse_cost_q3="2210" coin_fuse_cost_q4="2650" coin_fuse_cost_q5="3180" coin_fuse_cost_q6="3820" />
+</chrcoin>
+<chrcoin lv="145" >
+<coins coin_price_q1="1540" coin_price_q2="1850" coin_price_q3="2220" coin_price_q4="2660" coin_price_q5="3190" coin_price_q6="3830" coin_fuse_cost_q1="1540" coin_fuse_cost_q2="1850" coin_fuse_cost_q3="2220" coin_fuse_cost_q4="2660" coin_fuse_cost_q5="3190" coin_fuse_cost_q6="3830" />
+</chrcoin>
+<chrcoin lv="146" >
+<coins coin_price_q1="1550" coin_price_q2="1860" coin_price_q3="2230" coin_price_q4="2680" coin_price_q5="3220" coin_price_q6="3860" coin_fuse_cost_q1="1550" coin_fuse_cost_q2="1860" coin_fuse_cost_q3="2230" coin_fuse_cost_q4="2680" coin_fuse_cost_q5="3220" coin_fuse_cost_q6="3860" />
+</chrcoin>
+<chrcoin lv="147" >
+<coins coin_price_q1="1560" coin_price_q2="1870" coin_price_q3="2240" coin_price_q4="2690" coin_price_q5="3230" coin_price_q6="3880" coin_fuse_cost_q1="1560" coin_fuse_cost_q2="1870" coin_fuse_cost_q3="2240" coin_fuse_cost_q4="2690" coin_fuse_cost_q5="3230" coin_fuse_cost_q6="3880" />
+</chrcoin>
+<chrcoin lv="148" >
+<coins coin_price_q1="1570" coin_price_q2="1880" coin_price_q3="2260" coin_price_q4="2710" coin_price_q5="3250" coin_price_q6="3900" coin_fuse_cost_q1="1570" coin_fuse_cost_q2="1880" coin_fuse_cost_q3="2260" coin_fuse_cost_q4="2710" coin_fuse_cost_q5="3250" coin_fuse_cost_q6="3900" />
+</chrcoin>
+<chrcoin lv="149" >
+<coins coin_price_q1="1580" coin_price_q2="1900" coin_price_q3="2280" coin_price_q4="2740" coin_price_q5="3290" coin_price_q6="3950" coin_fuse_cost_q1="1580" coin_fuse_cost_q2="1900" coin_fuse_cost_q3="2280" coin_fuse_cost_q4="2740" coin_fuse_cost_q5="3290" coin_fuse_cost_q6="3950" />
+</chrcoin>
+<chrcoin lv="150" >
+<coins coin_price_q1="1590" coin_price_q2="1910" coin_price_q3="2290" coin_price_q4="2750" coin_price_q5="3300" coin_price_q6="3960" coin_fuse_cost_q1="1590" coin_fuse_cost_q2="1910" coin_fuse_cost_q3="2290" coin_fuse_cost_q4="2750" coin_fuse_cost_q5="3300" coin_fuse_cost_q6="3960" />
+</chrcoin>
+<chrcoin lv="151" >
+<coins coin_price_q1="1600" coin_price_q2="1920" coin_price_q3="2300" coin_price_q4="2760" coin_price_q5="3310" coin_price_q6="3970" coin_fuse_cost_q1="1600" coin_fuse_cost_q2="1920" coin_fuse_cost_q3="2300" coin_fuse_cost_q4="2760" coin_fuse_cost_q5="3310" coin_fuse_cost_q6="3970" />
+</chrcoin>
+<chrcoin lv="152" >
+<coins coin_price_q1="1610" coin_price_q2="1930" coin_price_q3="2320" coin_price_q4="2780" coin_price_q5="3340" coin_price_q6="4010" coin_fuse_cost_q1="1610" coin_fuse_cost_q2="1930" coin_fuse_cost_q3="2320" coin_fuse_cost_q4="2780" coin_fuse_cost_q5="3340" coin_fuse_cost_q6="4010" />
+</chrcoin>
+<chrcoin lv="153" >
+<coins coin_price_q1="1620" coin_price_q2="1940" coin_price_q3="2330" coin_price_q4="2800" coin_price_q5="3360" coin_price_q6="4030" coin_fuse_cost_q1="1620" coin_fuse_cost_q2="1940" coin_fuse_cost_q3="2330" coin_fuse_cost_q4="2800" coin_fuse_cost_q5="3360" coin_fuse_cost_q6="4030" />
+</chrcoin>
+<chrcoin lv="154" >
+<coins coin_price_q1="1630" coin_price_q2="1960" coin_price_q3="2350" coin_price_q4="2820" coin_price_q5="3380" coin_price_q6="4060" coin_fuse_cost_q1="1630" coin_fuse_cost_q2="1960" coin_fuse_cost_q3="2350" coin_fuse_cost_q4="2820" coin_fuse_cost_q5="3380" coin_fuse_cost_q6="4060" />
+</chrcoin>
+<chrcoin lv="155" >
+<coins coin_price_q1="1640" coin_price_q2="1970" coin_price_q3="2360" coin_price_q4="2830" coin_price_q5="3400" coin_price_q6="4080" coin_fuse_cost_q1="1640" coin_fuse_cost_q2="1970" coin_fuse_cost_q3="2360" coin_fuse_cost_q4="2830" coin_fuse_cost_q5="3400" coin_fuse_cost_q6="4080" />
+</chrcoin>
+<chrcoin lv="156" >
+<coins coin_price_q1="1650" coin_price_q2="1980" coin_price_q3="2380" coin_price_q4="2860" coin_price_q5="3430" coin_price_q6="4120" coin_fuse_cost_q1="1650" coin_fuse_cost_q2="1980" coin_fuse_cost_q3="2380" coin_fuse_cost_q4="2860" coin_fuse_cost_q5="3430" coin_fuse_cost_q6="4120" />
+</chrcoin>
+<chrcoin lv="157" >
+<coins coin_price_q1="1660" coin_price_q2="1990" coin_price_q3="2390" coin_price_q4="2870" coin_price_q5="3440" coin_price_q6="4130" coin_fuse_cost_q1="1660" coin_fuse_cost_q2="1990" coin_fuse_cost_q3="2390" coin_fuse_cost_q4="2870" coin_fuse_cost_q5="3440" coin_fuse_cost_q6="4130" />
+</chrcoin>
+<chrcoin lv="158" >
+<coins coin_price_q1="1670" coin_price_q2="2000" coin_price_q3="2400" coin_price_q4="2880" coin_price_q5="3460" coin_price_q6="4150" coin_fuse_cost_q1="1670" coin_fuse_cost_q2="2000" coin_fuse_cost_q3="2400" coin_fuse_cost_q4="2880" coin_fuse_cost_q5="3460" coin_fuse_cost_q6="4150" />
+</chrcoin>
+<chrcoin lv="159" >
+<coins coin_price_q1="1680" coin_price_q2="2020" coin_price_q3="2420" coin_price_q4="2900" coin_price_q5="3480" coin_price_q6="4180" coin_fuse_cost_q1="1680" coin_fuse_cost_q2="2020" coin_fuse_cost_q3="2420" coin_fuse_cost_q4="2900" coin_fuse_cost_q5="3480" coin_fuse_cost_q6="4180" />
+</chrcoin>
+<chrcoin lv="160" >
+<coins coin_price_q1="1690" coin_price_q2="2030" coin_price_q3="2440" coin_price_q4="2930" coin_price_q5="3520" coin_price_q6="4220" coin_fuse_cost_q1="1690" coin_fuse_cost_q2="2030" coin_fuse_cost_q3="2440" coin_fuse_cost_q4="2930" coin_fuse_cost_q5="3520" coin_fuse_cost_q6="4220" />
+</chrcoin>
+<chrcoin lv="161" >
+<coins coin_price_q1="1700" coin_price_q2="2040" coin_price_q3="2450" coin_price_q4="2940" coin_price_q5="3530" coin_price_q6="4240" coin_fuse_cost_q1="1700" coin_fuse_cost_q2="2040" coin_fuse_cost_q3="2450" coin_fuse_cost_q4="2940" coin_fuse_cost_q5="3530" coin_fuse_cost_q6="4240" />
+</chrcoin>
+<chrcoin lv="162" >
+<coins coin_price_q1="1710" coin_price_q2="2050" coin_price_q3="2460" coin_price_q4="2950" coin_price_q5="3540" coin_price_q6="4250" coin_fuse_cost_q1="1710" coin_fuse_cost_q2="2050" coin_fuse_cost_q3="2460" coin_fuse_cost_q4="2950" coin_fuse_cost_q5="3540" coin_fuse_cost_q6="4250" />
+</chrcoin>
+<chrcoin lv="163" >
+<coins coin_price_q1="1720" coin_price_q2="2060" coin_price_q3="2470" coin_price_q4="2960" coin_price_q5="3550" coin_price_q6="4260" coin_fuse_cost_q1="1720" coin_fuse_cost_q2="2060" coin_fuse_cost_q3="2470" coin_fuse_cost_q4="2960" coin_fuse_cost_q5="3550" coin_fuse_cost_q6="4260" />
+</chrcoin>
+<chrcoin lv="164" >
+<coins coin_price_q1="1730" coin_price_q2="2080" coin_price_q3="2500" coin_price_q4="3000" coin_price_q5="3600" coin_price_q6="4320" coin_fuse_cost_q1="1730" coin_fuse_cost_q2="2080" coin_fuse_cost_q3="2500" coin_fuse_cost_q4="3000" coin_fuse_cost_q5="3600" coin_fuse_cost_q6="4320" />
+</chrcoin>
+<chrcoin lv="165" >
+<coins coin_price_q1="1740" coin_price_q2="2090" coin_price_q3="2510" coin_price_q4="3010" coin_price_q5="3610" coin_price_q6="4330" coin_fuse_cost_q1="1740" coin_fuse_cost_q2="2090" coin_fuse_cost_q3="2510" coin_fuse_cost_q4="3010" coin_fuse_cost_q5="3610" coin_fuse_cost_q6="4330" />
+</chrcoin>
+<chrcoin lv="166" >
+<coins coin_price_q1="1750" coin_price_q2="2100" coin_price_q3="2520" coin_price_q4="3020" coin_price_q5="3620" coin_price_q6="4340" coin_fuse_cost_q1="1750" coin_fuse_cost_q2="2100" coin_fuse_cost_q3="2520" coin_fuse_cost_q4="3020" coin_fuse_cost_q5="3620" coin_fuse_cost_q6="4340" />
+</chrcoin>
+<chrcoin lv="167" >
+<coins coin_price_q1="1760" coin_price_q2="2110" coin_price_q3="2530" coin_price_q4="3040" coin_price_q5="3650" coin_price_q6="4380" coin_fuse_cost_q1="1760" coin_fuse_cost_q2="2110" coin_fuse_cost_q3="2530" coin_fuse_cost_q4="3040" coin_fuse_cost_q5="3650" coin_fuse_cost_q6="4380" />
+</chrcoin>
+<chrcoin lv="168" >
+<coins coin_price_q1="1770" coin_price_q2="2120" coin_price_q3="2540" coin_price_q4="3050" coin_price_q5="3660" coin_price_q6="4390" coin_fuse_cost_q1="1770" coin_fuse_cost_q2="2120" coin_fuse_cost_q3="2540" coin_fuse_cost_q4="3050" coin_fuse_cost_q5="3660" coin_fuse_cost_q6="4390" />
+</chrcoin>
+<chrcoin lv="169" >
+<coins coin_price_q1="1780" coin_price_q2="2140" coin_price_q3="2570" coin_price_q4="3080" coin_price_q5="3700" coin_price_q6="4440" coin_fuse_cost_q1="1780" coin_fuse_cost_q2="2140" coin_fuse_cost_q3="2570" coin_fuse_cost_q4="3080" coin_fuse_cost_q5="3700" coin_fuse_cost_q6="4440" />
+</chrcoin>
+<chrcoin lv="170" >
+<coins coin_price_q1="1790" coin_price_q2="2150" coin_price_q3="2580" coin_price_q4="3100" coin_price_q5="3720" coin_price_q6="4460" coin_fuse_cost_q1="1790" coin_fuse_cost_q2="2150" coin_fuse_cost_q3="2580" coin_fuse_cost_q4="3100" coin_fuse_cost_q5="3720" coin_fuse_cost_q6="4460" />
+</chrcoin>
+<chrcoin lv="171" >
+<coins coin_price_q1="1800" coin_price_q2="2160" coin_price_q3="2590" coin_price_q4="3110" coin_price_q5="3730" coin_price_q6="4480" coin_fuse_cost_q1="1800" coin_fuse_cost_q2="2160" coin_fuse_cost_q3="2590" coin_fuse_cost_q4="3110" coin_fuse_cost_q5="3730" coin_fuse_cost_q6="4480" />
+</chrcoin>
+<chrcoin lv="172" >
+<coins coin_price_q1="1810" coin_price_q2="2170" coin_price_q3="2600" coin_price_q4="3120" coin_price_q5="3740" coin_price_q6="4490" coin_fuse_cost_q1="1810" coin_fuse_cost_q2="2170" coin_fuse_cost_q3="2600" coin_fuse_cost_q4="3120" coin_fuse_cost_q5="3740" coin_fuse_cost_q6="4490" />
+</chrcoin>
+<chrcoin lv="173" >
+<coins coin_price_q1="1820" coin_price_q2="2180" coin_price_q3="2620" coin_price_q4="3140" coin_price_q5="3770" coin_price_q6="4520" coin_fuse_cost_q1="1820" coin_fuse_cost_q2="2180" coin_fuse_cost_q3="2620" coin_fuse_cost_q4="3140" coin_fuse_cost_q5="3770" coin_fuse_cost_q6="4520" />
+</chrcoin>
+<chrcoin lv="174" >
+<coins coin_price_q1="1830" coin_price_q2="2200" coin_price_q3="2640" coin_price_q4="3170" coin_price_q5="3800" coin_price_q6="4560" coin_fuse_cost_q1="1830" coin_fuse_cost_q2="2200" coin_fuse_cost_q3="2640" coin_fuse_cost_q4="3170" coin_fuse_cost_q5="3800" coin_fuse_cost_q6="4560" />
+</chrcoin>
+<chrcoin lv="175" >
+<coins coin_price_q1="1840" coin_price_q2="2210" coin_price_q3="2650" coin_price_q4="3180" coin_price_q5="3820" coin_price_q6="4580" coin_fuse_cost_q1="1840" coin_fuse_cost_q2="2210" coin_fuse_cost_q3="2650" coin_fuse_cost_q4="3180" coin_fuse_cost_q5="3820" coin_fuse_cost_q6="4580" />
+</chrcoin>
+<chrcoin lv="176" >
+<coins coin_price_q1="1850" coin_price_q2="2220" coin_price_q3="2660" coin_price_q4="3190" coin_price_q5="3830" coin_price_q6="4600" coin_fuse_cost_q1="1850" coin_fuse_cost_q2="2220" coin_fuse_cost_q3="2660" coin_fuse_cost_q4="3190" coin_fuse_cost_q5="3830" coin_fuse_cost_q6="4600" />
+</chrcoin>
+<chrcoin lv="177" >
+<coins coin_price_q1="1860" coin_price_q2="2230" coin_price_q3="2680" coin_price_q4="3220" coin_price_q5="3860" coin_price_q6="4630" coin_fuse_cost_q1="1860" coin_fuse_cost_q2="2230" coin_fuse_cost_q3="2680" coin_fuse_cost_q4="3220" coin_fuse_cost_q5="3860" coin_fuse_cost_q6="4630" />
+</chrcoin>
+<chrcoin lv="178" >
+<coins coin_price_q1="1870" coin_price_q2="2240" coin_price_q3="2690" coin_price_q4="3230" coin_price_q5="3880" coin_price_q6="4660" coin_fuse_cost_q1="1870" coin_fuse_cost_q2="2240" coin_fuse_cost_q3="2690" coin_fuse_cost_q4="3230" coin_fuse_cost_q5="3880" coin_fuse_cost_q6="4660" />
+</chrcoin>
+<chrcoin lv="179" >
+<coins coin_price_q1="1880" coin_price_q2="2260" coin_price_q3="2710" coin_price_q4="3250" coin_price_q5="3900" coin_price_q6="4680" coin_fuse_cost_q1="1880" coin_fuse_cost_q2="2260" coin_fuse_cost_q3="2710" coin_fuse_cost_q4="3250" coin_fuse_cost_q5="3900" coin_fuse_cost_q6="4680" />
+</chrcoin>
+<chrcoin lv="180" >
+<coins coin_price_q1="1890" coin_price_q2="2270" coin_price_q3="2720" coin_price_q4="3260" coin_price_q5="3910" coin_price_q6="4690" coin_fuse_cost_q1="1890" coin_fuse_cost_q2="2270" coin_fuse_cost_q3="2720" coin_fuse_cost_q4="3260" coin_fuse_cost_q5="3910" coin_fuse_cost_q6="4690" />
+</chrcoin>
+<chrcoin lv="181" >
+<coins coin_price_q1="1900" coin_price_q2="2280" coin_price_q3="2740" coin_price_q4="3290" coin_price_q5="3950" coin_price_q6="4740" coin_fuse_cost_q1="1900" coin_fuse_cost_q2="2280" coin_fuse_cost_q3="2740" coin_fuse_cost_q4="3290" coin_fuse_cost_q5="3950" coin_fuse_cost_q6="4740" />
+</chrcoin>
+<chrcoin lv="182" >
+<coins coin_price_q1="1910" coin_price_q2="2290" coin_price_q3="2750" coin_price_q4="3300" coin_price_q5="3960" coin_price_q6="4750" coin_fuse_cost_q1="1910" coin_fuse_cost_q2="2290" coin_fuse_cost_q3="2750" coin_fuse_cost_q4="3300" coin_fuse_cost_q5="3960" coin_fuse_cost_q6="4750" />
+</chrcoin>
+<chrcoin lv="183" >
+<coins coin_price_q1="1920" coin_price_q2="2300" coin_price_q3="2760" coin_price_q4="3310" coin_price_q5="3970" coin_price_q6="4760" coin_fuse_cost_q1="1920" coin_fuse_cost_q2="2300" coin_fuse_cost_q3="2760" coin_fuse_cost_q4="3310" coin_fuse_cost_q5="3970" coin_fuse_cost_q6="4760" />
+</chrcoin>
+<chrcoin lv="184" >
+<coins coin_price_q1="1930" coin_price_q2="2320" coin_price_q3="2780" coin_price_q4="3340" coin_price_q5="4010" coin_price_q6="4810" coin_fuse_cost_q1="1930" coin_fuse_cost_q2="2320" coin_fuse_cost_q3="2780" coin_fuse_cost_q4="3340" coin_fuse_cost_q5="4010" coin_fuse_cost_q6="4810" />
+</chrcoin>
+<chrcoin lv="185" >
+<coins coin_price_q1="1940" coin_price_q2="2330" coin_price_q3="2800" coin_price_q4="3360" coin_price_q5="4030" coin_price_q6="4840" coin_fuse_cost_q1="1940" coin_fuse_cost_q2="2330" coin_fuse_cost_q3="2800" coin_fuse_cost_q4="3360" coin_fuse_cost_q5="4030" coin_fuse_cost_q6="4840" />
+</chrcoin>
+<chrcoin lv="186" >
+<coins coin_price_q1="1950" coin_price_q2="2340" coin_price_q3="2810" coin_price_q4="3370" coin_price_q5="4040" coin_price_q6="4850" coin_fuse_cost_q1="1950" coin_fuse_cost_q2="2340" coin_fuse_cost_q3="2810" coin_fuse_cost_q4="3370" coin_fuse_cost_q5="4040" coin_fuse_cost_q6="4850" />
+</chrcoin>
+<chrcoin lv="187" >
+<coins coin_price_q1="1960" coin_price_q2="2350" coin_price_q3="2820" coin_price_q4="3380" coin_price_q5="4060" coin_price_q6="4870" coin_fuse_cost_q1="1960" coin_fuse_cost_q2="2350" coin_fuse_cost_q3="2820" coin_fuse_cost_q4="3380" coin_fuse_cost_q5="4060" coin_fuse_cost_q6="4870" />
+</chrcoin>
+<chrcoin lv="188" >
+<coins coin_price_q1="1970" coin_price_q2="2360" coin_price_q3="2830" coin_price_q4="3400" coin_price_q5="4080" coin_price_q6="4900" coin_fuse_cost_q1="1970" coin_fuse_cost_q2="2360" coin_fuse_cost_q3="2830" coin_fuse_cost_q4="3400" coin_fuse_cost_q5="4080" coin_fuse_cost_q6="4900" />
+</chrcoin>
+<chrcoin lv="189" >
+<coins coin_price_q1="1980" coin_price_q2="2380" coin_price_q3="2860" coin_price_q4="3430" coin_price_q5="4120" coin_price_q6="4940" coin_fuse_cost_q1="1980" coin_fuse_cost_q2="2380" coin_fuse_cost_q3="2860" coin_fuse_cost_q4="3430" coin_fuse_cost_q5="4120" coin_fuse_cost_q6="4940" />
+</chrcoin>
+<chrcoin lv="190" >
+<coins coin_price_q1="1990" coin_price_q2="2390" coin_price_q3="2870" coin_price_q4="3440" coin_price_q5="4130" coin_price_q6="4960" coin_fuse_cost_q1="1990" coin_fuse_cost_q2="2390" coin_fuse_cost_q3="2870" coin_fuse_cost_q4="3440" coin_fuse_cost_q5="4130" coin_fuse_cost_q6="4960" />
+</chrcoin>
+<chrcoin lv="191" >
+<coins coin_price_q1="2000" coin_price_q2="2400" coin_price_q3="2880" coin_price_q4="3460" coin_price_q5="4150" coin_price_q6="4980" coin_fuse_cost_q1="2000" coin_fuse_cost_q2="2400" coin_fuse_cost_q3="2880" coin_fuse_cost_q4="3460" coin_fuse_cost_q5="4150" coin_fuse_cost_q6="4980" />
+</chrcoin>
+<chrcoin lv="192" >
+<coins coin_price_q1="2010" coin_price_q2="2410" coin_price_q3="2890" coin_price_q4="3470" coin_price_q5="4160" coin_price_q6="4990" coin_fuse_cost_q1="2010" coin_fuse_cost_q2="2410" coin_fuse_cost_q3="2890" coin_fuse_cost_q4="3470" coin_fuse_cost_q5="4160" coin_fuse_cost_q6="4990" />
+</chrcoin>
+<chrcoin lv="193" >
+<coins coin_price_q1="2020" coin_price_q2="2420" coin_price_q3="2900" coin_price_q4="3480" coin_price_q5="4180" coin_price_q6="5020" coin_fuse_cost_q1="2020" coin_fuse_cost_q2="2420" coin_fuse_cost_q3="2900" coin_fuse_cost_q4="3480" coin_fuse_cost_q5="4180" coin_fuse_cost_q6="5020" />
+</chrcoin>
+<chrcoin lv="194" >
+<coins coin_price_q1="2030" coin_price_q2="2440" coin_price_q3="2930" coin_price_q4="3520" coin_price_q5="4220" coin_price_q6="5060" coin_fuse_cost_q1="2030" coin_fuse_cost_q2="2440" coin_fuse_cost_q3="2930" coin_fuse_cost_q4="3520" coin_fuse_cost_q5="4220" coin_fuse_cost_q6="5060" />
+</chrcoin>
+<chrcoin lv="195" >
+<coins coin_price_q1="2040" coin_price_q2="2450" coin_price_q3="2940" coin_price_q4="3530" coin_price_q5="4240" coin_price_q6="5090" coin_fuse_cost_q1="2040" coin_fuse_cost_q2="2450" coin_fuse_cost_q3="2940" coin_fuse_cost_q4="3530" coin_fuse_cost_q5="4240" coin_fuse_cost_q6="5090" />
+</chrcoin>
+<chrcoin lv="196" >
+<coins coin_price_q1="2050" coin_price_q2="2460" coin_price_q3="2950" coin_price_q4="3540" coin_price_q5="4250" coin_price_q6="5100" coin_fuse_cost_q1="2050" coin_fuse_cost_q2="2460" coin_fuse_cost_q3="2950" coin_fuse_cost_q4="3540" coin_fuse_cost_q5="4250" coin_fuse_cost_q6="5100" />
+</chrcoin>
+<chrcoin lv="197" >
+<coins coin_price_q1="2060" coin_price_q2="2470" coin_price_q3="2960" coin_price_q4="3550" coin_price_q5="4260" coin_price_q6="5110" coin_fuse_cost_q1="2060" coin_fuse_cost_q2="2470" coin_fuse_cost_q3="2960" coin_fuse_cost_q4="3550" coin_fuse_cost_q5="4260" coin_fuse_cost_q6="5110" />
+</chrcoin>
+<chrcoin lv="198" >
+<coins coin_price_q1="2070" coin_price_q2="2480" coin_price_q3="2980" coin_price_q4="3580" coin_price_q5="4300" coin_price_q6="5160" coin_fuse_cost_q1="2070" coin_fuse_cost_q2="2480" coin_fuse_cost_q3="2980" coin_fuse_cost_q4="3580" coin_fuse_cost_q5="4300" coin_fuse_cost_q6="5160" />
+</chrcoin>
+<chrcoin lv="199" >
+<coins coin_price_q1="2080" coin_price_q2="2500" coin_price_q3="3000" coin_price_q4="3600" coin_price_q5="4320" coin_price_q6="5180" coin_fuse_cost_q1="2080" coin_fuse_cost_q2="2500" coin_fuse_cost_q3="3000" coin_fuse_cost_q4="3600" coin_fuse_cost_q5="4320" coin_fuse_cost_q6="5180" />
+</chrcoin>
+<chrcoin lv="200" >
+<coins coin_price_q1="2090" coin_price_q2="2510" coin_price_q3="3010" coin_price_q4="3610" coin_price_q5="4330" coin_price_q6="5200" coin_fuse_cost_q1="2090" coin_fuse_cost_q2="2510" coin_fuse_cost_q3="3010" coin_fuse_cost_q4="3610" coin_fuse_cost_q5="4330" coin_fuse_cost_q6="5200" />
+</chrcoin>
+</chrcoins>

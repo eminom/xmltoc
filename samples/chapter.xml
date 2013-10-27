@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chapters>
+<chapter id="40001" name="Warpwood Ruins" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40002" name="Dusk Riverbank" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40003" name="Dire Chasm" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40004" name="Blasted Temple" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40005" name="Red Barrens" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40006" name="Thunder Keep" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40007" name="Terrace of Moonlight" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40008" name="Coldwind Cliffs" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40009" name="Halls of the Dead" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40010" name="Throne of the Tempest" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40011" name="Frostfang Citadel" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="40012" name="Lost Sanctum" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="0" max_times="-1" time_disp_flag="0" start_time="" hold_time="" cycle_time="" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41001" name="Warpwood Ruins" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41002" name="Dusk Riverbank" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41003" name="Dire Chasm" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41004" name="Blasted Temple" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41005" name="Red Barrens" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41006" name="Thunder Keep" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41007" name="Terrace of Moonlight" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41008" name="Coldwind Cliffs" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41009" name="Halls of the Dead" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41010" name="Throne of the Tempest" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_003.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41011" name="Frostfang Citadel" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_001.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="41012" name="Lost Sanctum" player_lv_restrict="0" stages="50001~50002~50003~50004~50005" desc="" type="1" max_times="2" time_disp_flag="0" start_time="0~0~0~4~0~0" hold_time="86399" cycle_time="86400" >
+<img background="chapter_background_002.png" board="chapter_board_001.png" />
+<sound bgm="" />
+</chapter>
+<chapter id="42001" name="Event Chapter" player_lv_restrict="0" stages="50005" desc="" type="2" max_times="-1" time_disp_flag="1" start_time="2013~10~1~8~0~0" hold_time="57600" cycle_time="172800" >
+<img background="chapter_background_003.png" board="chapter_board_002.png" />
+<sound bgm="" />
+</chapter>
+</chapters>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<equipments>
+<equipment id="20001" name="warrior eqps" quality="10" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="2" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="120" mp="0" patk="44" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="24" grow_mp="0" grow_patk="8.8" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20002" name="warrior eqps" quality="20" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="3" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="180" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="36" grow_mp="0" grow_patk="13" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20003" name="warrior eqps" quality="30" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="4" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="270" mp="0" patk="88" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="48" grow_mp="0" grow_patk="18" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20004" name="warrior eqps" quality="40" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="5" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="405" mp="0" patk="110" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="60" grow_mp="0" grow_patk="22" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20005" name="warrior eqps" quality="50" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="6" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="608" mp="0" patk="132" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="72" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20006" name="warrior eqps" quality="51" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="7" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="790" mp="0" patk="145" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="79" grow_mp="0" grow_patk="29" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20007" name="warrior eqps" quality="52" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="8" evomtrl="1~1" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="1027" mp="0" patk="158" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="86" grow_mp="0" grow_patk="32" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+<equipment id="20008" name="warrior eqps" quality="53" part="1" class_restrict="2" lv_restrict="1" desc="warrior eqps" src="" evoid="0" evomtrl="0" lvlimit="10" >
+<attributes pdmg_ratio="0" mdmg_ratio="0" hp="1335" mp="0" patk="172" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="94" grow_mp="0" grow_patk="34" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</equipment>
+</equipments>

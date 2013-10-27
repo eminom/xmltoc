@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rewards>
+<reward id="60001" name="Silvermoon Wood 1" desc="" >
+<attribute icon="char_head_10001.png" frame="char_headframe_001.png" classicon="char_classicon_001.png" pre_id="0" type="0" type_factor="0" condition="0" condition_factor="0" />
+</reward>
+</rewards>

@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chrfuseexps>
+<chrfuseexp lv="1" >
+<exps exp_q1="100" exp_q2="120" exp_q3="140" exp_q4="170" exp_q5="200" exp_q6="240" />
+</chrfuseexp>
+<chrfuseexp lv="2" >
+<exps exp_q1="110" exp_q2="130" exp_q3="160" exp_q4="190" exp_q5="230" exp_q6="280" />
+</chrfuseexp>
+<chrfuseexp lv="3" >
+<exps exp_q1="240" exp_q2="290" exp_q3="350" exp_q4="420" exp_q5="500" exp_q6="600" />
+</chrfuseexp>
+<chrfuseexp lv="4" >
+<exps exp_q1="260" exp_q2="310" exp_q3="370" exp_q4="440" exp_q5="530" exp_q6="640" />
+</chrfuseexp>
+<chrfuseexp lv="5" >
+<exps exp_q1="280" exp_q2="340" exp_q3="410" exp_q4="490" exp_q5="590" exp_q6="710" />
+</chrfuseexp>
+<chrfuseexp lv="6" >
+<exps exp_q1="300" exp_q2="360" exp_q3="430" exp_q4="520" exp_q5="620" exp_q6="740" />
+</chrfuseexp>
+<chrfuseexp lv="7" >
+<exps exp_q1="320" exp_q2="380" exp_q3="460" exp_q4="550" exp_q5="660" exp_q6="790" />
+</chrfuseexp>
+<chrfuseexp lv="8" >
+<exps exp_q1="510" exp_q2="610" exp_q3="730" exp_q4="880" exp_q5="1060" exp_q6="1270" />
+</chrfuseexp>
+<chrfuseexp lv="9" >
+<exps exp_q1="540" exp_q2="650" exp_q3="780" exp_q4="940" exp_q5="1130" exp_q6="1360" />
+</chrfuseexp>
+<chrfuseexp lv="10" >
+<exps exp_q1="570" exp_q2="680" exp_q3="820" exp_q4="980" exp_q5="1180" exp_q6="1420" />
+</chrfuseexp>
+<chrfuseexp lv="11" >
+<exps exp_q1="600" exp_q2="720" exp_q3="860" exp_q4="1030" exp_q5="1240" exp_q6="1490" />
+</chrfuseexp>
+<chrfuseexp lv="12" >
+<exps exp_q1="630" exp_q2="760" exp_q3="910" exp_q4="1090" exp_q5="1310" exp_q6="1570" />
+</chrfuseexp>
+<chrfuseexp lv="13" >
+<exps exp_q1="880" exp_q2="1060" exp_q3="1270" exp_q4="1520" exp_q5="1820" exp_q6="2180" />
+</chrfuseexp>
+<chrfuseexp lv="14" >
+<exps exp_q1="920" exp_q2="1100" exp_q3="1320" exp_q4="1580" exp_q5="1900" exp_q6="2280" />
+</chrfuseexp>
+<chrfuseexp lv="15" >
+<exps exp_q1="960" exp_q2="1150" exp_q3="1380" exp_q4="1660" exp_q5="1990" exp_q6="2390" />
+</chrfuseexp>
+<chrfuseexp lv="16" >
+<exps exp_q1="1000" exp_q2="1200" exp_q3="1440" exp_q4="1730" exp_q5="2080" exp_q6="2500" />
+</chrfuseexp>
+<chrfuseexp lv="17" >
+<exps exp_q1="1040" exp_q2="1250" exp_q3="1500" exp_q4="1800" exp_q5="2160" exp_q6="2590" />
+</chrfuseexp>
+<chrfuseexp lv="18" >
+<exps exp_q1="1350" exp_q2="1620" exp_q3="1940" exp_q4="2330" exp_q5="2800" exp_q6="3360" />
+</chrfuseexp>
+<chrfuseexp lv="19" >
+<exps exp_q1="1400" exp_q2="1680" exp_q3="2020" exp_q4="2420" exp_q5="2900" exp_q6="3480" />
+</chrfuseexp>
+<chrfuseexp lv="20" >
+<exps exp_q1="1450" exp_q2="1740" exp_q3="2090" exp_q4="2510" exp_q5="3010" exp_q6="3610" />
+</chrfuseexp>
+<chrfuseexp lv="21" >
+<exps exp_q1="1500" exp_q2="1800" exp_q3="2160" exp_q4="2590" exp_q5="3110" exp_q6="3730" />
+</chrfuseexp>
+<chrfuseexp lv="22" >
+<exps exp_q1="1550" exp_q2="1860" exp_q3="2230" exp_q4="2680" exp_q5="3220" exp_q6="3860" />
+</chrfuseexp>
+<chrfuseexp lv="23" >
+<exps exp_q1="1920" exp_q2="2300" exp_q3="2760" exp_q4="3310" exp_q5="3970" exp_q6="4760" />
+</chrfuseexp>
+<chrfuseexp lv="24" >
+<exps exp_q1="1980" exp_q2="2380" exp_q3="2860" exp_q4="3430" exp_q5="4120" exp_q6="4940" />
+</chrfuseexp>
+<chrfuseexp lv="25" >
+<exps exp_q1="2040" exp_q2="2450" exp_q3="2940" exp_q4="3530" exp_q5="4240" exp_q6="5090" />
+</chrfuseexp>
+<chrfuseexp lv="26" >
+<exps exp_q1="2100" exp_q2="2520" exp_q3="3020" exp_q4="3620" exp_q5="4340" exp_q6="5210" />
+</chrfuseexp>
+<chrfuseexp lv="27" >
+<exps exp_q1="2160" exp_q2="2590" exp_q3="3110" exp_q4="3730" exp_q5="4480" exp_q6="5380" />
+</chrfuseexp>
+<chrfuseexp lv="28" >
+<exps exp_q1="2590" exp_q2="3110" exp_q3="3730" exp_q4="4480" exp_q5="5380" exp_q6="6460" />
+</chrfuseexp>
+<chrfuseexp lv="29" >
+<exps exp_q1="2660" exp_q2="3190" exp_q3="3830" exp_q4="4600" exp_q5="5520" exp_q6="6620" />
+</chrfuseexp>
+<chrfuseexp lv="30" >
+<exps exp_q1="2730" exp_q2="3280" exp_q3="3940" exp_q4="4730" exp_q5="5680" exp_q6="6820" />
+</chrfuseexp>
+<chrfuseexp lv="31" >
+<exps exp_q1="2800" exp_q2="3360" exp_q3="4030" exp_q4="4840" exp_q5="5810" exp_q6="6970" />
+</chrfuseexp>
+<chrfuseexp lv="32" >
+<exps exp_q1="2870" exp_q2="3440" exp_q3="4130" exp_q4="4960" exp_q5="5950" exp_q6="7140" />
+</chrfuseexp>
+<chrfuseexp lv="33" >
+<exps exp_q1="3360" exp_q2="4030" exp_q3="4840" exp_q4="5810" exp_q5="6970" exp_q6="8360" />
+</chrfuseexp>
+<chrfuseexp lv="34" >
+<exps exp_q1="3440" exp_q2="4130" exp_q3="4960" exp_q4="5950" exp_q5="7140" exp_q6="8570" />
+</chrfuseexp>
+<chrfuseexp lv="35" >
+<exps exp_q1="3520" exp_q2="4220" exp_q3="5060" exp_q4="6070" exp_q5="7280" exp_q6="8740" />
+</chrfuseexp>
+<chrfuseexp lv="36" >
+<exps exp_q1="3600" exp_q2="4320" exp_q3="5180" exp_q4="6220" exp_q5="7460" exp_q6="8950" />
+</chrfuseexp>
+<chrfuseexp lv="37" >
+<exps exp_q1="3680" exp_q2="4420" exp_q3="5300" exp_q4="6360" exp_q5="7630" exp_q6="9160" />
+</chrfuseexp>
+<chrfuseexp lv="38" >
+<exps exp_q1="4230" exp_q2="5080" exp_q3="6100" exp_q4="7320" exp_q5="8780" exp_q6="10540" />
+</chrfuseexp>
+<chrfuseexp lv="39" >
+<exps exp_q1="4320" exp_q2="5180" exp_q3="6220" exp_q4="7460" exp_q5="8950" exp_q6="10740" />
+</chrfuseexp>
+<chrfuseexp lv="40" >
+<exps exp_q1="4410" exp_q2="5290" exp_q3="6350" exp_q4="7620" exp_q5="9140" exp_q6="10970" />
+</chrfuseexp>
+<chrfuseexp lv="41" >
+<exps exp_q1="4500" exp_q2="5400" exp_q3="6480" exp_q4="7780" exp_q5="9340" exp_q6="11210" />
+</chrfuseexp>
+<chrfuseexp lv="42" >
+<exps exp_q1="4590" exp_q2="5510" exp_q3="6610" exp_q4="7930" exp_q5="9520" exp_q6="11420" />
+</chrfuseexp>
+<chrfuseexp lv="43" >
+<exps exp_q1="5200" exp_q2="6240" exp_q3="7490" exp_q4="8990" exp_q5="10790" exp_q6="12950" />
+</chrfuseexp>
+<chrfuseexp lv="44" >
+<exps exp_q1="5300" exp_q2="6360" exp_q3="7630" exp_q4="9160" exp_q5="10990" exp_q6="13190" />
+</chrfuseexp>
+<chrfuseexp lv="45" >
+<exps exp_q1="5400" exp_q2="6480" exp_q3="7780" exp_q4="9340" exp_q5="11210" exp_q6="13450" />
+</chrfuseexp>
+<chrfuseexp lv="46" >
+<exps exp_q1="5500" exp_q2="6600" exp_q3="7920" exp_q4="9500" exp_q5="11400" exp_q6="13680" />
+</chrfuseexp>
+<chrfuseexp lv="47" >
+<exps exp_q1="5600" exp_q2="6720" exp_q3="8060" exp_q4="9670" exp_q5="11600" exp_q6="13920" />
+</chrfuseexp>
+<chrfuseexp lv="48" >
+<exps exp_q1="6270" exp_q2="7520" exp_q3="9020" exp_q4="10820" exp_q5="12980" exp_q6="15580" />
+</chrfuseexp>
+<chrfuseexp lv="49" >
+<exps exp_q1="6380" exp_q2="7660" exp_q3="9190" exp_q4="11030" exp_q5="13240" exp_q6="15890" />
+</chrfuseexp>
+<chrfuseexp lv="50" >
+<exps exp_q1="6490" exp_q2="7790" exp_q3="9350" exp_q4="11220" exp_q5="13460" exp_q6="16150" />
+</chrfuseexp>
+<chrfuseexp lv="51" >
+<exps exp_q1="6600" exp_q2="7920" exp_q3="9500" exp_q4="11400" exp_q5="13680" exp_q6="16420" />
+</chrfuseexp>
+<chrfuseexp lv="52" >
+<exps exp_q1="6710" exp_q2="8050" exp_q3="9660" exp_q4="11590" exp_q5="13910" exp_q6="16690" />
+</chrfuseexp>
+<chrfuseexp lv="53" >
+<exps exp_q1="7440" exp_q2="8930" exp_q3="10720" exp_q4="12860" exp_q5="15430" exp_q6="18520" />
+</chrfuseexp>
+<chrfuseexp lv="54" >
+<exps exp_q1="7560" exp_q2="9070" exp_q3="10880" exp_q4="13060" exp_q5="15670" exp_q6="18800" />
+</chrfuseexp>
+<chrfuseexp lv="55" >
+<exps exp_q1="7680" exp_q2="9220" exp_q3="11060" exp_q4="13270" exp_q5="15920" exp_q6="19100" />
+</chrfuseexp>
+<chrfuseexp lv="56" >
+<exps exp_q1="7800" exp_q2="9360" exp_q3="11230" exp_q4="13480" exp_q5="16180" exp_q6="19420" />
+</chrfuseexp>
+<chrfuseexp lv="57" >
+<exps exp_q1="7920" exp_q2="9500" exp_q3="11400" exp_q4="13680" exp_q5="16420" exp_q6="19700" />
+</chrfuseexp>
+<chrfuseexp lv="58" >
+<exps exp_q1="8710" exp_q2="10450" exp_q3="12540" exp_q4="15050" exp_q5="18060" exp_q6="21670" />
+</chrfuseexp>
+<chrfuseexp lv="59" >
+<exps exp_q1="8840" exp_q2="10610" exp_q3="12730" exp_q4="15280" exp_q5="18340" exp_q6="22010" />
+</chrfuseexp>
+<chrfuseexp lv="60" >
+<exps exp_q1="8970" exp_q2="10760" exp_q3="12910" exp_q4="15490" exp_q5="18590" exp_q6="22310" />
+</chrfuseexp>
+<chrfuseexp lv="61" >
+<exps exp_q1="9100" exp_q2="10920" exp_q3="13100" exp_q4="15720" exp_q5="18860" exp_q6="22630" />
+</chrfuseexp>
+<chrfuseexp lv="62" >
+<exps exp_q1="9230" exp_q2="11080" exp_q3="13300" exp_q4="15960" exp_q5="19150" exp_q6="22980" />
+</chrfuseexp>
+<chrfuseexp lv="63" >
+<exps exp_q1="10080" exp_q2="12100" exp_q3="14520" exp_q4="17420" exp_q5="20900" exp_q6="25080" />
+</chrfuseexp>
+<chrfuseexp lv="64" >
+<exps exp_q1="10220" exp_q2="12260" exp_q3="14710" exp_q4="17650" exp_q5="21180" exp_q6="25420" />
+</chrfuseexp>
+<chrfuseexp lv="65" >
+<exps exp_q1="10360" exp_q2="12430" exp_q3="14920" exp_q4="17900" exp_q5="21480" exp_q6="25780" />
+</chrfuseexp>
+<chrfuseexp lv="66" >
+<exps exp_q1="10500" exp_q2="12600" exp_q3="15120" exp_q4="18140" exp_q5="21770" exp_q6="26120" />
+</chrfuseexp>
+<chrfuseexp lv="67" >
+<exps exp_q1="10640" exp_q2="12770" exp_q3="15320" exp_q4="18380" exp_q5="22060" exp_q6="26470" />
+</chrfuseexp>
+<chrfuseexp lv="68" >
+<exps exp_q1="11550" exp_q2="13860" exp_q3="16630" exp_q4="19960" exp_q5="23950" exp_q6="28740" />
+</chrfuseexp>
+<chrfuseexp lv="69" >
+<exps exp_q1="11700" exp_q2="14040" exp_q3="16850" exp_q4="20220" exp_q5="24260" exp_q6="29110" />
+</chrfuseexp>
+<chrfuseexp lv="70" >
+<exps exp_q1="11850" exp_q2="14220" exp_q3="17060" exp_q4="20470" exp_q5="24560" exp_q6="29470" />
+</chrfuseexp>
+<chrfuseexp lv="71" >
+<exps exp_q1="12000" exp_q2="14400" exp_q3="17280" exp_q4="20740" exp_q5="24890" exp_q6="29870" />
+</chrfuseexp>
+<chrfuseexp lv="72" >
+<exps exp_q1="12150" exp_q2="14580" exp_q3="17500" exp_q4="21000" exp_q5="25200" exp_q6="30240" />
+</chrfuseexp>
+<chrfuseexp lv="73" >
+<exps exp_q1="13120" exp_q2="15740" exp_q3="18890" exp_q4="22670" exp_q5="27200" exp_q6="32640" />
+</chrfuseexp>
+<chrfuseexp lv="74" >
+<exps exp_q1="13280" exp_q2="15940" exp_q3="19130" exp_q4="22960" exp_q5="27550" exp_q6="33060" />
+</chrfuseexp>
+<chrfuseexp lv="75" >
+<exps exp_q1="13440" exp_q2="16130" exp_q3="19360" exp_q4="23230" exp_q5="27880" exp_q6="33460" />
+</chrfuseexp>
+<chrfuseexp lv="76" >
+<exps exp_q1="13600" exp_q2="16320" exp_q3="19580" exp_q4="23500" exp_q5="28200" exp_q6="33840" />
+</chrfuseexp>
+<chrfuseexp lv="77" >
+<exps exp_q1="13760" exp_q2="16510" exp_q3="19810" exp_q4="23770" exp_q5="28520" exp_q6="34220" />
+</chrfuseexp>
+<chrfuseexp lv="78" >
+<exps exp_q1="14790" exp_q2="17750" exp_q3="21300" exp_q4="25560" exp_q5="30670" exp_q6="36800" />
+</chrfuseexp>
+<chrfuseexp lv="79" >
+<exps exp_q1="14960" exp_q2="17950" exp_q3="21540" exp_q4="25850" exp_q5="31020" exp_q6="37220" />
+</chrfuseexp>
+<chrfuseexp lv="80" >
+<exps exp_q1="15130" exp_q2="18160" exp_q3="21790" exp_q4="26150" exp_q5="31380" exp_q6="37660" />
+</chrfuseexp>
+<chrfuseexp lv="81" >
+<exps exp_q1="15300" exp_q2="18360" exp_q3="22030" exp_q4="26440" exp_q5="31730" exp_q6="38080" />
+</chrfuseexp>
+<chrfuseexp lv="82" >
+<exps exp_q1="15470" exp_q2="18560" exp_q3="22270" exp_q4="26720" exp_q5="32060" exp_q6="38470" />
+</chrfuseexp>
+<chrfuseexp lv="83" >
+<exps exp_q1="16560" exp_q2="19870" exp_q3="23840" exp_q4="28610" exp_q5="34330" exp_q6="41200" />
+</chrfuseexp>
+<chrfuseexp lv="84" >
+<exps exp_q1="16740" exp_q2="20090" exp_q3="24110" exp_q4="28930" exp_q5="34720" exp_q6="41660" />
+</chrfuseexp>
+<chrfuseexp lv="85" >
+<exps exp_q1="16920" exp_q2="20300" exp_q3="24360" exp_q4="29230" exp_q5="35080" exp_q6="42100" />
+</chrfuseexp>
+<chrfuseexp lv="86" >
+<exps exp_q1="17100" exp_q2="20520" exp_q3="24620" exp_q4="29540" exp_q5="35450" exp_q6="42540" />
+</chrfuseexp>
+<chrfuseexp lv="87" >
+<exps exp_q1="17280" exp_q2="20740" exp_q3="24890" exp_q4="29870" exp_q5="35840" exp_q6="43010" />
+</chrfuseexp>
+<chrfuseexp lv="88" >
+<exps exp_q1="18430" exp_q2="22120" exp_q3="26540" exp_q4="31850" exp_q5="38220" exp_q6="45860" />
+</chrfuseexp>
+<chrfuseexp lv="89" >
+<exps exp_q1="18620" exp_q2="22340" exp_q3="26810" exp_q4="32170" exp_q5="38600" exp_q6="46320" />
+</chrfuseexp>
+<chrfuseexp lv="90" >
+<exps exp_q1="18810" exp_q2="22570" exp_q3="27080" exp_q4="32500" exp_q5="39000" exp_q6="46800" />
+</chrfuseexp>
+<chrfuseexp lv="91" >
+<exps exp_q1="19000" exp_q2="22800" exp_q3="27360" exp_q4="32830" exp_q5="39400" exp_q6="47280" />
+</chrfuseexp>
+<chrfuseexp lv="92" >
+<exps exp_q1="19190" exp_q2="23030" exp_q3="27640" exp_q4="33170" exp_q5="39800" exp_q6="47760" />
+</chrfuseexp>
+<chrfuseexp lv="93" >
+<exps exp_q1="20400" exp_q2="24480" exp_q3="29380" exp_q4="35260" exp_q5="42310" exp_q6="50770" />
+</chrfuseexp>
+<chrfuseexp lv="94" >
+<exps exp_q1="20600" exp_q2="24720" exp_q3="29660" exp_q4="35590" exp_q5="42710" exp_q6="51250" />
+</chrfuseexp>
+<chrfuseexp lv="95" >
+<exps exp_q1="20800" exp_q2="24960" exp_q3="29950" exp_q4="35940" exp_q5="43130" exp_q6="51760" />
+</chrfuseexp>
+<chrfuseexp lv="96" >
+<exps exp_q1="21000" exp_q2="25200" exp_q3="30240" exp_q4="36290" exp_q5="43550" exp_q6="52260" />
+</chrfuseexp>
+<chrfuseexp lv="97" >
+<exps exp_q1="21200" exp_q2="25440" exp_q3="30530" exp_q4="36640" exp_q5="43970" exp_q6="52760" />
+</chrfuseexp>
+<chrfuseexp lv="98" >
+<exps exp_q1="22470" exp_q2="26960" exp_q3="32350" exp_q4="38820" exp_q5="46580" exp_q6="55900" />
+</chrfuseexp>
+<chrfuseexp lv="99" >
+<exps exp_q1="22680" exp_q2="27220" exp_q3="32660" exp_q4="39190" exp_q5="47030" exp_q6="56440" />
+</chrfuseexp>
+<chrfuseexp lv="100" >
+<exps exp_q1="22890" exp_q2="27470" exp_q3="32960" exp_q4="39550" exp_q5="47460" exp_q6="56950" />
+</chrfuseexp>
+<chrfuseexp lv="101" >
+<exps exp_q1="23100" exp_q2="27720" exp_q3="33260" exp_q4="39910" exp_q5="47890" exp_q6="57470" />
+</chrfuseexp>
+<chrfuseexp lv="102" >
+<exps exp_q1="23310" exp_q2="27970" exp_q3="33560" exp_q4="40270" exp_q5="48320" exp_q6="57980" />
+</chrfuseexp>
+<chrfuseexp lv="103" >
+<exps exp_q1="24640" exp_q2="29570" exp_q3="35480" exp_q4="42580" exp_q5="51100" exp_q6="61320" />
+</chrfuseexp>
+<chrfuseexp lv="104" >
+<exps exp_q1="24860" exp_q2="29830" exp_q3="35800" exp_q4="42960" exp_q5="51550" exp_q6="61860" />
+</chrfuseexp>
+<chrfuseexp lv="105" >
+<exps exp_q1="25080" exp_q2="30100" exp_q3="36120" exp_q4="43340" exp_q5="52010" exp_q6="62410" />
+</chrfuseexp>
+<chrfuseexp lv="106" >
+<exps exp_q1="25300" exp_q2="30360" exp_q3="36430" exp_q4="43720" exp_q5="52460" exp_q6="62950" />
+</chrfuseexp>
+<chrfuseexp lv="107" >
+<exps exp_q1="25520" exp_q2="30620" exp_q3="36740" exp_q4="44090" exp_q5="52910" exp_q6="63490" />
+</chrfuseexp>
+<chrfuseexp lv="108" >
+<exps exp_q1="26910" exp_q2="32290" exp_q3="38750" exp_q4="46500" exp_q5="55800" exp_q6="66960" />
+</chrfuseexp>
+<chrfuseexp lv="109" >
+<exps exp_q1="27140" exp_q2="32570" exp_q3="39080" exp_q4="46900" exp_q5="56280" exp_q6="67540" />
+</chrfuseexp>
+<chrfuseexp lv="110" >
+<exps exp_q1="27370" exp_q2="32840" exp_q3="39410" exp_q4="47290" exp_q5="56750" exp_q6="68100" />
+</chrfuseexp>
+<chrfuseexp lv="111" >
+<exps exp_q1="27600" exp_q2="33120" exp_q3="39740" exp_q4="47690" exp_q5="57230" exp_q6="68680" />
+</chrfuseexp>
+<chrfuseexp lv="112" >
+<exps exp_q1="27830" exp_q2="33400" exp_q3="40080" exp_q4="48100" exp_q5="57720" exp_q6="69260" />
+</chrfuseexp>
+<chrfuseexp lv="113" >
+<exps exp_q1="29280" exp_q2="35140" exp_q3="42170" exp_q4="50600" exp_q5="60720" exp_q6="72860" />
+</chrfuseexp>
+<chrfuseexp lv="114" >
+<exps exp_q1="29520" exp_q2="35420" exp_q3="42500" exp_q4="51000" exp_q5="61200" exp_q6="73440" />
+</chrfuseexp>
+<chrfuseexp lv="115" >
+<exps exp_q1="29760" exp_q2="35710" exp_q3="42850" exp_q4="51420" exp_q5="61700" exp_q6="74040" />
+</chrfuseexp>
+<chrfuseexp lv="116" >
+<exps exp_q1="30000" exp_q2="36000" exp_q3="43200" exp_q4="51840" exp_q5="62210" exp_q6="74650" />
+</chrfuseexp>
+<chrfuseexp lv="117" >
+<exps exp_q1="30240" exp_q2="36290" exp_q3="43550" exp_q4="52260" exp_q5="62710" exp_q6="75250" />
+</chrfuseexp>
+<chrfuseexp lv="118" >
+<exps exp_q1="31750" exp_q2="38100" exp_q3="45720" exp_q4="54860" exp_q5="65830" exp_q6="79000" />
+</chrfuseexp>
+<chrfuseexp lv="119" >
+<exps exp_q1="32000" exp_q2="38400" exp_q3="46080" exp_q4="55300" exp_q5="66360" exp_q6="79630" />
+</chrfuseexp>
+<chrfuseexp lv="120" >
+<exps exp_q1="32250" exp_q2="38700" exp_q3="46440" exp_q4="55730" exp_q5="66880" exp_q6="80260" />
+</chrfuseexp>
+<chrfuseexp lv="121" >
+<exps exp_q1="32500" exp_q2="39000" exp_q3="46800" exp_q4="56160" exp_q5="67390" exp_q6="80870" />
+</chrfuseexp>
+<chrfuseexp lv="122" >
+<exps exp_q1="32750" exp_q2="39300" exp_q3="47160" exp_q4="56590" exp_q5="67910" exp_q6="81490" />
+</chrfuseexp>
+<chrfuseexp lv="123" >
+<exps exp_q1="34320" exp_q2="41180" exp_q3="49420" exp_q4="59300" exp_q5="71160" exp_q6="85390" />
+</chrfuseexp>
+<chrfuseexp lv="124" >
+<exps exp_q1="34580" exp_q2="41500" exp_q3="49800" exp_q4="59760" exp_q5="71710" exp_q6="86050" />
+</chrfuseexp>
+<chrfuseexp lv="125" >
+<exps exp_q1="34840" exp_q2="41810" exp_q3="50170" exp_q4="60200" exp_q5="72240" exp_q6="86690" />
+</chrfuseexp>
+<chrfuseexp lv="126" >
+<exps exp_q1="35100" exp_q2="42120" exp_q3="50540" exp_q4="60650" exp_q5="72780" exp_q6="87340" />
+</chrfuseexp>
+<chrfuseexp lv="127" >
+<exps exp_q1="35360" exp_q2="42430" exp_q3="50920" exp_q4="61100" exp_q5="73320" exp_q6="87980" />
+</chrfuseexp>
+<chrfuseexp lv="128" >
+<exps exp_q1="36990" exp_q2="44390" exp_q3="53270" exp_q4="63920" exp_q5="76700" exp_q6="92040" />
+</chrfuseexp>
+<chrfuseexp lv="129" >
+<exps exp_q1="37260" exp_q2="44710" exp_q3="53650" exp_q4="64380" exp_q5="77260" exp_q6="92710" />
+</chrfuseexp>
+<chrfuseexp lv="130" >
+<exps exp_q1="37530" exp_q2="45040" exp_q3="54050" exp_q4="64860" exp_q5="77830" exp_q6="93400" />
+</chrfuseexp>
+<chrfuseexp lv="131" >
+<exps exp_q1="37800" exp_q2="45360" exp_q3="54430" exp_q4="65320" exp_q5="78380" exp_q6="94060" />
+</chrfuseexp>
+<chrfuseexp lv="132" >
+<exps exp_q1="38070" exp_q2="45680" exp_q3="54820" exp_q4="65780" exp_q5="78940" exp_q6="94730" />
+</chrfuseexp>
+<chrfuseexp lv="133" >
+<exps exp_q1="39760" exp_q2="47710" exp_q3="57250" exp_q4="68700" exp_q5="82440" exp_q6="98930" />
+</chrfuseexp>
+<chrfuseexp lv="134" >
+<exps exp_q1="40040" exp_q2="48050" exp_q3="57660" exp_q4="69190" exp_q5="83030" exp_q6="99640" />
+</chrfuseexp>
+<chrfuseexp lv="135" >
+<exps exp_q1="40320" exp_q2="48380" exp_q3="58060" exp_q4="69670" exp_q5="83600" exp_q6="100320" />
+</chrfuseexp>
+<chrfuseexp lv="136" >
+<exps exp_q1="40600" exp_q2="48720" exp_q3="58460" exp_q4="70150" exp_q5="84180" exp_q6="101020" />
+</chrfuseexp>
+<chrfuseexp lv="137" >
+<exps exp_q1="40880" exp_q2="49060" exp_q3="58870" exp_q4="70640" exp_q5="84770" exp_q6="101720" />
+</chrfuseexp>
+<chrfuseexp lv="138" >
+<exps exp_q1="42630" exp_q2="51160" exp_q3="61390" exp_q4="73670" exp_q5="88400" exp_q6="106080" />
+</chrfuseexp>
+<chrfuseexp lv="139" >
+<exps exp_q1="42920" exp_q2="51500" exp_q3="61800" exp_q4="74160" exp_q5="88990" exp_q6="106790" />
+</chrfuseexp>
+<chrfuseexp lv="140" >
+<exps exp_q1="43210" exp_q2="51850" exp_q3="62220" exp_q4="74660" exp_q5="89590" exp_q6="107510" />
+</chrfuseexp>
+<chrfuseexp lv="141" >
+<exps exp_q1="43500" exp_q2="52200" exp_q3="62640" exp_q4="75170" exp_q5="90200" exp_q6="108240" />
+</chrfuseexp>
+<chrfuseexp lv="142" >
+<exps exp_q1="43790" exp_q2="52550" exp_q3="63060" exp_q4="75670" exp_q5="90800" exp_q6="108960" />
+</chrfuseexp>
+<chrfuseexp lv="143" >
+<exps exp_q1="45600" exp_q2="54720" exp_q3="65660" exp_q4="78790" exp_q5="94550" exp_q6="113460" />
+</chrfuseexp>
+<chrfuseexp lv="144" >
+<exps exp_q1="45900" exp_q2="55080" exp_q3="66100" exp_q4="79320" exp_q5="95180" exp_q6="114220" />
+</chrfuseexp>
+<chrfuseexp lv="145" >
+<exps exp_q1="46200" exp_q2="55440" exp_q3="66530" exp_q4="79840" exp_q5="95810" exp_q6="114970" />
+</chrfuseexp>
+<chrfuseexp lv="146" >
+<exps exp_q1="46500" exp_q2="55800" exp_q3="66960" exp_q4="80350" exp_q5="96420" exp_q6="115700" />
+</chrfuseexp>
+<chrfuseexp lv="147" >
+<exps exp_q1="46800" exp_q2="56160" exp_q3="67390" exp_q4="80870" exp_q5="97040" exp_q6="116450" />
+</chrfuseexp>
+<chrfuseexp lv="148" >
+<exps exp_q1="48670" exp_q2="58400" exp_q3="70080" exp_q4="84100" exp_q5="100920" exp_q6="121100" />
+</chrfuseexp>
+<chrfuseexp lv="149" >
+<exps exp_q1="48980" exp_q2="58780" exp_q3="70540" exp_q4="84650" exp_q5="101580" exp_q6="121900" />
+</chrfuseexp>
+<chrfuseexp lv="150" >
+<exps exp_q1="49290" exp_q2="59150" exp_q3="70980" exp_q4="85180" exp_q5="102220" exp_q6="122660" />
+</chrfuseexp>
+<chrfuseexp lv="151" >
+<exps exp_q1="49600" exp_q2="59520" exp_q3="71420" exp_q4="85700" exp_q5="102840" exp_q6="123410" />
+</chrfuseexp>
+<chrfuseexp lv="152" >
+<exps exp_q1="49910" exp_q2="59890" exp_q3="71870" exp_q4="86240" exp_q5="103490" exp_q6="124190" />
+</chrfuseexp>
+<chrfuseexp lv="153" >
+<exps exp_q1="51840" exp_q2="62210" exp_q3="74650" exp_q4="89580" exp_q5="107500" exp_q6="129000" />
+</chrfuseexp>
+<chrfuseexp lv="154" >
+<exps exp_q1="52160" exp_q2="62590" exp_q3="75110" exp_q4="90130" exp_q5="108160" exp_q6="129790" />
+</chrfuseexp>
+<chrfuseexp lv="155" >
+<exps exp_q1="52480" exp_q2="62980" exp_q3="75580" exp_q4="90700" exp_q5="108840" exp_q6="130610" />
+</chrfuseexp>
+<chrfuseexp lv="156" >
+<exps exp_q1="52800" exp_q2="63360" exp_q3="76030" exp_q4="91240" exp_q5="109490" exp_q6="131390" />
+</chrfuseexp>
+<chrfuseexp lv="157" >
+<exps exp_q1="53120" exp_q2="63740" exp_q3="76490" exp_q4="91790" exp_q5="110150" exp_q6="132180" />
+</chrfuseexp>
+<chrfuseexp lv="158" >
+<exps exp_q1="55110" exp_q2="66130" exp_q3="79360" exp_q4="95230" exp_q5="114280" exp_q6="137140" />
+</chrfuseexp>
+<chrfuseexp lv="159" >
+<exps exp_q1="55440" exp_q2="66530" exp_q3="79840" exp_q4="95810" exp_q5="114970" exp_q6="137960" />
+</chrfuseexp>
+<chrfuseexp lv="160" >
+<exps exp_q1="55770" exp_q2="66920" exp_q3="80300" exp_q4="96360" exp_q5="115630" exp_q6="138760" />
+</chrfuseexp>
+<chrfuseexp lv="161" >
+<exps exp_q1="56100" exp_q2="67320" exp_q3="80780" exp_q4="96940" exp_q5="116330" exp_q6="139600" />
+</chrfuseexp>
+<chrfuseexp lv="162" >
+<exps exp_q1="56430" exp_q2="67720" exp_q3="81260" exp_q4="97510" exp_q5="117010" exp_q6="140410" />
+</chrfuseexp>
+<chrfuseexp lv="163" >
+<exps exp_q1="58480" exp_q2="70180" exp_q3="84220" exp_q4="101060" exp_q5="121270" exp_q6="145520" />
+</chrfuseexp>
+<chrfuseexp lv="164" >
+<exps exp_q1="58820" exp_q2="70580" exp_q3="84700" exp_q4="101640" exp_q5="121970" exp_q6="146360" />
+</chrfuseexp>
+<chrfuseexp lv="165" >
+<exps exp_q1="59160" exp_q2="70990" exp_q3="85190" exp_q4="102230" exp_q5="122680" exp_q6="147220" />
+</chrfuseexp>
+<chrfuseexp lv="166" >
+<exps exp_q1="59500" exp_q2="71400" exp_q3="85680" exp_q4="102820" exp_q5="123380" exp_q6="148060" />
+</chrfuseexp>
+<chrfuseexp lv="167" >
+<exps exp_q1="59840" exp_q2="71810" exp_q3="86170" exp_q4="103400" exp_q5="124080" exp_q6="148900" />
+</chrfuseexp>
+<chrfuseexp lv="168" >
+<exps exp_q1="61950" exp_q2="74340" exp_q3="89210" exp_q4="107050" exp_q5="128460" exp_q6="154150" />
+</chrfuseexp>
+<chrfuseexp lv="169" >
+<exps exp_q1="62300" exp_q2="74760" exp_q3="89710" exp_q4="107650" exp_q5="129180" exp_q6="155020" />
+</chrfuseexp>
+<chrfuseexp lv="170" >
+<exps exp_q1="62650" exp_q2="75180" exp_q3="90220" exp_q4="108260" exp_q5="129910" exp_q6="155890" />
+</chrfuseexp>
+<chrfuseexp lv="171" >
+<exps exp_q1="63000" exp_q2="75600" exp_q3="90720" exp_q4="108860" exp_q5="130630" exp_q6="156760" />
+</chrfuseexp>
+<chrfuseexp lv="172" >
+<exps exp_q1="63350" exp_q2="76020" exp_q3="91220" exp_q4="109460" exp_q5="131350" exp_q6="157620" />
+</chrfuseexp>
+<chrfuseexp lv="173" >
+<exps exp_q1="65520" exp_q2="78620" exp_q3="94340" exp_q4="113210" exp_q5="135850" exp_q6="163020" />
+</chrfuseexp>
+<chrfuseexp lv="174" >
+<exps exp_q1="65880" exp_q2="79060" exp_q3="94870" exp_q4="113840" exp_q5="136610" exp_q6="163930" />
+</chrfuseexp>
+<chrfuseexp lv="175" >
+<exps exp_q1="66240" exp_q2="79490" exp_q3="95390" exp_q4="114470" exp_q5="137360" exp_q6="164830" />
+</chrfuseexp>
+<chrfuseexp lv="176" >
+<exps exp_q1="66600" exp_q2="79920" exp_q3="95900" exp_q4="115080" exp_q5="138100" exp_q6="165720" />
+</chrfuseexp>
+<chrfuseexp lv="177" >
+<exps exp_q1="66960" exp_q2="80350" exp_q3="96420" exp_q4="115700" exp_q5="138840" exp_q6="166610" />
+</chrfuseexp>
+<chrfuseexp lv="178" >
+<exps exp_q1="69190" exp_q2="83030" exp_q3="99640" exp_q4="119570" exp_q5="143480" exp_q6="172180" />
+</chrfuseexp>
+<chrfuseexp lv="179" >
+<exps exp_q1="69560" exp_q2="83470" exp_q3="100160" exp_q4="120190" exp_q5="144230" exp_q6="173080" />
+</chrfuseexp>
+<chrfuseexp lv="180" >
+<exps exp_q1="69930" exp_q2="83920" exp_q3="100700" exp_q4="120840" exp_q5="145010" exp_q6="174010" />
+</chrfuseexp>
+<chrfuseexp lv="181" >
+<exps exp_q1="70300" exp_q2="84360" exp_q3="101230" exp_q4="121480" exp_q5="145780" exp_q6="174940" />
+</chrfuseexp>
+<chrfuseexp lv="182" >
+<exps exp_q1="70670" exp_q2="84800" exp_q3="101760" exp_q4="122110" exp_q5="146530" exp_q6="175840" />
+</chrfuseexp>
+<chrfuseexp lv="183" >
+<exps exp_q1="72960" exp_q2="87550" exp_q3="105060" exp_q4="126070" exp_q5="151280" exp_q6="181540" />
+</chrfuseexp>
+<chrfuseexp lv="184" >
+<exps exp_q1="73340" exp_q2="88010" exp_q3="105610" exp_q4="126730" exp_q5="152080" exp_q6="182500" />
+</chrfuseexp>
+<chrfuseexp lv="185" >
+<exps exp_q1="73720" exp_q2="88460" exp_q3="106150" exp_q4="127380" exp_q5="152860" exp_q6="183430" />
+</chrfuseexp>
+<chrfuseexp lv="186" >
+<exps exp_q1="74100" exp_q2="88920" exp_q3="106700" exp_q4="128040" exp_q5="153650" exp_q6="184380" />
+</chrfuseexp>
+<chrfuseexp lv="187" >
+<exps exp_q1="74480" exp_q2="89380" exp_q3="107260" exp_q4="128710" exp_q5="154450" exp_q6="185340" />
+</chrfuseexp>
+<chrfuseexp lv="188" >
+<exps exp_q1="76830" exp_q2="92200" exp_q3="110640" exp_q4="132770" exp_q5="159320" exp_q6="191180" />
+</chrfuseexp>
+<chrfuseexp lv="189" >
+<exps exp_q1="77220" exp_q2="92660" exp_q3="111190" exp_q4="133430" exp_q5="160120" exp_q6="192140" />
+</chrfuseexp>
+<chrfuseexp lv="190" >
+<exps exp_q1="77610" exp_q2="93130" exp_q3="111760" exp_q4="134110" exp_q5="160930" exp_q6="193120" />
+</chrfuseexp>
+<chrfuseexp lv="191" >
+<exps exp_q1="78000" exp_q2="93600" exp_q3="112320" exp_q4="134780" exp_q5="161740" exp_q6="194090" />
+</chrfuseexp>
+<chrfuseexp lv="192" >
+<exps exp_q1="78390" exp_q2="94070" exp_q3="112880" exp_q4="135460" exp_q5="162550" exp_q6="195060" />
+</chrfuseexp>
+<chrfuseexp lv="193" >
+<exps exp_q1="80800" exp_q2="96960" exp_q3="116350" exp_q4="139620" exp_q5="167540" exp_q6="201050" />
+</chrfuseexp>
+<chrfuseexp lv="194" >
+<exps exp_q1="81200" exp_q2="97440" exp_q3="116930" exp_q4="140320" exp_q5="168380" exp_q6="202060" />
+</chrfuseexp>
+<chrfuseexp lv="195" >
+<exps exp_q1="81600" exp_q2="97920" exp_q3="117500" exp_q4="141000" exp_q5="169200" exp_q6="203040" />
+</chrfuseexp>
+<chrfuseexp lv="196" >
+<exps exp_q1="82000" exp_q2="98400" exp_q3="118080" exp_q4="141700" exp_q5="170040" exp_q6="204050" />
+</chrfuseexp>
+<chrfuseexp lv="197" >
+<exps exp_q1="82400" exp_q2="98880" exp_q3="118660" exp_q4="142390" exp_q5="170870" exp_q6="205040" />
+</chrfuseexp>
+<chrfuseexp lv="198" >
+<exps exp_q1="84870" exp_q2="101840" exp_q3="122210" exp_q4="146650" exp_q5="175980" exp_q6="211180" />
+</chrfuseexp>
+<chrfuseexp lv="199" >
+<exps exp_q1="85280" exp_q2="102340" exp_q3="122810" exp_q4="147370" exp_q5="176840" exp_q6="212210" />
+</chrfuseexp>
+<chrfuseexp lv="200" >
+<exps exp_q1="85690" exp_q2="102830" exp_q3="123400" exp_q4="148080" exp_q5="177700" exp_q6="213240" />
+</chrfuseexp>
+</chrfuseexps>

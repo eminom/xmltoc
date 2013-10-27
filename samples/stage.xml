@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<stages>
+<stage id="50001" name="Warpwood Ruins I" desc="" >
+<attributes player_lv_restrict="0" sta_cost="6" mob_drop_id="60001" boss_drop_id="61001" />
+<npcs>
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="0" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="0" npc_bossflag="0" npc_size="1" />
+</npcs>
+</stage>
+<stage id="50002" name="Warpwood Ruins II" desc="" >
+<attributes player_lv_restrict="0" sta_cost="6" mob_drop_id="60001" boss_drop_id="61001" />
+<npcs>
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="0" npc_bossflag="1" npc_size="1" />
+</npcs>
+</stage>
+<stage id="50003" name="Warpwood Ruins III" desc="" >
+<attributes player_lv_restrict="0" sta_cost="6" mob_drop_id="60001" boss_drop_id="61001" />
+<npcs>
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="0" npc_bossflag="1" npc_size="1" />
+</npcs>
+</stage>
+<stage id="50004" name="Warpwood Ruins IV" desc="" >
+<attributes player_lv_restrict="0" sta_cost="6" mob_drop_id="60001" boss_drop_id="61001" />
+<npcs>
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="0" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="0" npc_bossflag="1" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="0" npc_bossflag="1" npc_size="1" />
+</npcs>
+</stage>
+<stage id="50005" name="Warpwood Ruins V" desc="" >
+<attributes player_lv_restrict="0" sta_cost="6" mob_drop_id="60001" boss_drop_id="61001" />
+<npcs>
+<npc npc_id="10019" npc_lv="5" hp_coe="4" attr_coe="1" npc_posx="1" npc_posy="0" npc_bossflag="1" npc_size="1" />
+<npc npc_id="10017" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="0" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="0" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="0" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="1" npc_posy="1" npc_bossflag="0" npc_size="1" />
+<npc npc_id="10018" npc_lv="5" hp_coe="1" attr_coe="1" npc_posx="2" npc_posy="1" npc_bossflag="0" npc_size="1" />
+</npcs>
+</stage>
+</stages>

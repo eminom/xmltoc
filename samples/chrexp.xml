@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<chrexps>
+<chrexp lv="1" >
+<exps exp_next_lv_q1="100" exp_next_lv_q2="120" exp_next_lv_q3="140" exp_next_lv_q4="170" exp_next_lv_q5="200" exp_next_lv_q6="240" exp_acc_q1="0" exp_acc_q2="0" exp_acc_q3="0" exp_acc_q4="0" exp_acc_q5="0" exp_acc_q6="0" />
+</chrexp>
+<chrexp lv="2" >
+<exps exp_next_lv_q1="110" exp_next_lv_q2="130" exp_next_lv_q3="160" exp_next_lv_q4="190" exp_next_lv_q5="230" exp_next_lv_q6="280" exp_acc_q1="100" exp_acc_q2="120" exp_acc_q3="140" exp_acc_q4="170" exp_acc_q5="200" exp_acc_q6="240" />
+</chrexp>
+<chrexp lv="3" >
+<exps exp_next_lv_q1="240" exp_next_lv_q2="290" exp_next_lv_q3="350" exp_next_lv_q4="420" exp_next_lv_q5="500" exp_next_lv_q6="600" exp_acc_q1="210" exp_acc_q2="250" exp_acc_q3="300" exp_acc_q4="360" exp_acc_q5="430" exp_acc_q6="520" />
+</chrexp>
+<chrexp lv="4" >
+<exps exp_next_lv_q1="260" exp_next_lv_q2="310" exp_next_lv_q3="370" exp_next_lv_q4="440" exp_next_lv_q5="530" exp_next_lv_q6="640" exp_acc_q1="450" exp_acc_q2="540" exp_acc_q3="650" exp_acc_q4="780" exp_acc_q5="930" exp_acc_q6="1120" />
+</chrexp>
+<chrexp lv="5" >
+<exps exp_next_lv_q1="280" exp_next_lv_q2="340" exp_next_lv_q3="410" exp_next_lv_q4="490" exp_next_lv_q5="590" exp_next_lv_q6="710" exp_acc_q1="710" exp_acc_q2="850" exp_acc_q3="1020" exp_acc_q4="1220" exp_acc_q5="1460" exp_acc_q6="1760" />
+</chrexp>
+<chrexp lv="6" >
+<exps exp_next_lv_q1="300" exp_next_lv_q2="360" exp_next_lv_q3="430" exp_next_lv_q4="520" exp_next_lv_q5="620" exp_next_lv_q6="740" exp_acc_q1="990" exp_acc_q2="1190" exp_acc_q3="1430" exp_acc_q4="1710" exp_acc_q5="2050" exp_acc_q6="2470" />
+</chrexp>
+<chrexp lv="7" >
+<exps exp_next_lv_q1="320" exp_next_lv_q2="380" exp_next_lv_q3="460" exp_next_lv_q4="550" exp_next_lv_q5="660" exp_next_lv_q6="790" exp_acc_q1="1290" exp_acc_q2="1550" exp_acc_q3="1860" exp_acc_q4="2230" exp_acc_q5="2670" exp_acc_q6="3210" />
+</chrexp>
+<chrexp lv="8" >
+<exps exp_next_lv_q1="510" exp_next_lv_q2="610" exp_next_lv_q3="730" exp_next_lv_q4="880" exp_next_lv_q5="1060" exp_next_lv_q6="1270" exp_acc_q1="1610" exp_acc_q2="1930" exp_acc_q3="2320" exp_acc_q4="2780" exp_acc_q5="3330" exp_acc_q6="4000" />
+</chrexp>
+<chrexp lv="9" >
+<exps exp_next_lv_q1="540" exp_next_lv_q2="650" exp_next_lv_q3="780" exp_next_lv_q4="940" exp_next_lv_q5="1130" exp_next_lv_q6="1360" exp_acc_q1="2120" exp_acc_q2="2540" exp_acc_q3="3050" exp_acc_q4="3660" exp_acc_q5="4390" exp_acc_q6="5270" />
+</chrexp>
+<chrexp lv="10" >
+<exps exp_next_lv_q1="570" exp_next_lv_q2="680" exp_next_lv_q3="820" exp_next_lv_q4="980" exp_next_lv_q5="1180" exp_next_lv_q6="1420" exp_acc_q1="2660" exp_acc_q2="3190" exp_acc_q3="3830" exp_acc_q4="4600" exp_acc_q5="5520" exp_acc_q6="6630" />
+</chrexp>
+<chrexp lv="11" >
+<exps exp_next_lv_q1="600" exp_next_lv_q2="720" exp_next_lv_q3="860" exp_next_lv_q4="1030" exp_next_lv_q5="1240" exp_next_lv_q6="1490" exp_acc_q1="3230" exp_acc_q2="3870" exp_acc_q3="4650" exp_acc_q4="5580" exp_acc_q5="6700" exp_acc_q6="8050" />
+</chrexp>
+<chrexp lv="12" >
+<exps exp_next_lv_q1="630" exp_next_lv_q2="760" exp_next_lv_q3="910" exp_next_lv_q4="1090" exp_next_lv_q5="1310" exp_next_lv_q6="1570" exp_acc_q1="3830" exp_acc_q2="4590" exp_acc_q3="5510" exp_acc_q4="6610" exp_acc_q5="7940" exp_acc_q6="9540" />
+</chrexp>
+<chrexp lv="13" >
+<exps exp_next_lv_q1="880" exp_next_lv_q2="1060" exp_next_lv_q3="1270" exp_next_lv_q4="1520" exp_next_lv_q5="1820" exp_next_lv_q6="2180" exp_acc_q1="4460" exp_acc_q2="5350" exp_acc_q3="6420" exp_acc_q4="7700" exp_acc_q5="9250" exp_acc_q6="11110" />
+</chrexp>
+<chrexp lv="14" >
+<exps exp_next_lv_q1="920" exp_next_lv_q2="1100" exp_next_lv_q3="1320" exp_next_lv_q4="1580" exp_next_lv_q5="1900" exp_next_lv_q6="2280" exp_acc_q1="5340" exp_acc_q2="6410" exp_acc_q3="7690" exp_acc_q4="9220" exp_acc_q5="11070" exp_acc_q6="13290" />
+</chrexp>
+<chrexp lv="15" >
+<exps exp_next_lv_q1="960" exp_next_lv_q2="1150" exp_next_lv_q3="1380" exp_next_lv_q4="1660" exp_next_lv_q5="1990" exp_next_lv_q6="2390" exp_acc_q1="6260" exp_acc_q2="7510" exp_acc_q3="9010" exp_acc_q4="10800" exp_acc_q5="12970" exp_acc_q6="15570" />
+</chrexp>
+<chrexp lv="16" >
+<exps exp_next_lv_q1="1000" exp_next_lv_q2="1200" exp_next_lv_q3="1440" exp_next_lv_q4="1730" exp_next_lv_q5="2080" exp_next_lv_q6="2500" exp_acc_q1="7220" exp_acc_q2="8660" exp_acc_q3="10390" exp_acc_q4="12460" exp_acc_q5="14960" exp_acc_q6="17960" />
+</chrexp>
+<chrexp lv="17" >
+<exps exp_next_lv_q1="1040" exp_next_lv_q2="1250" exp_next_lv_q3="1500" exp_next_lv_q4="1800" exp_next_lv_q5="2160" exp_next_lv_q6="2590" exp_acc_q1="8220" exp_acc_q2="9860" exp_acc_q3="11830" exp_acc_q4="14190" exp_acc_q5="17040" exp_acc_q6="20460" />
+</chrexp>
+<chrexp lv="18" >
+<exps exp_next_lv_q1="1350" exp_next_lv_q2="1620" exp_next_lv_q3="1940" exp_next_lv_q4="2330" exp_next_lv_q5="2800" exp_next_lv_q6="3360" exp_acc_q1="9260" exp_acc_q2="11110" exp_acc_q3="13330" exp_acc_q4="15990" exp_acc_q5="19200" exp_acc_q6="23050" />
+</chrexp>
+<chrexp lv="19" >
+<exps exp_next_lv_q1="1400" exp_next_lv_q2="1680" exp_next_lv_q3="2020" exp_next_lv_q4="2420" exp_next_lv_q5="2900" exp_next_lv_q6="3480" exp_acc_q1="10610" exp_acc_q2="12730" exp_acc_q3="15270" exp_acc_q4="18320" exp_acc_q5="22000" exp_acc_q6="26410" />
+</chrexp>
+<chrexp lv="20" >
+<exps exp_next_lv_q1="1450" exp_next_lv_q2="1740" exp_next_lv_q3="2090" exp_next_lv_q4="2510" exp_next_lv_q5="3010" exp_next_lv_q6="3610" exp_acc_q1="12010" exp_acc_q2="14410" exp_acc_q3="17290" exp_acc_q4="20740" exp_acc_q5="24900" exp_acc_q6="29890" />
+</chrexp>
+<chrexp lv="21" >
+<exps exp_next_lv_q1="1500" exp_next_lv_q2="1800" exp_next_lv_q3="2160" exp_next_lv_q4="2590" exp_next_lv_q5="3110" exp_next_lv_q6="3730" exp_acc_q1="13460" exp_acc_q2="16150" exp_acc_q3="19380" exp_acc_q4="23250" exp_acc_q5="27910" exp_acc_q6="33500" />
+</chrexp>
+<chrexp lv="22" >
+<exps exp_next_lv_q1="1550" exp_next_lv_q2="1860" exp_next_lv_q3="2230" exp_next_lv_q4="2680" exp_next_lv_q5="3220" exp_next_lv_q6="3860" exp_acc_q1="14960" exp_acc_q2="17950" exp_acc_q3="21540" exp_acc_q4="25840" exp_acc_q5="31020" exp_acc_q6="37230" />
+</chrexp>
+<chrexp lv="23" >
+<exps exp_next_lv_q1="1920" exp_next_lv_q2="2300" exp_next_lv_q3="2760" exp_next_lv_q4="3310" exp_next_lv_q5="3970" exp_next_lv_q6="4760" exp_acc_q1="16510" exp_acc_q2="19810" exp_acc_q3="23770" exp_acc_q4="28520" exp_acc_q5="34240" exp_acc_q6="41090" />
+</chrexp>
+<chrexp lv="24" >
+<exps exp_next_lv_q1="1980" exp_next_lv_q2="2380" exp_next_lv_q3="2860" exp_next_lv_q4="3430" exp_next_lv_q5="4120" exp_next_lv_q6="4940" exp_acc_q1="18430" exp_acc_q2="22110" exp_acc_q3="26530" exp_acc_q4="31830" exp_acc_q5="38210" exp_acc_q6="45850" />
+</chrexp>
+<chrexp lv="25" >
+<exps exp_next_lv_q1="2040" exp_next_lv_q2="2450" exp_next_lv_q3="2940" exp_next_lv_q4="3530" exp_next_lv_q5="4240" exp_next_lv_q6="5090" exp_acc_q1="20410" exp_acc_q2="24490" exp_acc_q3="29390" exp_acc_q4="35260" exp_acc_q5="42330" exp_acc_q6="50790" />
+</chrexp>
+<chrexp lv="26" >
+<exps exp_next_lv_q1="2100" exp_next_lv_q2="2520" exp_next_lv_q3="3020" exp_next_lv_q4="3620" exp_next_lv_q5="4340" exp_next_lv_q6="5210" exp_acc_q1="22450" exp_acc_q2="26940" exp_acc_q3="32330" exp_acc_q4="38790" exp_acc_q5="46570" exp_acc_q6="55880" />
+</chrexp>
+<chrexp lv="27" >
+<exps exp_next_lv_q1="2160" exp_next_lv_q2="2590" exp_next_lv_q3="3110" exp_next_lv_q4="3730" exp_next_lv_q5="4480" exp_next_lv_q6="5380" exp_acc_q1="24550" exp_acc_q2="29460" exp_acc_q3="35350" exp_acc_q4="42410" exp_acc_q5="50910" exp_acc_q6="61090" />
+</chrexp>
+<chrexp lv="28" >
+<exps exp_next_lv_q1="2590" exp_next_lv_q2="3110" exp_next_lv_q3="3730" exp_next_lv_q4="4480" exp_next_lv_q5="5380" exp_next_lv_q6="6460" exp_acc_q1="26710" exp_acc_q2="32050" exp_acc_q3="38460" exp_acc_q4="46140" exp_acc_q5="55390" exp_acc_q6="66470" />
+</chrexp>
+<chrexp lv="29" >
+<exps exp_next_lv_q1="2660" exp_next_lv_q2="3190" exp_next_lv_q3="3830" exp_next_lv_q4="4600" exp_next_lv_q5="5520" exp_next_lv_q6="6620" exp_acc_q1="29300" exp_acc_q2="35160" exp_acc_q3="42190" exp_acc_q4="50620" exp_acc_q5="60770" exp_acc_q6="72930" />
+</chrexp>
+<chrexp lv="30" >
+<exps exp_next_lv_q1="2730" exp_next_lv_q2="3280" exp_next_lv_q3="3940" exp_next_lv_q4="4730" exp_next_lv_q5="5680" exp_next_lv_q6="6820" exp_acc_q1="31960" exp_acc_q2="38350" exp_acc_q3="46020" exp_acc_q4="55220" exp_acc_q5="66290" exp_acc_q6="79550" />
+</chrexp>
+<chrexp lv="31" >
+<exps exp_next_lv_q1="2800" exp_next_lv_q2="3360" exp_next_lv_q3="4030" exp_next_lv_q4="4840" exp_next_lv_q5="5810" exp_next_lv_q6="6970" exp_acc_q1="34690" exp_acc_q2="41630" exp_acc_q3="49960" exp_acc_q4="59950" exp_acc_q5="71970" exp_acc_q6="86370" />
+</chrexp>
+<chrexp lv="32" >
+<exps exp_next_lv_q1="2870" exp_next_lv_q2="3440" exp_next_lv_q3="4130" exp_next_lv_q4="4960" exp_next_lv_q5="5950" exp_next_lv_q6="7140" exp_acc_q1="37490" exp_acc_q2="44990" exp_acc_q3="53990" exp_acc_q4="64790" exp_acc_q5="77780" exp_acc_q6="93340" />
+</chrexp>
+<chrexp lv="33" >
+<exps exp_next_lv_q1="3360" exp_next_lv_q2="4030" exp_next_lv_q3="4840" exp_next_lv_q4="5810" exp_next_lv_q5="6970" exp_next_lv_q6="8360" exp_acc_q1="40360" exp_acc_q2="48430" exp_acc_q3="58120" exp_acc_q4="69750" exp_acc_q5="83730" exp_acc_q6="100480" />
+</chrexp>
+<chrexp lv="34" >
+<exps exp_next_lv_q1="3440" exp_next_lv_q2="4130" exp_next_lv_q3="4960" exp_next_lv_q4="5950" exp_next_lv_q5="7140" exp_next_lv_q6="8570" exp_acc_q1="43720" exp_acc_q2="52460" exp_acc_q3="62960" exp_acc_q4="75560" exp_acc_q5="90700" exp_acc_q6="108840" />
+</chrexp>
+<chrexp lv="35" >
+<exps exp_next_lv_q1="3520" exp_next_lv_q2="4220" exp_next_lv_q3="5060" exp_next_lv_q4="6070" exp_next_lv_q5="7280" exp_next_lv_q6="8740" exp_acc_q1="47160" exp_acc_q2="56590" exp_acc_q3="67920" exp_acc_q4="81510" exp_acc_q5="97840" exp_acc_q6="117410" />
+</chrexp>
+<chrexp lv="36" >
+<exps exp_next_lv_q1="3600" exp_next_lv_q2="4320" exp_next_lv_q3="5180" exp_next_lv_q4="6220" exp_next_lv_q5="7460" exp_next_lv_q6="8950" exp_acc_q1="50680" exp_acc_q2="60810" exp_acc_q3="72980" exp_acc_q4="87580" exp_acc_q5="105120" exp_acc_q6="126150" />
+</chrexp>
+<chrexp lv="37" >
+<exps exp_next_lv_q1="3680" exp_next_lv_q2="4420" exp_next_lv_q3="5300" exp_next_lv_q4="6360" exp_next_lv_q5="7630" exp_next_lv_q6="9160" exp_acc_q1="54280" exp_acc_q2="65130" exp_acc_q3="78160" exp_acc_q4="93800" exp_acc_q5="112580" exp_acc_q6="135100" />
+</chrexp>
+<chrexp lv="38" >
+<exps exp_next_lv_q1="4230" exp_next_lv_q2="5080" exp_next_lv_q3="6100" exp_next_lv_q4="7320" exp_next_lv_q5="8780" exp_next_lv_q6="10540" exp_acc_q1="57960" exp_acc_q2="69550" exp_acc_q3="83460" exp_acc_q4="100160" exp_acc_q5="120210" exp_acc_q6="144260" />
+</chrexp>
+<chrexp lv="39" >
+<exps exp_next_lv_q1="4320" exp_next_lv_q2="5180" exp_next_lv_q3="6220" exp_next_lv_q4="7460" exp_next_lv_q5="8950" exp_next_lv_q6="10740" exp_acc_q1="62190" exp_acc_q2="74630" exp_acc_q3="89560" exp_acc_q4="107480" exp_acc_q5="128990" exp_acc_q6="154800" />
+</chrexp>
+<chrexp lv="40" >
+<exps exp_next_lv_q1="4410" exp_next_lv_q2="5290" exp_next_lv_q3="6350" exp_next_lv_q4="7620" exp_next_lv_q5="9140" exp_next_lv_q6="10970" exp_acc_q1="66510" exp_acc_q2="79810" exp_acc_q3="95780" exp_acc_q4="114940" exp_acc_q5="137940" exp_acc_q6="165540" />
+</chrexp>
+<chrexp lv="41" >
+<exps exp_next_lv_q1="4500" exp_next_lv_q2="5400" exp_next_lv_q3="6480" exp_next_lv_q4="7780" exp_next_lv_q5="9340" exp_next_lv_q6="11210" exp_acc_q1="70920" exp_acc_q2="85100" exp_acc_q3="102130" exp_acc_q4="122560" exp_acc_q5="147080" exp_acc_q6="176510" />
+</chrexp>
+<chrexp lv="42" >
+<exps exp_next_lv_q1="4590" exp_next_lv_q2="5510" exp_next_lv_q3="6610" exp_next_lv_q4="7930" exp_next_lv_q5="9520" exp_next_lv_q6="11420" exp_acc_q1="75420" exp_acc_q2="90500" exp_acc_q3="108610" exp_acc_q4="130340" exp_acc_q5="156420" exp_acc_q6="187720" />
+</chrexp>
+<chrexp lv="43" >
+<exps exp_next_lv_q1="5200" exp_next_lv_q2="6240" exp_next_lv_q3="7490" exp_next_lv_q4="8990" exp_next_lv_q5="10790" exp_next_lv_q6="12950" exp_acc_q1="80010" exp_acc_q2="96010" exp_acc_q3="115220" exp_acc_q4="138270" exp_acc_q5="165940" exp_acc_q6="199140" />
+</chrexp>
+<chrexp lv="44" >
+<exps exp_next_lv_q1="5300" exp_next_lv_q2="6360" exp_next_lv_q3="7630" exp_next_lv_q4="9160" exp_next_lv_q5="10990" exp_next_lv_q6="13190" exp_acc_q1="85210" exp_acc_q2="102250" exp_acc_q3="122710" exp_acc_q4="147260" exp_acc_q5="176730" exp_acc_q6="212090" />
+</chrexp>
+<chrexp lv="45" >
+<exps exp_next_lv_q1="5400" exp_next_lv_q2="6480" exp_next_lv_q3="7780" exp_next_lv_q4="9340" exp_next_lv_q5="11210" exp_next_lv_q6="13450" exp_acc_q1="90510" exp_acc_q2="108610" exp_acc_q3="130340" exp_acc_q4="156420" exp_acc_q5="187720" exp_acc_q6="225280" />
+</chrexp>
+<chrexp lv="46" >
+<exps exp_next_lv_q1="5500" exp_next_lv_q2="6600" exp_next_lv_q3="7920" exp_next_lv_q4="9500" exp_next_lv_q5="11400" exp_next_lv_q6="13680" exp_acc_q1="95910" exp_acc_q2="115090" exp_acc_q3="138120" exp_acc_q4="165760" exp_acc_q5="198930" exp_acc_q6="238730" />
+</chrexp>
+<chrexp lv="47" >
+<exps exp_next_lv_q1="5600" exp_next_lv_q2="6720" exp_next_lv_q3="8060" exp_next_lv_q4="9670" exp_next_lv_q5="11600" exp_next_lv_q6="13920" exp_acc_q1="101410" exp_acc_q2="121690" exp_acc_q3="146040" exp_acc_q4="175260" exp_acc_q5="210330" exp_acc_q6="252410" />
+</chrexp>
+<chrexp lv="48" >
+<exps exp_next_lv_q1="6270" exp_next_lv_q2="7520" exp_next_lv_q3="9020" exp_next_lv_q4="10820" exp_next_lv_q5="12980" exp_next_lv_q6="15580" exp_acc_q1="107010" exp_acc_q2="128410" exp_acc_q3="154100" exp_acc_q4="184930" exp_acc_q5="221930" exp_acc_q6="266330" />
+</chrexp>
+<chrexp lv="49" >
+<exps exp_next_lv_q1="6380" exp_next_lv_q2="7660" exp_next_lv_q3="9190" exp_next_lv_q4="11030" exp_next_lv_q5="13240" exp_next_lv_q6="15890" exp_acc_q1="113280" exp_acc_q2="135930" exp_acc_q3="163120" exp_acc_q4="195750" exp_acc_q5="234910" exp_acc_q6="281910" />
+</chrexp>
+<chrexp lv="50" >
+<exps exp_next_lv_q1="6490" exp_next_lv_q2="7790" exp_next_lv_q3="9350" exp_next_lv_q4="11220" exp_next_lv_q5="13460" exp_next_lv_q6="16150" exp_acc_q1="119660" exp_acc_q2="143590" exp_acc_q3="172310" exp_acc_q4="206780" exp_acc_q5="248150" exp_acc_q6="297800" />
+</chrexp>
+<chrexp lv="51" >
+<exps exp_next_lv_q1="6600" exp_next_lv_q2="7920" exp_next_lv_q3="9500" exp_next_lv_q4="11400" exp_next_lv_q5="13680" exp_next_lv_q6="16420" exp_acc_q1="126150" exp_acc_q2="151380" exp_acc_q3="181660" exp_acc_q4="218000" exp_acc_q5="261610" exp_acc_q6="313950" />
+</chrexp>
+<chrexp lv="52" >
+<exps exp_next_lv_q1="6710" exp_next_lv_q2="8050" exp_next_lv_q3="9660" exp_next_lv_q4="11590" exp_next_lv_q5="13910" exp_next_lv_q6="16690" exp_acc_q1="132750" exp_acc_q2="159300" exp_acc_q3="191160" exp_acc_q4="229400" exp_acc_q5="275290" exp_acc_q6="330370" />
+</chrexp>
+<chrexp lv="53" >
+<exps exp_next_lv_q1="7440" exp_next_lv_q2="8930" exp_next_lv_q3="10720" exp_next_lv_q4="12860" exp_next_lv_q5="15430" exp_next_lv_q6="18520" exp_acc_q1="139460" exp_acc_q2="167350" exp_acc_q3="200820" exp_acc_q4="240990" exp_acc_q5="289200" exp_acc_q6="347060" />
+</chrexp>
+<chrexp lv="54" >
+<exps exp_next_lv_q1="7560" exp_next_lv_q2="9070" exp_next_lv_q3="10880" exp_next_lv_q4="13060" exp_next_lv_q5="15670" exp_next_lv_q6="18800" exp_acc_q1="146900" exp_acc_q2="176280" exp_acc_q3="211540" exp_acc_q4="253850" exp_acc_q5="304630" exp_acc_q6="365580" />
+</chrexp>
+<chrexp lv="55" >
+<exps exp_next_lv_q1="7680" exp_next_lv_q2="9220" exp_next_lv_q3="11060" exp_next_lv_q4="13270" exp_next_lv_q5="15920" exp_next_lv_q6="19100" exp_acc_q1="154460" exp_acc_q2="185350" exp_acc_q3="222420" exp_acc_q4="266910" exp_acc_q5="320300" exp_acc_q6="384380" />
+</chrexp>
+<chrexp lv="56" >
+<exps exp_next_lv_q1="7800" exp_next_lv_q2="9360" exp_next_lv_q3="11230" exp_next_lv_q4="13480" exp_next_lv_q5="16180" exp_next_lv_q6="19420" exp_acc_q1="162140" exp_acc_q2="194570" exp_acc_q3="233480" exp_acc_q4="280180" exp_acc_q5="336220" exp_acc_q6="403480" />
+</chrexp>
+<chrexp lv="57" >
+<exps exp_next_lv_q1="7920" exp_next_lv_q2="9500" exp_next_lv_q3="11400" exp_next_lv_q4="13680" exp_next_lv_q5="16420" exp_next_lv_q6="19700" exp_acc_q1="169940" exp_acc_q2="203930" exp_acc_q3="244710" exp_acc_q4="293660" exp_acc_q5="352400" exp_acc_q6="422900" />
+</chrexp>
+<chrexp lv="58" >
+<exps exp_next_lv_q1="8710" exp_next_lv_q2="10450" exp_next_lv_q3="12540" exp_next_lv_q4="15050" exp_next_lv_q5="18060" exp_next_lv_q6="21670" exp_acc_q1="177860" exp_acc_q2="213430" exp_acc_q3="256110" exp_acc_q4="307340" exp_acc_q5="368820" exp_acc_q6="442600" />
+</chrexp>
+<chrexp lv="59" >
+<exps exp_next_lv_q1="8840" exp_next_lv_q2="10610" exp_next_lv_q3="12730" exp_next_lv_q4="15280" exp_next_lv_q5="18340" exp_next_lv_q6="22010" exp_acc_q1="186570" exp_acc_q2="223880" exp_acc_q3="268650" exp_acc_q4="322390" exp_acc_q5="386880" exp_acc_q6="464270" />
+</chrexp>
+<chrexp lv="60" >
+<exps exp_next_lv_q1="8970" exp_next_lv_q2="10760" exp_next_lv_q3="12910" exp_next_lv_q4="15490" exp_next_lv_q5="18590" exp_next_lv_q6="22310" exp_acc_q1="195410" exp_acc_q2="234490" exp_acc_q3="281380" exp_acc_q4="337670" exp_acc_q5="405220" exp_acc_q6="486280" />
+</chrexp>
+<chrexp lv="61" >
+<exps exp_next_lv_q1="9100" exp_next_lv_q2="10920" exp_next_lv_q3="13100" exp_next_lv_q4="15720" exp_next_lv_q5="18860" exp_next_lv_q6="22630" exp_acc_q1="204380" exp_acc_q2="245250" exp_acc_q3="294290" exp_acc_q4="353160" exp_acc_q5="423810" exp_acc_q6="508590" />
+</chrexp>
+<chrexp lv="62" >
+<exps exp_next_lv_q1="9230" exp_next_lv_q2="11080" exp_next_lv_q3="13300" exp_next_lv_q4="15960" exp_next_lv_q5="19150" exp_next_lv_q6="22980" exp_acc_q1="213480" exp_acc_q2="256170" exp_acc_q3="307390" exp_acc_q4="368880" exp_acc_q5="442670" exp_acc_q6="531220" />
+</chrexp>
+<chrexp lv="63" >
+<exps exp_next_lv_q1="10080" exp_next_lv_q2="12100" exp_next_lv_q3="14520" exp_next_lv_q4="17420" exp_next_lv_q5="20900" exp_next_lv_q6="25080" exp_acc_q1="222710" exp_acc_q2="267250" exp_acc_q3="320690" exp_acc_q4="384840" exp_acc_q5="461820" exp_acc_q6="554200" />
+</chrexp>
+<chrexp lv="64" >
+<exps exp_next_lv_q1="10220" exp_next_lv_q2="12260" exp_next_lv_q3="14710" exp_next_lv_q4="17650" exp_next_lv_q5="21180" exp_next_lv_q6="25420" exp_acc_q1="232790" exp_acc_q2="279350" exp_acc_q3="335210" exp_acc_q4="402260" exp_acc_q5="482720" exp_acc_q6="579280" />
+</chrexp>
+<chrexp lv="65" >
+<exps exp_next_lv_q1="10360" exp_next_lv_q2="12430" exp_next_lv_q3="14920" exp_next_lv_q4="17900" exp_next_lv_q5="21480" exp_next_lv_q6="25780" exp_acc_q1="243010" exp_acc_q2="291610" exp_acc_q3="349920" exp_acc_q4="419910" exp_acc_q5="503900" exp_acc_q6="604700" />
+</chrexp>
+<chrexp lv="66" >
+<exps exp_next_lv_q1="10500" exp_next_lv_q2="12600" exp_next_lv_q3="15120" exp_next_lv_q4="18140" exp_next_lv_q5="21770" exp_next_lv_q6="26120" exp_acc_q1="253370" exp_acc_q2="304040" exp_acc_q3="364840" exp_acc_q4="437810" exp_acc_q5="525380" exp_acc_q6="630480" />
+</chrexp>
+<chrexp lv="67" >
+<exps exp_next_lv_q1="10640" exp_next_lv_q2="12770" exp_next_lv_q3="15320" exp_next_lv_q4="18380" exp_next_lv_q5="22060" exp_next_lv_q6="26470" exp_acc_q1="263870" exp_acc_q2="316640" exp_acc_q3="379960" exp_acc_q4="455950" exp_acc_q5="547150" exp_acc_q6="656600" />
+</chrexp>
+<chrexp lv="68" >
+<exps exp_next_lv_q1="11550" exp_next_lv_q2="13860" exp_next_lv_q3="16630" exp_next_lv_q4="19960" exp_next_lv_q5="23950" exp_next_lv_q6="28740" exp_acc_q1="274510" exp_acc_q2="329410" exp_acc_q3="395280" exp_acc_q4="474330" exp_acc_q5="569210" exp_acc_q6="683070" />
+</chrexp>
+<chrexp lv="69" >
+<exps exp_next_lv_q1="11700" exp_next_lv_q2="14040" exp_next_lv_q3="16850" exp_next_lv_q4="20220" exp_next_lv_q5="24260" exp_next_lv_q6="29110" exp_acc_q1="286060" exp_acc_q2="343270" exp_acc_q3="411910" exp_acc_q4="494290" exp_acc_q5="593160" exp_acc_q6="711810" />
+</chrexp>
+<chrexp lv="70" >
+<exps exp_next_lv_q1="11850" exp_next_lv_q2="14220" exp_next_lv_q3="17060" exp_next_lv_q4="20470" exp_next_lv_q5="24560" exp_next_lv_q6="29470" exp_acc_q1="297760" exp_acc_q2="357310" exp_acc_q3="428760" exp_acc_q4="514510" exp_acc_q5="617420" exp_acc_q6="740920" />
+</chrexp>
+<chrexp lv="71" >
+<exps exp_next_lv_q1="12000" exp_next_lv_q2="14400" exp_next_lv_q3="17280" exp_next_lv_q4="20740" exp_next_lv_q5="24890" exp_next_lv_q6="29870" exp_acc_q1="309610" exp_acc_q2="371530" exp_acc_q3="445820" exp_acc_q4="534980" exp_acc_q5="641980" exp_acc_q6="770390" />
+</chrexp>
+<chrexp lv="72" >
+<exps exp_next_lv_q1="12150" exp_next_lv_q2="14580" exp_next_lv_q3="17500" exp_next_lv_q4="21000" exp_next_lv_q5="25200" exp_next_lv_q6="30240" exp_acc_q1="321610" exp_acc_q2="385930" exp_acc_q3="463100" exp_acc_q4="555720" exp_acc_q5="666870" exp_acc_q6="800260" />
+</chrexp>
+<chrexp lv="73" >
+<exps exp_next_lv_q1="13120" exp_next_lv_q2="15740" exp_next_lv_q3="18890" exp_next_lv_q4="22670" exp_next_lv_q5="27200" exp_next_lv_q6="32640" exp_acc_q1="333760" exp_acc_q2="400510" exp_acc_q3="480600" exp_acc_q4="576720" exp_acc_q5="692070" exp_acc_q6="830500" />
+</chrexp>
+<chrexp lv="74" >
+<exps exp_next_lv_q1="13280" exp_next_lv_q2="15940" exp_next_lv_q3="19130" exp_next_lv_q4="22960" exp_next_lv_q5="27550" exp_next_lv_q6="33060" exp_acc_q1="346880" exp_acc_q2="416250" exp_acc_q3="499490" exp_acc_q4="599390" exp_acc_q5="719270" exp_acc_q6="863140" />
+</chrexp>
+<chrexp lv="75" >
+<exps exp_next_lv_q1="13440" exp_next_lv_q2="16130" exp_next_lv_q3="19360" exp_next_lv_q4="23230" exp_next_lv_q5="27880" exp_next_lv_q6="33460" exp_acc_q1="360160" exp_acc_q2="432190" exp_acc_q3="518620" exp_acc_q4="622350" exp_acc_q5="746820" exp_acc_q6="896200" />
+</chrexp>
+<chrexp lv="76" >
+<exps exp_next_lv_q1="13600" exp_next_lv_q2="16320" exp_next_lv_q3="19580" exp_next_lv_q4="23500" exp_next_lv_q5="28200" exp_next_lv_q6="33840" exp_acc_q1="373600" exp_acc_q2="448320" exp_acc_q3="537980" exp_acc_q4="645580" exp_acc_q5="774700" exp_acc_q6="929660" />
+</chrexp>
+<chrexp lv="77" >
+<exps exp_next_lv_q1="13760" exp_next_lv_q2="16510" exp_next_lv_q3="19810" exp_next_lv_q4="23770" exp_next_lv_q5="28520" exp_next_lv_q6="34220" exp_acc_q1="387200" exp_acc_q2="464640" exp_acc_q3="557560" exp_acc_q4="669080" exp_acc_q5="802900" exp_acc_q6="963500" />
+</chrexp>
+<chrexp lv="78" >
+<exps exp_next_lv_q1="14790" exp_next_lv_q2="17750" exp_next_lv_q3="21300" exp_next_lv_q4="25560" exp_next_lv_q5="30670" exp_next_lv_q6="36800" exp_acc_q1="400960" exp_acc_q2="481150" exp_acc_q3="577370" exp_acc_q4="692850" exp_acc_q5="831420" exp_acc_q6="997720" />
+</chrexp>
+<chrexp lv="79" >
+<exps exp_next_lv_q1="14960" exp_next_lv_q2="17950" exp_next_lv_q3="21540" exp_next_lv_q4="25850" exp_next_lv_q5="31020" exp_next_lv_q6="37220" exp_acc_q1="415750" exp_acc_q2="498900" exp_acc_q3="598670" exp_acc_q4="718410" exp_acc_q5="862090" exp_acc_q6="1034520" />
+</chrexp>
+<chrexp lv="80" >
+<exps exp_next_lv_q1="15130" exp_next_lv_q2="18160" exp_next_lv_q3="21790" exp_next_lv_q4="26150" exp_next_lv_q5="31380" exp_next_lv_q6="37660" exp_acc_q1="430710" exp_acc_q2="516850" exp_acc_q3="620210" exp_acc_q4="744260" exp_acc_q5="893110" exp_acc_q6="1071740" />
+</chrexp>
+<chrexp lv="81" >
+<exps exp_next_lv_q1="15300" exp_next_lv_q2="18360" exp_next_lv_q3="22030" exp_next_lv_q4="26440" exp_next_lv_q5="31730" exp_next_lv_q6="38080" exp_acc_q1="445840" exp_acc_q2="535010" exp_acc_q3="642000" exp_acc_q4="770410" exp_acc_q5="924490" exp_acc_q6="1109400" />
+</chrexp>
+<chrexp lv="82" >
+<exps exp_next_lv_q1="15470" exp_next_lv_q2="18560" exp_next_lv_q3="22270" exp_next_lv_q4="26720" exp_next_lv_q5="32060" exp_next_lv_q6="38470" exp_acc_q1="461140" exp_acc_q2="553370" exp_acc_q3="664030" exp_acc_q4="796850" exp_acc_q5="956220" exp_acc_q6="1147480" />
+</chrexp>
+<chrexp lv="83" >
+<exps exp_next_lv_q1="16560" exp_next_lv_q2="19870" exp_next_lv_q3="23840" exp_next_lv_q4="28610" exp_next_lv_q5="34330" exp_next_lv_q6="41200" exp_acc_q1="476610" exp_acc_q2="571930" exp_acc_q3="686300" exp_acc_q4="823570" exp_acc_q5="988280" exp_acc_q6="1185950" />
+</chrexp>
+<chrexp lv="84" >
+<exps exp_next_lv_q1="16740" exp_next_lv_q2="20090" exp_next_lv_q3="24110" exp_next_lv_q4="28930" exp_next_lv_q5="34720" exp_next_lv_q6="41660" exp_acc_q1="493170" exp_acc_q2="591800" exp_acc_q3="710140" exp_acc_q4="852180" exp_acc_q5="1022610" exp_acc_q6="1227150" />
+</chrexp>
+<chrexp lv="85" >
+<exps exp_next_lv_q1="16920" exp_next_lv_q2="20300" exp_next_lv_q3="24360" exp_next_lv_q4="29230" exp_next_lv_q5="35080" exp_next_lv_q6="42100" exp_acc_q1="509910" exp_acc_q2="611890" exp_acc_q3="734250" exp_acc_q4="881110" exp_acc_q5="1057330" exp_acc_q6="1268810" />
+</chrexp>
+<chrexp lv="86" >
+<exps exp_next_lv_q1="17100" exp_next_lv_q2="20520" exp_next_lv_q3="24620" exp_next_lv_q4="29540" exp_next_lv_q5="35450" exp_next_lv_q6="42540" exp_acc_q1="526830" exp_acc_q2="632190" exp_acc_q3="758610" exp_acc_q4="910340" exp_acc_q5="1092410" exp_acc_q6="1310910" />
+</chrexp>
+<chrexp lv="87" >
+<exps exp_next_lv_q1="17280" exp_next_lv_q2="20740" exp_next_lv_q3="24890" exp_next_lv_q4="29870" exp_next_lv_q5="35840" exp_next_lv_q6="43010" exp_acc_q1="543930" exp_acc_q2="652710" exp_acc_q3="783230" exp_acc_q4="939880" exp_acc_q5="1127860" exp_acc_q6="1353450" />
+</chrexp>
+<chrexp lv="88" >
+<exps exp_next_lv_q1="18430" exp_next_lv_q2="22120" exp_next_lv_q3="26540" exp_next_lv_q4="31850" exp_next_lv_q5="38220" exp_next_lv_q6="45860" exp_acc_q1="561210" exp_acc_q2="673450" exp_acc_q3="808120" exp_acc_q4="969750" exp_acc_q5="1163700" exp_acc_q6="1396460" />
+</chrexp>
+<chrexp lv="89" >
+<exps exp_next_lv_q1="18620" exp_next_lv_q2="22340" exp_next_lv_q3="26810" exp_next_lv_q4="32170" exp_next_lv_q5="38600" exp_next_lv_q6="46320" exp_acc_q1="579640" exp_acc_q2="695570" exp_acc_q3="834660" exp_acc_q4="1001600" exp_acc_q5="1201920" exp_acc_q6="1442320" />
+</chrexp>
+<chrexp lv="90" >
+<exps exp_next_lv_q1="18810" exp_next_lv_q2="22570" exp_next_lv_q3="27080" exp_next_lv_q4="32500" exp_next_lv_q5="39000" exp_next_lv_q6="46800" exp_acc_q1="598260" exp_acc_q2="717910" exp_acc_q3="861470" exp_acc_q4="1033770" exp_acc_q5="1240520" exp_acc_q6="1488640" />
+</chrexp>
+<chrexp lv="91" >
+<exps exp_next_lv_q1="19000" exp_next_lv_q2="22800" exp_next_lv_q3="27360" exp_next_lv_q4="32830" exp_next_lv_q5="39400" exp_next_lv_q6="47280" exp_acc_q1="617070" exp_acc_q2="740480" exp_acc_q3="888550" exp_acc_q4="1066270" exp_acc_q5="1279520" exp_acc_q6="1535440" />
+</chrexp>
+<chrexp lv="92" >
+<exps exp_next_lv_q1="19190" exp_next_lv_q2="23030" exp_next_lv_q3="27640" exp_next_lv_q4="33170" exp_next_lv_q5="39800" exp_next_lv_q6="47760" exp_acc_q1="636070" exp_acc_q2="763280" exp_acc_q3="915910" exp_acc_q4="1099100" exp_acc_q5="1318920" exp_acc_q6="1582720" />
+</chrexp>
+<chrexp lv="93" >
+<exps exp_next_lv_q1="20400" exp_next_lv_q2="24480" exp_next_lv_q3="29380" exp_next_lv_q4="35260" exp_next_lv_q5="42310" exp_next_lv_q6="50770" exp_acc_q1="655260" exp_acc_q2="786310" exp_acc_q3="943550" exp_acc_q4="1132270" exp_acc_q5="1358720" exp_acc_q6="1630480" />
+</chrexp>
+<chrexp lv="94" >
+<exps exp_next_lv_q1="20600" exp_next_lv_q2="24720" exp_next_lv_q3="29660" exp_next_lv_q4="35590" exp_next_lv_q5="42710" exp_next_lv_q6="51250" exp_acc_q1="675660" exp_acc_q2="810790" exp_acc_q3="972930" exp_acc_q4="1167530" exp_acc_q5="1401030" exp_acc_q6="1681250" />
+</chrexp>
+<chrexp lv="95" >
+<exps exp_next_lv_q1="20800" exp_next_lv_q2="24960" exp_next_lv_q3="29950" exp_next_lv_q4="35940" exp_next_lv_q5="43130" exp_next_lv_q6="51760" exp_acc_q1="696260" exp_acc_q2="835510" exp_acc_q3="1002590" exp_acc_q4="1203120" exp_acc_q5="1443740" exp_acc_q6="1732500" />
+</chrexp>
+<chrexp lv="96" >
+<exps exp_next_lv_q1="21000" exp_next_lv_q2="25200" exp_next_lv_q3="30240" exp_next_lv_q4="36290" exp_next_lv_q5="43550" exp_next_lv_q6="52260" exp_acc_q1="717060" exp_acc_q2="860470" exp_acc_q3="1032540" exp_acc_q4="1239060" exp_acc_q5="1486870" exp_acc_q6="1784260" />
+</chrexp>
+<chrexp lv="97" >
+<exps exp_next_lv_q1="21200" exp_next_lv_q2="25440" exp_next_lv_q3="30530" exp_next_lv_q4="36640" exp_next_lv_q5="43970" exp_next_lv_q6="52760" exp_acc_q1="738060" exp_acc_q2="885670" exp_acc_q3="1062780" exp_acc_q4="1275350" exp_acc_q5="1530420" exp_acc_q6="1836520" />
+</chrexp>
+<chrexp lv="98" >
+<exps exp_next_lv_q1="22470" exp_next_lv_q2="26960" exp_next_lv_q3="32350" exp_next_lv_q4="38820" exp_next_lv_q5="46580" exp_next_lv_q6="55900" exp_acc_q1="759260" exp_acc_q2="911110" exp_acc_q3="1093310" exp_acc_q4="1311990" exp_acc_q5="1574390" exp_acc_q6="1889280" />
+</chrexp>
+<chrexp lv="99" >
+<exps exp_next_lv_q1="22680" exp_next_lv_q2="27220" exp_next_lv_q3="32660" exp_next_lv_q4="39190" exp_next_lv_q5="47030" exp_next_lv_q6="56440" exp_acc_q1="781730" exp_acc_q2="938070" exp_acc_q3="1125660" exp_acc_q4="1350810" exp_acc_q5="1620970" exp_acc_q6="1945180" />
+</chrexp>
+<chrexp lv="100" >
+<exps exp_next_lv_q1="22890" exp_next_lv_q2="27470" exp_next_lv_q3="32960" exp_next_lv_q4="39550" exp_next_lv_q5="47460" exp_next_lv_q6="56950" exp_acc_q1="804410" exp_acc_q2="965290" exp_acc_q3="1158320" exp_acc_q4="1390000" exp_acc_q5="1668000" exp_acc_q6="2001620" />
+</chrexp>
+<chrexp lv="101" >
+<exps exp_next_lv_q1="23100" exp_next_lv_q2="27720" exp_next_lv_q3="33260" exp_next_lv_q4="39910" exp_next_lv_q5="47890" exp_next_lv_q6="57470" exp_acc_q1="827300" exp_acc_q2="992760" exp_acc_q3="1191280" exp_acc_q4="1429550" exp_acc_q5="1715460" exp_acc_q6="2058570" />
+</chrexp>
+<chrexp lv="102" >
+<exps exp_next_lv_q1="23310" exp_next_lv_q2="27970" exp_next_lv_q3="33560" exp_next_lv_q4="40270" exp_next_lv_q5="48320" exp_next_lv_q6="57980" exp_acc_q1="850400" exp_acc_q2="1020480" exp_acc_q3="1224540" exp_acc_q4="1469460" exp_acc_q5="1763350" exp_acc_q6="2116040" />
+</chrexp>
+<chrexp lv="103" >
+<exps exp_next_lv_q1="24640" exp_next_lv_q2="29570" exp_next_lv_q3="35480" exp_next_lv_q4="42580" exp_next_lv_q5="51100" exp_next_lv_q6="61320" exp_acc_q1="873710" exp_acc_q2="1048450" exp_acc_q3="1258100" exp_acc_q4="1509730" exp_acc_q5="1811670" exp_acc_q6="2174020" />
+</chrexp>
+<chrexp lv="104" >
+<exps exp_next_lv_q1="24860" exp_next_lv_q2="29830" exp_next_lv_q3="35800" exp_next_lv_q4="42960" exp_next_lv_q5="51550" exp_next_lv_q6="61860" exp_acc_q1="898350" exp_acc_q2="1078020" exp_acc_q3="1293580" exp_acc_q4="1552310" exp_acc_q5="1862770" exp_acc_q6="2235340" />
+</chrexp>
+<chrexp lv="105" >
+<exps exp_next_lv_q1="25080" exp_next_lv_q2="30100" exp_next_lv_q3="36120" exp_next_lv_q4="43340" exp_next_lv_q5="52010" exp_next_lv_q6="62410" exp_acc_q1="923210" exp_acc_q2="1107850" exp_acc_q3="1329380" exp_acc_q4="1595270" exp_acc_q5="1914320" exp_acc_q6="2297200" />
+</chrexp>
+<chrexp lv="106" >
+<exps exp_next_lv_q1="25300" exp_next_lv_q2="30360" exp_next_lv_q3="36430" exp_next_lv_q4="43720" exp_next_lv_q5="52460" exp_next_lv_q6="62950" exp_acc_q1="948290" exp_acc_q2="1137950" exp_acc_q3="1365500" exp_acc_q4="1638610" exp_acc_q5="1966330" exp_acc_q6="2359610" />
+</chrexp>
+<chrexp lv="107" >
+<exps exp_next_lv_q1="25520" exp_next_lv_q2="30620" exp_next_lv_q3="36740" exp_next_lv_q4="44090" exp_next_lv_q5="52910" exp_next_lv_q6="63490" exp_acc_q1="973590" exp_acc_q2="1168310" exp_acc_q3="1401930" exp_acc_q4="1682330" exp_acc_q5="2018790" exp_acc_q6="2422560" />
+</chrexp>
+<chrexp lv="108" >
+<exps exp_next_lv_q1="26910" exp_next_lv_q2="32290" exp_next_lv_q3="38750" exp_next_lv_q4="46500" exp_next_lv_q5="55800" exp_next_lv_q6="66960" exp_acc_q1="999110" exp_acc_q2="1198930" exp_acc_q3="1438670" exp_acc_q4="1726420" exp_acc_q5="2071700" exp_acc_q6="2486050" />
+</chrexp>
+<chrexp lv="109" >
+<exps exp_next_lv_q1="27140" exp_next_lv_q2="32570" exp_next_lv_q3="39080" exp_next_lv_q4="46900" exp_next_lv_q5="56280" exp_next_lv_q6="67540" exp_acc_q1="1026020" exp_acc_q2="1231220" exp_acc_q3="1477420" exp_acc_q4="1772920" exp_acc_q5="2127500" exp_acc_q6="2553010" />
+</chrexp>
+<chrexp lv="110" >
+<exps exp_next_lv_q1="27370" exp_next_lv_q2="32840" exp_next_lv_q3="39410" exp_next_lv_q4="47290" exp_next_lv_q5="56750" exp_next_lv_q6="68100" exp_acc_q1="1053160" exp_acc_q2="1263790" exp_acc_q3="1516500" exp_acc_q4="1819820" exp_acc_q5="2183780" exp_acc_q6="2620550" />
+</chrexp>
+<chrexp lv="111" >
+<exps exp_next_lv_q1="27600" exp_next_lv_q2="33120" exp_next_lv_q3="39740" exp_next_lv_q4="47690" exp_next_lv_q5="57230" exp_next_lv_q6="68680" exp_acc_q1="1080530" exp_acc_q2="1296630" exp_acc_q3="1555910" exp_acc_q4="1867110" exp_acc_q5="2240530" exp_acc_q6="2688650" />
+</chrexp>
+<chrexp lv="112" >
+<exps exp_next_lv_q1="27830" exp_next_lv_q2="33400" exp_next_lv_q3="40080" exp_next_lv_q4="48100" exp_next_lv_q5="57720" exp_next_lv_q6="69260" exp_acc_q1="1108130" exp_acc_q2="1329750" exp_acc_q3="1595650" exp_acc_q4="1914800" exp_acc_q5="2297760" exp_acc_q6="2757330" />
+</chrexp>
+<chrexp lv="113" >
+<exps exp_next_lv_q1="29280" exp_next_lv_q2="35140" exp_next_lv_q3="42170" exp_next_lv_q4="50600" exp_next_lv_q5="60720" exp_next_lv_q6="72860" exp_acc_q1="1135960" exp_acc_q2="1363150" exp_acc_q3="1635730" exp_acc_q4="1962900" exp_acc_q5="2355480" exp_acc_q6="2826590" />
+</chrexp>
+<chrexp lv="114" >
+<exps exp_next_lv_q1="29520" exp_next_lv_q2="35420" exp_next_lv_q3="42500" exp_next_lv_q4="51000" exp_next_lv_q5="61200" exp_next_lv_q6="73440" exp_acc_q1="1165240" exp_acc_q2="1398290" exp_acc_q3="1677900" exp_acc_q4="2013500" exp_acc_q5="2416200" exp_acc_q6="2899450" />
+</chrexp>
+<chrexp lv="115" >
+<exps exp_next_lv_q1="29760" exp_next_lv_q2="35710" exp_next_lv_q3="42850" exp_next_lv_q4="51420" exp_next_lv_q5="61700" exp_next_lv_q6="74040" exp_acc_q1="1194760" exp_acc_q2="1433710" exp_acc_q3="1720400" exp_acc_q4="2064500" exp_acc_q5="2477400" exp_acc_q6="2972890" />
+</chrexp>
+<chrexp lv="116" >
+<exps exp_next_lv_q1="30000" exp_next_lv_q2="36000" exp_next_lv_q3="43200" exp_next_lv_q4="51840" exp_next_lv_q5="62210" exp_next_lv_q6="74650" exp_acc_q1="1224520" exp_acc_q2="1469420" exp_acc_q3="1763250" exp_acc_q4="2115920" exp_acc_q5="2539100" exp_acc_q6="3046930" />
+</chrexp>
+<chrexp lv="117" >
+<exps exp_next_lv_q1="30240" exp_next_lv_q2="36290" exp_next_lv_q3="43550" exp_next_lv_q4="52260" exp_next_lv_q5="62710" exp_next_lv_q6="75250" exp_acc_q1="1254520" exp_acc_q2="1505420" exp_acc_q3="1806450" exp_acc_q4="2167760" exp_acc_q5="2601310" exp_acc_q6="3121580" />
+</chrexp>
+<chrexp lv="118" >
+<exps exp_next_lv_q1="31750" exp_next_lv_q2="38100" exp_next_lv_q3="45720" exp_next_lv_q4="54860" exp_next_lv_q5="65830" exp_next_lv_q6="79000" exp_acc_q1="1284760" exp_acc_q2="1541710" exp_acc_q3="1850000" exp_acc_q4="2220020" exp_acc_q5="2664020" exp_acc_q6="3196830" />
+</chrexp>
+<chrexp lv="119" >
+<exps exp_next_lv_q1="32000" exp_next_lv_q2="38400" exp_next_lv_q3="46080" exp_next_lv_q4="55300" exp_next_lv_q5="66360" exp_next_lv_q6="79630" exp_acc_q1="1316510" exp_acc_q2="1579810" exp_acc_q3="1895720" exp_acc_q4="2274880" exp_acc_q5="2729850" exp_acc_q6="3275830" />
+</chrexp>
+<chrexp lv="120" >
+<exps exp_next_lv_q1="32250" exp_next_lv_q2="38700" exp_next_lv_q3="46440" exp_next_lv_q4="55730" exp_next_lv_q5="66880" exp_next_lv_q6="80260" exp_acc_q1="1348510" exp_acc_q2="1618210" exp_acc_q3="1941800" exp_acc_q4="2330180" exp_acc_q5="2796210" exp_acc_q6="3355460" />
+</chrexp>
+<chrexp lv="121" >
+<exps exp_next_lv_q1="32500" exp_next_lv_q2="39000" exp_next_lv_q3="46800" exp_next_lv_q4="56160" exp_next_lv_q5="67390" exp_next_lv_q6="80870" exp_acc_q1="1380760" exp_acc_q2="1656910" exp_acc_q3="1988240" exp_acc_q4="2385910" exp_acc_q5="2863090" exp_acc_q6="3435720" />
+</chrexp>
+<chrexp lv="122" >
+<exps exp_next_lv_q1="32750" exp_next_lv_q2="39300" exp_next_lv_q3="47160" exp_next_lv_q4="56590" exp_next_lv_q5="67910" exp_next_lv_q6="81490" exp_acc_q1="1413260" exp_acc_q2="1695910" exp_acc_q3="2035040" exp_acc_q4="2442070" exp_acc_q5="2930480" exp_acc_q6="3516590" />
+</chrexp>
+<chrexp lv="123" >
+<exps exp_next_lv_q1="34320" exp_next_lv_q2="41180" exp_next_lv_q3="49420" exp_next_lv_q4="59300" exp_next_lv_q5="71160" exp_next_lv_q6="85390" exp_acc_q1="1446010" exp_acc_q2="1735210" exp_acc_q3="2082200" exp_acc_q4="2498660" exp_acc_q5="2998390" exp_acc_q6="3598080" />
+</chrexp>
+<chrexp lv="124" >
+<exps exp_next_lv_q1="34580" exp_next_lv_q2="41500" exp_next_lv_q3="49800" exp_next_lv_q4="59760" exp_next_lv_q5="71710" exp_next_lv_q6="86050" exp_acc_q1="1480330" exp_acc_q2="1776390" exp_acc_q3="2131620" exp_acc_q4="2557960" exp_acc_q5="3069550" exp_acc_q6="3683470" />
+</chrexp>
+<chrexp lv="125" >
+<exps exp_next_lv_q1="34840" exp_next_lv_q2="41810" exp_next_lv_q3="50170" exp_next_lv_q4="60200" exp_next_lv_q5="72240" exp_next_lv_q6="86690" exp_acc_q1="1514910" exp_acc_q2="1817890" exp_acc_q3="2181420" exp_acc_q4="2617720" exp_acc_q5="3141260" exp_acc_q6="3769520" />
+</chrexp>
+<chrexp lv="126" >
+<exps exp_next_lv_q1="35100" exp_next_lv_q2="42120" exp_next_lv_q3="50540" exp_next_lv_q4="60650" exp_next_lv_q5="72780" exp_next_lv_q6="87340" exp_acc_q1="1549750" exp_acc_q2="1859700" exp_acc_q3="2231590" exp_acc_q4="2677920" exp_acc_q5="3213500" exp_acc_q6="3856210" />
+</chrexp>
+<chrexp lv="127" >
+<exps exp_next_lv_q1="35360" exp_next_lv_q2="42430" exp_next_lv_q3="50920" exp_next_lv_q4="61100" exp_next_lv_q5="73320" exp_next_lv_q6="87980" exp_acc_q1="1584850" exp_acc_q2="1901820" exp_acc_q3="2282130" exp_acc_q4="2738570" exp_acc_q5="3286280" exp_acc_q6="3943550" />
+</chrexp>
+<chrexp lv="128" >
+<exps exp_next_lv_q1="36990" exp_next_lv_q2="44390" exp_next_lv_q3="53270" exp_next_lv_q4="63920" exp_next_lv_q5="76700" exp_next_lv_q6="92040" exp_acc_q1="1620210" exp_acc_q2="1944250" exp_acc_q3="2333050" exp_acc_q4="2799670" exp_acc_q5="3359600" exp_acc_q6="4031530" />
+</chrexp>
+<chrexp lv="129" >
+<exps exp_next_lv_q1="37260" exp_next_lv_q2="44710" exp_next_lv_q3="53650" exp_next_lv_q4="64380" exp_next_lv_q5="77260" exp_next_lv_q6="92710" exp_acc_q1="1657200" exp_acc_q2="1988640" exp_acc_q3="2386320" exp_acc_q4="2863590" exp_acc_q5="3436300" exp_acc_q6="4123570" />
+</chrexp>
+<chrexp lv="130" >
+<exps exp_next_lv_q1="37530" exp_next_lv_q2="45040" exp_next_lv_q3="54050" exp_next_lv_q4="64860" exp_next_lv_q5="77830" exp_next_lv_q6="93400" exp_acc_q1="1694460" exp_acc_q2="2033350" exp_acc_q3="2439970" exp_acc_q4="2927970" exp_acc_q5="3513560" exp_acc_q6="4216280" />
+</chrexp>
+<chrexp lv="131" >
+<exps exp_next_lv_q1="37800" exp_next_lv_q2="45360" exp_next_lv_q3="54430" exp_next_lv_q4="65320" exp_next_lv_q5="78380" exp_next_lv_q6="94060" exp_acc_q1="1731990" exp_acc_q2="2078390" exp_acc_q3="2494020" exp_acc_q4="2992830" exp_acc_q5="3591390" exp_acc_q6="4309680" />
+</chrexp>
+<chrexp lv="132" >
+<exps exp_next_lv_q1="38070" exp_next_lv_q2="45680" exp_next_lv_q3="54820" exp_next_lv_q4="65780" exp_next_lv_q5="78940" exp_next_lv_q6="94730" exp_acc_q1="1769790" exp_acc_q2="2123750" exp_acc_q3="2548450" exp_acc_q4="3058150" exp_acc_q5="3669770" exp_acc_q6="4403740" />
+</chrexp>
+<chrexp lv="133" >
+<exps exp_next_lv_q1="39760" exp_next_lv_q2="47710" exp_next_lv_q3="57250" exp_next_lv_q4="68700" exp_next_lv_q5="82440" exp_next_lv_q6="98930" exp_acc_q1="1807860" exp_acc_q2="2169430" exp_acc_q3="2603270" exp_acc_q4="3123930" exp_acc_q5="3748710" exp_acc_q6="4498470" />
+</chrexp>
+<chrexp lv="134" >
+<exps exp_next_lv_q1="40040" exp_next_lv_q2="48050" exp_next_lv_q3="57660" exp_next_lv_q4="69190" exp_next_lv_q5="83030" exp_next_lv_q6="99640" exp_acc_q1="1847620" exp_acc_q2="2217140" exp_acc_q3="2660520" exp_acc_q4="3192630" exp_acc_q5="3831150" exp_acc_q6="4597400" />
+</chrexp>
+<chrexp lv="135" >
+<exps exp_next_lv_q1="40320" exp_next_lv_q2="48380" exp_next_lv_q3="58060" exp_next_lv_q4="69670" exp_next_lv_q5="83600" exp_next_lv_q6="100320" exp_acc_q1="1887660" exp_acc_q2="2265190" exp_acc_q3="2718180" exp_acc_q4="3261820" exp_acc_q5="3914180" exp_acc_q6="4697040" />
+</chrexp>
+<chrexp lv="136" >
+<exps exp_next_lv_q1="40600" exp_next_lv_q2="48720" exp_next_lv_q3="58460" exp_next_lv_q4="70150" exp_next_lv_q5="84180" exp_next_lv_q6="101020" exp_acc_q1="1927980" exp_acc_q2="2313570" exp_acc_q3="2776240" exp_acc_q4="3331490" exp_acc_q5="3997780" exp_acc_q6="4797360" />
+</chrexp>
+<chrexp lv="137" >
+<exps exp_next_lv_q1="40880" exp_next_lv_q2="49060" exp_next_lv_q3="58870" exp_next_lv_q4="70640" exp_next_lv_q5="84770" exp_next_lv_q6="101720" exp_acc_q1="1968580" exp_acc_q2="2362290" exp_acc_q3="2834700" exp_acc_q4="3401640" exp_acc_q5="4081960" exp_acc_q6="4898380" />
+</chrexp>
+<chrexp lv="138" >
+<exps exp_next_lv_q1="42630" exp_next_lv_q2="51160" exp_next_lv_q3="61390" exp_next_lv_q4="73670" exp_next_lv_q5="88400" exp_next_lv_q6="106080" exp_acc_q1="2009460" exp_acc_q2="2411350" exp_acc_q3="2893570" exp_acc_q4="3472280" exp_acc_q5="4166730" exp_acc_q6="5000100" />
+</chrexp>
+<chrexp lv="139" >
+<exps exp_next_lv_q1="42920" exp_next_lv_q2="51500" exp_next_lv_q3="61800" exp_next_lv_q4="74160" exp_next_lv_q5="88990" exp_next_lv_q6="106790" exp_acc_q1="2052090" exp_acc_q2="2462510" exp_acc_q3="2954960" exp_acc_q4="3545950" exp_acc_q5="4255130" exp_acc_q6="5106180" />
+</chrexp>
+<chrexp lv="140" >
+<exps exp_next_lv_q1="43210" exp_next_lv_q2="51850" exp_next_lv_q3="62220" exp_next_lv_q4="74660" exp_next_lv_q5="89590" exp_next_lv_q6="107510" exp_acc_q1="2095010" exp_acc_q2="2514010" exp_acc_q3="3016760" exp_acc_q4="3620110" exp_acc_q5="4344120" exp_acc_q6="5212970" />
+</chrexp>
+<chrexp lv="141" >
+<exps exp_next_lv_q1="43500" exp_next_lv_q2="52200" exp_next_lv_q3="62640" exp_next_lv_q4="75170" exp_next_lv_q5="90200" exp_next_lv_q6="108240" exp_acc_q1="2138220" exp_acc_q2="2565860" exp_acc_q3="3078980" exp_acc_q4="3694770" exp_acc_q5="4433710" exp_acc_q6="5320480" />
+</chrexp>
+<chrexp lv="142" >
+<exps exp_next_lv_q1="43790" exp_next_lv_q2="52550" exp_next_lv_q3="63060" exp_next_lv_q4="75670" exp_next_lv_q5="90800" exp_next_lv_q6="108960" exp_acc_q1="2181720" exp_acc_q2="2618060" exp_acc_q3="3141620" exp_acc_q4="3769940" exp_acc_q5="4523910" exp_acc_q6="5428720" />
+</chrexp>
+<chrexp lv="143" >
+<exps exp_next_lv_q1="45600" exp_next_lv_q2="54720" exp_next_lv_q3="65660" exp_next_lv_q4="78790" exp_next_lv_q5="94550" exp_next_lv_q6="113460" exp_acc_q1="2225510" exp_acc_q2="2670610" exp_acc_q3="3204680" exp_acc_q4="3845610" exp_acc_q5="4614710" exp_acc_q6="5537680" />
+</chrexp>
+<chrexp lv="144" >
+<exps exp_next_lv_q1="45900" exp_next_lv_q2="55080" exp_next_lv_q3="66100" exp_next_lv_q4="79320" exp_next_lv_q5="95180" exp_next_lv_q6="114220" exp_acc_q1="2271110" exp_acc_q2="2725330" exp_acc_q3="3270340" exp_acc_q4="3924400" exp_acc_q5="4709260" exp_acc_q6="5651140" />
+</chrexp>
+<chrexp lv="145" >
+<exps exp_next_lv_q1="46200" exp_next_lv_q2="55440" exp_next_lv_q3="66530" exp_next_lv_q4="79840" exp_next_lv_q5="95810" exp_next_lv_q6="114970" exp_acc_q1="2317010" exp_acc_q2="2780410" exp_acc_q3="3336440" exp_acc_q4="4003720" exp_acc_q5="4804440" exp_acc_q6="5765360" />
+</chrexp>
+<chrexp lv="146" >
+<exps exp_next_lv_q1="46500" exp_next_lv_q2="55800" exp_next_lv_q3="66960" exp_next_lv_q4="80350" exp_next_lv_q5="96420" exp_next_lv_q6="115700" exp_acc_q1="2363210" exp_acc_q2="2835850" exp_acc_q3="3402970" exp_acc_q4="4083560" exp_acc_q5="4900250" exp_acc_q6="5880330" />
+</chrexp>
+<chrexp lv="147" >
+<exps exp_next_lv_q1="46800" exp_next_lv_q2="56160" exp_next_lv_q3="67390" exp_next_lv_q4="80870" exp_next_lv_q5="97040" exp_next_lv_q6="116450" exp_acc_q1="2409710" exp_acc_q2="2891650" exp_acc_q3="3469930" exp_acc_q4="4163910" exp_acc_q5="4996670" exp_acc_q6="5996030" />
+</chrexp>
+<chrexp lv="148" >
+<exps exp_next_lv_q1="48670" exp_next_lv_q2="58400" exp_next_lv_q3="70080" exp_next_lv_q4="84100" exp_next_lv_q5="100920" exp_next_lv_q6="121100" exp_acc_q1="2456510" exp_acc_q2="2947810" exp_acc_q3="3537320" exp_acc_q4="4244780" exp_acc_q5="5093710" exp_acc_q6="6112480" />
+</chrexp>
+<chrexp lv="149" >
+<exps exp_next_lv_q1="48980" exp_next_lv_q2="58780" exp_next_lv_q3="70540" exp_next_lv_q4="84650" exp_next_lv_q5="101580" exp_next_lv_q6="121900" exp_acc_q1="2505180" exp_acc_q2="3006210" exp_acc_q3="3607400" exp_acc_q4="4328880" exp_acc_q5="5194630" exp_acc_q6="6233580" />
+</chrexp>
+<chrexp lv="150" >
+<exps exp_next_lv_q1="49290" exp_next_lv_q2="59150" exp_next_lv_q3="70980" exp_next_lv_q4="85180" exp_next_lv_q5="102220" exp_next_lv_q6="122660" exp_acc_q1="2554160" exp_acc_q2="3064990" exp_acc_q3="3677940" exp_acc_q4="4413530" exp_acc_q5="5296210" exp_acc_q6="6355480" />
+</chrexp>
+<chrexp lv="151" >
+<exps exp_next_lv_q1="49600" exp_next_lv_q2="59520" exp_next_lv_q3="71420" exp_next_lv_q4="85700" exp_next_lv_q5="102840" exp_next_lv_q6="123410" exp_acc_q1="2603450" exp_acc_q2="3124140" exp_acc_q3="3748920" exp_acc_q4="4498710" exp_acc_q5="5398430" exp_acc_q6="6478140" />
+</chrexp>
+<chrexp lv="152" >
+<exps exp_next_lv_q1="49910" exp_next_lv_q2="59890" exp_next_lv_q3="71870" exp_next_lv_q4="86240" exp_next_lv_q5="103490" exp_next_lv_q6="124190" exp_acc_q1="2653050" exp_acc_q2="3183660" exp_acc_q3="3820340" exp_acc_q4="4584410" exp_acc_q5="5501270" exp_acc_q6="6601550" />
+</chrexp>
+<chrexp lv="153" >
+<exps exp_next_lv_q1="51840" exp_next_lv_q2="62210" exp_next_lv_q3="74650" exp_next_lv_q4="89580" exp_next_lv_q5="107500" exp_next_lv_q6="129000" exp_acc_q1="2702960" exp_acc_q2="3243550" exp_acc_q3="3892210" exp_acc_q4="4670650" exp_acc_q5="5604760" exp_acc_q6="6725740" />
+</chrexp>
+<chrexp lv="154" >
+<exps exp_next_lv_q1="52160" exp_next_lv_q2="62590" exp_next_lv_q3="75110" exp_next_lv_q4="90130" exp_next_lv_q5="108160" exp_next_lv_q6="129790" exp_acc_q1="2754800" exp_acc_q2="3305760" exp_acc_q3="3966860" exp_acc_q4="4760230" exp_acc_q5="5712260" exp_acc_q6="6854740" />
+</chrexp>
+<chrexp lv="155" >
+<exps exp_next_lv_q1="52480" exp_next_lv_q2="62980" exp_next_lv_q3="75580" exp_next_lv_q4="90700" exp_next_lv_q5="108840" exp_next_lv_q6="130610" exp_acc_q1="2806960" exp_acc_q2="3368350" exp_acc_q3="4041970" exp_acc_q4="4850360" exp_acc_q5="5820420" exp_acc_q6="6984530" />
+</chrexp>
+<chrexp lv="156" >
+<exps exp_next_lv_q1="52800" exp_next_lv_q2="63360" exp_next_lv_q3="76030" exp_next_lv_q4="91240" exp_next_lv_q5="109490" exp_next_lv_q6="131390" exp_acc_q1="2859440" exp_acc_q2="3431330" exp_acc_q3="4117550" exp_acc_q4="4941060" exp_acc_q5="5929260" exp_acc_q6="7115140" />
+</chrexp>
+<chrexp lv="157" >
+<exps exp_next_lv_q1="53120" exp_next_lv_q2="63740" exp_next_lv_q3="76490" exp_next_lv_q4="91790" exp_next_lv_q5="110150" exp_next_lv_q6="132180" exp_acc_q1="2912240" exp_acc_q2="3494690" exp_acc_q3="4193580" exp_acc_q4="5032300" exp_acc_q5="6038750" exp_acc_q6="7246530" />
+</chrexp>
+<chrexp lv="158" >
+<exps exp_next_lv_q1="55110" exp_next_lv_q2="66130" exp_next_lv_q3="79360" exp_next_lv_q4="95230" exp_next_lv_q5="114280" exp_next_lv_q6="137140" exp_acc_q1="2965360" exp_acc_q2="3558430" exp_acc_q3="4270070" exp_acc_q4="5124090" exp_acc_q5="6148900" exp_acc_q6="7378710" />
+</chrexp>
+<chrexp lv="159" >
+<exps exp_next_lv_q1="55440" exp_next_lv_q2="66530" exp_next_lv_q3="79840" exp_next_lv_q4="95810" exp_next_lv_q5="114970" exp_next_lv_q6="137960" exp_acc_q1="3020470" exp_acc_q2="3624560" exp_acc_q3="4349430" exp_acc_q4="5219320" exp_acc_q5="6263180" exp_acc_q6="7515850" />
+</chrexp>
+<chrexp lv="160" >
+<exps exp_next_lv_q1="55770" exp_next_lv_q2="66920" exp_next_lv_q3="80300" exp_next_lv_q4="96360" exp_next_lv_q5="115630" exp_next_lv_q6="138760" exp_acc_q1="3075910" exp_acc_q2="3691090" exp_acc_q3="4429270" exp_acc_q4="5315130" exp_acc_q5="6378150" exp_acc_q6="7653810" />
+</chrexp>
+<chrexp lv="161" >
+<exps exp_next_lv_q1="56100" exp_next_lv_q2="67320" exp_next_lv_q3="80780" exp_next_lv_q4="96940" exp_next_lv_q5="116330" exp_next_lv_q6="139600" exp_acc_q1="3131680" exp_acc_q2="3758010" exp_acc_q3="4509570" exp_acc_q4="5411490" exp_acc_q5="6493780" exp_acc_q6="7792570" />
+</chrexp>
+<chrexp lv="162" >
+<exps exp_next_lv_q1="56430" exp_next_lv_q2="67720" exp_next_lv_q3="81260" exp_next_lv_q4="97510" exp_next_lv_q5="117010" exp_next_lv_q6="140410" exp_acc_q1="3187780" exp_acc_q2="3825330" exp_acc_q3="4590350" exp_acc_q4="5508430" exp_acc_q5="6610110" exp_acc_q6="7932170" />
+</chrexp>
+<chrexp lv="163" >
+<exps exp_next_lv_q1="58480" exp_next_lv_q2="70180" exp_next_lv_q3="84220" exp_next_lv_q4="101060" exp_next_lv_q5="121270" exp_next_lv_q6="145520" exp_acc_q1="3244210" exp_acc_q2="3893050" exp_acc_q3="4671610" exp_acc_q4="5605940" exp_acc_q5="6727120" exp_acc_q6="8072580" />
+</chrexp>
+<chrexp lv="164" >
+<exps exp_next_lv_q1="58820" exp_next_lv_q2="70580" exp_next_lv_q3="84700" exp_next_lv_q4="101640" exp_next_lv_q5="121970" exp_next_lv_q6="146360" exp_acc_q1="3302690" exp_acc_q2="3963230" exp_acc_q3="4755830" exp_acc_q4="5707000" exp_acc_q5="6848390" exp_acc_q6="8218100" />
+</chrexp>
+<chrexp lv="165" >
+<exps exp_next_lv_q1="59160" exp_next_lv_q2="70990" exp_next_lv_q3="85190" exp_next_lv_q4="102230" exp_next_lv_q5="122680" exp_next_lv_q6="147220" exp_acc_q1="3361510" exp_acc_q2="4033810" exp_acc_q3="4840530" exp_acc_q4="5808640" exp_acc_q5="6970360" exp_acc_q6="8364460" />
+</chrexp>
+<chrexp lv="166" >
+<exps exp_next_lv_q1="59500" exp_next_lv_q2="71400" exp_next_lv_q3="85680" exp_next_lv_q4="102820" exp_next_lv_q5="123380" exp_next_lv_q6="148060" exp_acc_q1="3420670" exp_acc_q2="4104800" exp_acc_q3="4925720" exp_acc_q4="5910870" exp_acc_q5="7093040" exp_acc_q6="8511680" />
+</chrexp>
+<chrexp lv="167" >
+<exps exp_next_lv_q1="59840" exp_next_lv_q2="71810" exp_next_lv_q3="86170" exp_next_lv_q4="103400" exp_next_lv_q5="124080" exp_next_lv_q6="148900" exp_acc_q1="3480170" exp_acc_q2="4176200" exp_acc_q3="5011400" exp_acc_q4="6013690" exp_acc_q5="7216420" exp_acc_q6="8659740" />
+</chrexp>
+<chrexp lv="168" >
+<exps exp_next_lv_q1="61950" exp_next_lv_q2="74340" exp_next_lv_q3="89210" exp_next_lv_q4="107050" exp_next_lv_q5="128460" exp_next_lv_q6="154150" exp_acc_q1="3540010" exp_acc_q2="4248010" exp_acc_q3="5097570" exp_acc_q4="6117090" exp_acc_q5="7340500" exp_acc_q6="8808640" />
+</chrexp>
+<chrexp lv="169" >
+<exps exp_next_lv_q1="62300" exp_next_lv_q2="74760" exp_next_lv_q3="89710" exp_next_lv_q4="107650" exp_next_lv_q5="129180" exp_next_lv_q6="155020" exp_acc_q1="3601960" exp_acc_q2="4322350" exp_acc_q3="5186780" exp_acc_q4="6224140" exp_acc_q5="7468960" exp_acc_q6="8962790" />
+</chrexp>
+<chrexp lv="170" >
+<exps exp_next_lv_q1="62650" exp_next_lv_q2="75180" exp_next_lv_q3="90220" exp_next_lv_q4="108260" exp_next_lv_q5="129910" exp_next_lv_q6="155890" exp_acc_q1="3664260" exp_acc_q2="4397110" exp_acc_q3="5276490" exp_acc_q4="6331790" exp_acc_q5="7598140" exp_acc_q6="9117810" />
+</chrexp>
+<chrexp lv="171" >
+<exps exp_next_lv_q1="63000" exp_next_lv_q2="75600" exp_next_lv_q3="90720" exp_next_lv_q4="108860" exp_next_lv_q5="130630" exp_next_lv_q6="156760" exp_acc_q1="3726910" exp_acc_q2="4472290" exp_acc_q3="5366710" exp_acc_q4="6440050" exp_acc_q5="7728050" exp_acc_q6="9273700" />
+</chrexp>
+<chrexp lv="172" >
+<exps exp_next_lv_q1="63350" exp_next_lv_q2="76020" exp_next_lv_q3="91220" exp_next_lv_q4="109460" exp_next_lv_q5="131350" exp_next_lv_q6="157620" exp_acc_q1="3789910" exp_acc_q2="4547890" exp_acc_q3="5457430" exp_acc_q4="6548910" exp_acc_q5="7858680" exp_acc_q6="9430460" />
+</chrexp>
+<chrexp lv="173" >
+<exps exp_next_lv_q1="65520" exp_next_lv_q2="78620" exp_next_lv_q3="94340" exp_next_lv_q4="113210" exp_next_lv_q5="135850" exp_next_lv_q6="163020" exp_acc_q1="3853260" exp_acc_q2="4623910" exp_acc_q3="5548650" exp_acc_q4="6658370" exp_acc_q5="7990030" exp_acc_q6="9588080" />
+</chrexp>
+<chrexp lv="174" >
+<exps exp_next_lv_q1="65880" exp_next_lv_q2="79060" exp_next_lv_q3="94870" exp_next_lv_q4="113840" exp_next_lv_q5="136610" exp_next_lv_q6="163930" exp_acc_q1="3918780" exp_acc_q2="4702530" exp_acc_q3="5642990" exp_acc_q4="6771580" exp_acc_q5="8125880" exp_acc_q6="9751100" />
+</chrexp>
+<chrexp lv="175" >
+<exps exp_next_lv_q1="66240" exp_next_lv_q2="79490" exp_next_lv_q3="95390" exp_next_lv_q4="114470" exp_next_lv_q5="137360" exp_next_lv_q6="164830" exp_acc_q1="3984660" exp_acc_q2="4781590" exp_acc_q3="5737860" exp_acc_q4="6885420" exp_acc_q5="8262490" exp_acc_q6="9915030" />
+</chrexp>
+<chrexp lv="176" >
+<exps exp_next_lv_q1="66600" exp_next_lv_q2="79920" exp_next_lv_q3="95900" exp_next_lv_q4="115080" exp_next_lv_q5="138100" exp_next_lv_q6="165720" exp_acc_q1="4050900" exp_acc_q2="4861080" exp_acc_q3="5833250" exp_acc_q4="6999890" exp_acc_q5="8399850" exp_acc_q6="10079860" />
+</chrexp>
+<chrexp lv="177" >
+<exps exp_next_lv_q1="66960" exp_next_lv_q2="80350" exp_next_lv_q3="96420" exp_next_lv_q4="115700" exp_next_lv_q5="138840" exp_next_lv_q6="166610" exp_acc_q1="4117500" exp_acc_q2="4941000" exp_acc_q3="5929150" exp_acc_q4="7114970" exp_acc_q5="8537950" exp_acc_q6="10245580" />
+</chrexp>
+<chrexp lv="178" >
+<exps exp_next_lv_q1="69190" exp_next_lv_q2="83030" exp_next_lv_q3="99640" exp_next_lv_q4="119570" exp_next_lv_q5="143480" exp_next_lv_q6="172180" exp_acc_q1="4184460" exp_acc_q2="5021350" exp_acc_q3="6025570" exp_acc_q4="7230670" exp_acc_q5="8676790" exp_acc_q6="10412190" />
+</chrexp>
+<chrexp lv="179" >
+<exps exp_next_lv_q1="69560" exp_next_lv_q2="83470" exp_next_lv_q3="100160" exp_next_lv_q4="120190" exp_next_lv_q5="144230" exp_next_lv_q6="173080" exp_acc_q1="4253650" exp_acc_q2="5104380" exp_acc_q3="6125210" exp_acc_q4="7350240" exp_acc_q5="8820270" exp_acc_q6="10584370" />
+</chrexp>
+<chrexp lv="180" >
+<exps exp_next_lv_q1="69930" exp_next_lv_q2="83920" exp_next_lv_q3="100700" exp_next_lv_q4="120840" exp_next_lv_q5="145010" exp_next_lv_q6="174010" exp_acc_q1="4323210" exp_acc_q2="5187850" exp_acc_q3="6225370" exp_acc_q4="7470430" exp_acc_q5="8964500" exp_acc_q6="10757450" />
+</chrexp>
+<chrexp lv="181" >
+<exps exp_next_lv_q1="70300" exp_next_lv_q2="84360" exp_next_lv_q3="101230" exp_next_lv_q4="121480" exp_next_lv_q5="145780" exp_next_lv_q6="174940" exp_acc_q1="4393140" exp_acc_q2="5271770" exp_acc_q3="6326070" exp_acc_q4="7591270" exp_acc_q5="9109510" exp_acc_q6="10931460" />
+</chrexp>
+<chrexp lv="182" >
+<exps exp_next_lv_q1="70670" exp_next_lv_q2="84800" exp_next_lv_q3="101760" exp_next_lv_q4="122110" exp_next_lv_q5="146530" exp_next_lv_q6="175840" exp_acc_q1="4463440" exp_acc_q2="5356130" exp_acc_q3="6427300" exp_acc_q4="7712750" exp_acc_q5="9255290" exp_acc_q6="11106400" />
+</chrexp>
+<chrexp lv="183" >
+<exps exp_next_lv_q1="72960" exp_next_lv_q2="87550" exp_next_lv_q3="105060" exp_next_lv_q4="126070" exp_next_lv_q5="151280" exp_next_lv_q6="181540" exp_acc_q1="4534110" exp_acc_q2="5440930" exp_acc_q3="6529060" exp_acc_q4="7834860" exp_acc_q5="9401820" exp_acc_q6="11282240" />
+</chrexp>
+<chrexp lv="184" >
+<exps exp_next_lv_q1="73340" exp_next_lv_q2="88010" exp_next_lv_q3="105610" exp_next_lv_q4="126730" exp_next_lv_q5="152080" exp_next_lv_q6="182500" exp_acc_q1="4607070" exp_acc_q2="5528480" exp_acc_q3="6634120" exp_acc_q4="7960930" exp_acc_q5="9553100" exp_acc_q6="11463780" />
+</chrexp>
+<chrexp lv="185" >
+<exps exp_next_lv_q1="73720" exp_next_lv_q2="88460" exp_next_lv_q3="106150" exp_next_lv_q4="127380" exp_next_lv_q5="152860" exp_next_lv_q6="183430" exp_acc_q1="4680410" exp_acc_q2="5616490" exp_acc_q3="6739730" exp_acc_q4="8087660" exp_acc_q5="9705180" exp_acc_q6="11646280" />
+</chrexp>
+<chrexp lv="186" >
+<exps exp_next_lv_q1="74100" exp_next_lv_q2="88920" exp_next_lv_q3="106700" exp_next_lv_q4="128040" exp_next_lv_q5="153650" exp_next_lv_q6="184380" exp_acc_q1="4754130" exp_acc_q2="5704950" exp_acc_q3="6845880" exp_acc_q4="8215040" exp_acc_q5="9858040" exp_acc_q6="11829710" />
+</chrexp>
+<chrexp lv="187" >
+<exps exp_next_lv_q1="74480" exp_next_lv_q2="89380" exp_next_lv_q3="107260" exp_next_lv_q4="128710" exp_next_lv_q5="154450" exp_next_lv_q6="185340" exp_acc_q1="4828230" exp_acc_q2="5793870" exp_acc_q3="6952580" exp_acc_q4="8343080" exp_acc_q5="10011690" exp_acc_q6="12014090" />
+</chrexp>
+<chrexp lv="188" >
+<exps exp_next_lv_q1="76830" exp_next_lv_q2="92200" exp_next_lv_q3="110640" exp_next_lv_q4="132770" exp_next_lv_q5="159320" exp_next_lv_q6="191180" exp_acc_q1="4902710" exp_acc_q2="5883250" exp_acc_q3="7059840" exp_acc_q4="8471790" exp_acc_q5="10166140" exp_acc_q6="12199430" />
+</chrexp>
+<chrexp lv="189" >
+<exps exp_next_lv_q1="77220" exp_next_lv_q2="92660" exp_next_lv_q3="111190" exp_next_lv_q4="133430" exp_next_lv_q5="160120" exp_next_lv_q6="192140" exp_acc_q1="4979540" exp_acc_q2="5975450" exp_acc_q3="7170480" exp_acc_q4="8604560" exp_acc_q5="10325460" exp_acc_q6="12390610" />
+</chrexp>
+<chrexp lv="190" >
+<exps exp_next_lv_q1="77610" exp_next_lv_q2="93130" exp_next_lv_q3="111760" exp_next_lv_q4="134110" exp_next_lv_q5="160930" exp_next_lv_q6="193120" exp_acc_q1="5056760" exp_acc_q2="6068110" exp_acc_q3="7281670" exp_acc_q4="8737990" exp_acc_q5="10485580" exp_acc_q6="12582750" />
+</chrexp>
+<chrexp lv="191" >
+<exps exp_next_lv_q1="78000" exp_next_lv_q2="93600" exp_next_lv_q3="112320" exp_next_lv_q4="134780" exp_next_lv_q5="161740" exp_next_lv_q6="194090" exp_acc_q1="5134370" exp_acc_q2="6161240" exp_acc_q3="7393430" exp_acc_q4="8872100" exp_acc_q5="10646510" exp_acc_q6="12775870" />
+</chrexp>
+<chrexp lv="192" >
+<exps exp_next_lv_q1="78390" exp_next_lv_q2="94070" exp_next_lv_q3="112880" exp_next_lv_q4="135460" exp_next_lv_q5="162550" exp_next_lv_q6="195060" exp_acc_q1="5212370" exp_acc_q2="6254840" exp_acc_q3="7505750" exp_acc_q4="9006880" exp_acc_q5="10808250" exp_acc_q6="12969960" />
+</chrexp>
+<chrexp lv="193" >
+<exps exp_next_lv_q1="80800" exp_next_lv_q2="96960" exp_next_lv_q3="116350" exp_next_lv_q4="139620" exp_next_lv_q5="167540" exp_next_lv_q6="201050" exp_acc_q1="5290760" exp_acc_q2="6348910" exp_acc_q3="7618630" exp_acc_q4="9142340" exp_acc_q5="10970800" exp_acc_q6="13165020" />
+</chrexp>
+<chrexp lv="194" >
+<exps exp_next_lv_q1="81200" exp_next_lv_q2="97440" exp_next_lv_q3="116930" exp_next_lv_q4="140320" exp_next_lv_q5="168380" exp_next_lv_q6="202060" exp_acc_q1="5371560" exp_acc_q2="6445870" exp_acc_q3="7734980" exp_acc_q4="9281960" exp_acc_q5="11138340" exp_acc_q6="13366070" />
+</chrexp>
+<chrexp lv="195" >
+<exps exp_next_lv_q1="81600" exp_next_lv_q2="97920" exp_next_lv_q3="117500" exp_next_lv_q4="141000" exp_next_lv_q5="169200" exp_next_lv_q6="203040" exp_acc_q1="5452760" exp_acc_q2="6543310" exp_acc_q3="7851910" exp_acc_q4="9422280" exp_acc_q5="11306720" exp_acc_q6="13568130" />
+</chrexp>
+<chrexp lv="196" >
+<exps exp_next_lv_q1="82000" exp_next_lv_q2="98400" exp_next_lv_q3="118080" exp_next_lv_q4="141700" exp_next_lv_q5="170040" exp_next_lv_q6="204050" exp_acc_q1="5534360" exp_acc_q2="6641230" exp_acc_q3="7969410" exp_acc_q4="9563280" exp_acc_q5="11475920" exp_acc_q6="13771170" />
+</chrexp>
+<chrexp lv="197" >
+<exps exp_next_lv_q1="82400" exp_next_lv_q2="98880" exp_next_lv_q3="118660" exp_next_lv_q4="142390" exp_next_lv_q5="170870" exp_next_lv_q6="205040" exp_acc_q1="5616360" exp_acc_q2="6739630" exp_acc_q3="8087490" exp_acc_q4="9704980" exp_acc_q5="11645960" exp_acc_q6="13975220" />
+</chrexp>
+<chrexp lv="198" >
+<exps exp_next_lv_q1="84870" exp_next_lv_q2="101840" exp_next_lv_q3="122210" exp_next_lv_q4="146650" exp_next_lv_q5="175980" exp_next_lv_q6="211180" exp_acc_q1="5698760" exp_acc_q2="6838510" exp_acc_q3="8206150" exp_acc_q4="9847370" exp_acc_q5="11816830" exp_acc_q6="14180260" />
+</chrexp>
+<chrexp lv="199" >
+<exps exp_next_lv_q1="85280" exp_next_lv_q2="102340" exp_next_lv_q3="122810" exp_next_lv_q4="147370" exp_next_lv_q5="176840" exp_next_lv_q6="212210" exp_acc_q1="5783630" exp_acc_q2="6940350" exp_acc_q3="8328360" exp_acc_q4="9994020" exp_acc_q5="11992810" exp_acc_q6="14391440" />
+</chrexp>
+<chrexp lv="200" >
+<exps exp_next_lv_q1="85690" exp_next_lv_q2="102830" exp_next_lv_q3="123400" exp_next_lv_q4="148080" exp_next_lv_q5="177700" exp_next_lv_q6="213240" exp_acc_q1="5868910" exp_acc_q2="7042690" exp_acc_q3="8451170" exp_acc_q4="10141390" exp_acc_q5="12169650" exp_acc_q6="14603650" />
+</chrexp>
+</chrexps>

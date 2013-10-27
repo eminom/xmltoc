@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<player_exps>
+<player_exp lv="1" exp_next_lv="100" exp_acc="0" >
+<attributes stamina="120" capacity_char="20" leadership="25" capacity_friend="20" stamina_refill="1" />
+</player_exp>
+<player_exp lv="2" exp_next_lv="300" exp_acc="100" >
+<attributes stamina="120" capacity_char="21" leadership="26" capacity_friend="20" stamina_refill="1" />
+</player_exp>
+<player_exp lv="3" exp_next_lv="400" exp_acc="400" >
+<attributes stamina="120" capacity_char="21" leadership="27" capacity_friend="21" stamina_refill="1" />
+</player_exp>
+<player_exp lv="4" exp_next_lv="750" exp_acc="800" >
+<attributes stamina="120" capacity_char="22" leadership="28" capacity_friend="21" stamina_refill="1" />
+</player_exp>
+<player_exp lv="5" exp_next_lv="900" exp_acc="1550" >
+<attributes stamina="120" capacity_char="22" leadership="29" capacity_friend="21" stamina_refill="1" />
+</player_exp>
+<player_exp lv="6" exp_next_lv="1400" exp_acc="2450" >
+<attributes stamina="120" capacity_char="23" leadership="30" capacity_friend="22" stamina_refill="2" />
+</player_exp>
+<player_exp lv="7" exp_next_lv="2000" exp_acc="3850" >
+<attributes stamina="120" capacity_char="23" leadership="31" capacity_friend="22" stamina_refill="2" />
+</player_exp>
+<player_exp lv="8" exp_next_lv="2700" exp_acc="5850" >
+<attributes stamina="120" capacity_char="24" leadership="32" capacity_friend="22" stamina_refill="2" />
+</player_exp>
+<player_exp lv="9" exp_next_lv="3000" exp_acc="8550" >
+<attributes stamina="120" capacity_char="24" leadership="33" capacity_friend="23" stamina_refill="2" />
+</player_exp>
+<player_exp lv="10" exp_next_lv="3850" exp_acc="11550" >
+<attributes stamina="120" capacity_char="25" leadership="34" capacity_friend="23" stamina_refill="3" />
+</player_exp>
+<player_exp lv="11" exp_next_lv="4800" exp_acc="15400" >
+<attributes stamina="120" capacity_char="25" leadership="35" capacity_friend="23" stamina_refill="4" />
+</player_exp>
+<player_exp lv="12" exp_next_lv="5850" exp_acc="20200" >
+<attributes stamina="120" capacity_char="26" leadership="36" capacity_friend="24" stamina_refill="6" />
+</player_exp>
+<player_exp lv="13" exp_next_lv="7000" exp_acc="26050" >
+<attributes stamina="120" capacity_char="26" leadership="37" capacity_friend="24" stamina_refill="8" />
+</player_exp>
+<player_exp lv="14" exp_next_lv="8250" exp_acc="33050" >
+<attributes stamina="120" capacity_char="27" leadership="38" capacity_friend="24" stamina_refill="12" />
+</player_exp>
+<player_exp lv="15" exp_next_lv="10400" exp_acc="41300" >
+<attributes stamina="120" capacity_char="27" leadership="39" capacity_friend="25" stamina_refill="19" />
+</player_exp>
+<player_exp lv="16" exp_next_lv="11900" exp_acc="51700" >
+<attributes stamina="120" capacity_char="28" leadership="40" capacity_friend="25" stamina_refill="20" />
+</player_exp>
+<player_exp lv="17" exp_next_lv="13500" exp_acc="63600" >
+<attributes stamina="120" capacity_char="28" leadership="41" capacity_friend="25" stamina_refill="22" />
+</player_exp>
+<player_exp lv="18" exp_next_lv="15200" exp_acc="77100" >
+<attributes stamina="120" capacity_char="29" leadership="42" capacity_friend="26" stamina_refill="26" />
+</player_exp>
+<player_exp lv="19" exp_next_lv="18000" exp_acc="92300" >
+<attributes stamina="120" capacity_char="29" leadership="43" capacity_friend="26" stamina_refill="30" />
+</player_exp>
+<player_exp lv="20" exp_next_lv="19950" exp_acc="110300" >
+<attributes stamina="120" capacity_char="30" leadership="44" capacity_friend="26" stamina_refill="30" />
+</player_exp>
+<player_exp lv="21" exp_next_lv="22000" exp_acc="130250" >
+<attributes stamina="120" capacity_char="30" leadership="45" capacity_friend="27" stamina_refill="34" />
+</player_exp>
+<player_exp lv="22" exp_next_lv="25300" exp_acc="152250" >
+<attributes stamina="120" capacity_char="31" leadership="46" capacity_friend="27" stamina_refill="34" />
+</player_exp>
+<player_exp lv="23" exp_next_lv="27600" exp_acc="177550" >
+<attributes stamina="120" capacity_char="31" leadership="47" capacity_friend="27" stamina_refill="34" />
+</player_exp>
+<player_exp lv="24" exp_next_lv="31250" exp_acc="205150" >
+<attributes stamina="120" capacity_char="32" leadership="48" capacity_friend="28" stamina_refill="34" />
+</player_exp>
+<player_exp lv="25" exp_next_lv="33800" exp_acc="236400" >
+<attributes stamina="120" capacity_char="32" leadership="49" capacity_friend="28" stamina_refill="35" />
+</player_exp>
+<player_exp lv="26" exp_next_lv="37800" exp_acc="270200" >
+<attributes stamina="120" capacity_char="33" leadership="50" capacity_friend="28" stamina_refill="36" />
+</player_exp>
+<player_exp lv="27" exp_next_lv="40600" exp_acc="308000" >
+<attributes stamina="120" capacity_char="33" leadership="51" capacity_friend="29" stamina_refill="37" />
+</player_exp>
+<player_exp lv="28" exp_next_lv="44950" exp_acc="348600" >
+<attributes stamina="120" capacity_char="34" leadership="52" capacity_friend="29" stamina_refill="38" />
+</player_exp>
+<player_exp lv="29" exp_next_lv="48000" exp_acc="393550" >
+<attributes stamina="120" capacity_char="34" leadership="53" capacity_friend="29" stamina_refill="39" />
+</player_exp>
+<player_exp lv="30" exp_next_lv="52700" exp_acc="441550" >
+<attributes stamina="120" capacity_char="35" leadership="54" capacity_friend="30" stamina_refill="40" />
+</player_exp>
+<player_exp lv="31" exp_next_lv="57600" exp_acc="494250" >
+<attributes stamina="120" capacity_char="35" leadership="55" capacity_friend="30" stamina_refill="41" />
+</player_exp>
+<player_exp lv="32" exp_next_lv="61050" exp_acc="551850" >
+<attributes stamina="120" capacity_char="36" leadership="56" capacity_friend="30" stamina_refill="42" />
+</player_exp>
+<player_exp lv="33" exp_next_lv="66300" exp_acc="612900" >
+<attributes stamina="120" capacity_char="36" leadership="57" capacity_friend="31" stamina_refill="43" />
+</player_exp>
+<player_exp lv="34" exp_next_lv="71750" exp_acc="679200" >
+<attributes stamina="120" capacity_char="37" leadership="58" capacity_friend="31" stamina_refill="44" />
+</player_exp>
+<player_exp lv="35" exp_next_lv="75600" exp_acc="750950" >
+<attributes stamina="120" capacity_char="37" leadership="59" capacity_friend="31" stamina_refill="45" />
+</player_exp>
+<player_exp lv="36" exp_next_lv="81400" exp_acc="826550" >
+<attributes stamina="120" capacity_char="38" leadership="60" capacity_friend="32" stamina_refill="46" />
+</player_exp>
+<player_exp lv="37" exp_next_lv="87400" exp_acc="907950" >
+<attributes stamina="120" capacity_char="38" leadership="61" capacity_friend="32" stamina_refill="47" />
+</player_exp>
+<player_exp lv="38" exp_next_lv="93600" exp_acc="995350" >
+<attributes stamina="120" capacity_char="39" leadership="62" capacity_friend="32" stamina_refill="48" />
+</player_exp>
+<player_exp lv="39" exp_next_lv="100000" exp_acc="1088950" >
+<attributes stamina="120" capacity_char="39" leadership="63" capacity_friend="33" stamina_refill="49" />
+</player_exp>
+<player_exp lv="40" exp_next_lv="106600" exp_acc="1188950" >
+<attributes stamina="120" capacity_char="40" leadership="64" capacity_friend="33" stamina_refill="50" />
+</player_exp>
+<player_exp lv="41" exp_next_lv="113400" exp_acc="1295550" >
+<attributes stamina="120" capacity_char="40" leadership="65" capacity_friend="33" stamina_refill="51" />
+</player_exp>
+<player_exp lv="42" exp_next_lv="118250" exp_acc="1408950" >
+<attributes stamina="120" capacity_char="41" leadership="66" capacity_friend="34" stamina_refill="52" />
+</player_exp>
+<player_exp lv="43" exp_next_lv="125400" exp_acc="1527200" >
+<attributes stamina="120" capacity_char="41" leadership="67" capacity_friend="34" stamina_refill="53" />
+</player_exp>
+<player_exp lv="44" exp_next_lv="132750" exp_acc="1652600" >
+<attributes stamina="120" capacity_char="42" leadership="68" capacity_friend="34" stamina_refill="54" />
+</player_exp>
+<player_exp lv="45" exp_next_lv="140300" exp_acc="1785350" >
+<attributes stamina="120" capacity_char="42" leadership="69" capacity_friend="35" stamina_refill="55" />
+</player_exp>
+<player_exp lv="46" exp_next_lv="148050" exp_acc="1925650" >
+<attributes stamina="120" capacity_char="43" leadership="70" capacity_friend="35" stamina_refill="56" />
+</player_exp>
+<player_exp lv="47" exp_next_lv="156000" exp_acc="2073700" >
+<attributes stamina="120" capacity_char="43" leadership="71" capacity_friend="35" stamina_refill="57" />
+</player_exp>
+<player_exp lv="48" exp_next_lv="166600" exp_acc="2229700" >
+<attributes stamina="120" capacity_char="44" leadership="72" capacity_friend="36" stamina_refill="58" />
+</player_exp>
+<player_exp lv="49" exp_next_lv="175000" exp_acc="2396300" >
+<attributes stamina="120" capacity_char="44" leadership="73" capacity_friend="36" stamina_refill="59" />
+</player_exp>
+<player_exp lv="50" exp_next_lv="183600" exp_acc="2571300" >
+<attributes stamina="120" capacity_char="45" leadership="74" capacity_friend="36" stamina_refill="60" />
+</player_exp>
+<player_exp lv="51" exp_next_lv="192400" exp_acc="2754900" >
+<attributes stamina="120" capacity_char="45" leadership="75" capacity_friend="37" stamina_refill="61" />
+</player_exp>
+<player_exp lv="52" exp_next_lv="201400" exp_acc="2947300" >
+<attributes stamina="120" capacity_char="46" leadership="76" capacity_friend="37" stamina_refill="62" />
+</player_exp>
+<player_exp lv="53" exp_next_lv="210600" exp_acc="3148700" >
+<attributes stamina="120" capacity_char="46" leadership="77" capacity_friend="37" stamina_refill="63" />
+</player_exp>
+<player_exp lv="54" exp_next_lv="220000" exp_acc="3359300" >
+<attributes stamina="120" capacity_char="47" leadership="78" capacity_friend="38" stamina_refill="64" />
+</player_exp>
+<player_exp lv="55" exp_next_lv="232400" exp_acc="3579300" >
+<attributes stamina="120" capacity_char="47" leadership="79" capacity_friend="38" stamina_refill="65" />
+</player_exp>
+<player_exp lv="56" exp_next_lv="242250" exp_acc="3811700" >
+<attributes stamina="120" capacity_char="48" leadership="80" capacity_friend="38" stamina_refill="66" />
+</player_exp>
+<player_exp lv="57" exp_next_lv="252300" exp_acc="4053950" >
+<attributes stamina="120" capacity_char="48" leadership="81" capacity_friend="39" stamina_refill="67" />
+</player_exp>
+<player_exp lv="58" exp_next_lv="262550" exp_acc="4306250" >
+<attributes stamina="120" capacity_char="49" leadership="82" capacity_friend="39" stamina_refill="68" />
+</player_exp>
+<player_exp lv="59" exp_next_lv="276000" exp_acc="4568800" >
+<attributes stamina="120" capacity_char="49" leadership="83" capacity_friend="39" stamina_refill="69" />
+</player_exp>
+<player_exp lv="60" exp_next_lv="286700" exp_acc="4844800" >
+<attributes stamina="120" capacity_char="50" leadership="85" capacity_friend="40" stamina_refill="70" />
+</player_exp>
+<player_exp lv="61" exp_next_lv="297600" exp_acc="5131500" >
+<attributes stamina="120" capacity_char="50" leadership="87" capacity_friend="40" stamina_refill="71" />
+</player_exp>
+<player_exp lv="62" exp_next_lv="311850" exp_acc="5429100" >
+<attributes stamina="120" capacity_char="50" leadership="89" capacity_friend="40" stamina_refill="72" />
+</player_exp>
+<player_exp lv="63" exp_next_lv="323200" exp_acc="5740950" >
+<attributes stamina="120" capacity_char="50" leadership="91" capacity_friend="41" stamina_refill="73" />
+</player_exp>
+<player_exp lv="64" exp_next_lv="334750" exp_acc="6064150" >
+<attributes stamina="120" capacity_char="50" leadership="93" capacity_friend="41" stamina_refill="74" />
+</player_exp>
+<player_exp lv="65" exp_next_lv="349800" exp_acc="6398900" >
+<attributes stamina="120" capacity_char="50" leadership="95" capacity_friend="41" stamina_refill="75" />
+</player_exp>
+<player_exp lv="66" exp_next_lv="361800" exp_acc="6748700" >
+<attributes stamina="120" capacity_char="50" leadership="97" capacity_friend="42" stamina_refill="76" />
+</player_exp>
+<player_exp lv="67" exp_next_lv="377400" exp_acc="7110500" >
+<attributes stamina="120" capacity_char="50" leadership="99" capacity_friend="42" stamina_refill="77" />
+</player_exp>
+<player_exp lv="68" exp_next_lv="389850" exp_acc="7487900" >
+<attributes stamina="120" capacity_char="50" leadership="101" capacity_friend="42" stamina_refill="78" />
+</player_exp>
+<player_exp lv="69" exp_next_lv="406000" exp_acc="7877750" >
+<attributes stamina="120" capacity_char="50" leadership="103" capacity_friend="43" stamina_refill="79" />
+</player_exp>
+<player_exp lv="70" exp_next_lv="418900" exp_acc="8283750" >
+<attributes stamina="120" capacity_char="50" leadership="105" capacity_friend="43" stamina_refill="80" />
+</player_exp>
+<player_exp lv="71" exp_next_lv="435600" exp_acc="8702650" >
+<attributes stamina="120" capacity_char="50" leadership="107" capacity_friend="43" stamina_refill="81" />
+</player_exp>
+<player_exp lv="72" exp_next_lv="448950" exp_acc="9138250" >
+<attributes stamina="120" capacity_char="50" leadership="109" capacity_friend="44" stamina_refill="82" />
+</player_exp>
+<player_exp lv="73" exp_next_lv="466200" exp_acc="9587200" >
+<attributes stamina="120" capacity_char="50" leadership="111" capacity_friend="44" stamina_refill="83" />
+</player_exp>
+<player_exp lv="74" exp_next_lv="480000" exp_acc="10053400" >
+<attributes stamina="120" capacity_char="50" leadership="113" capacity_friend="44" stamina_refill="84" />
+</player_exp>
+<player_exp lv="75" exp_next_lv="497800" exp_acc="10533400" >
+<attributes stamina="120" capacity_char="50" leadership="115" capacity_friend="45" stamina_refill="85" />
+</player_exp>
+<player_exp lv="76" exp_next_lv="515900" exp_acc="11031200" >
+<attributes stamina="120" capacity_char="50" leadership="117" capacity_friend="45" stamina_refill="86" />
+</player_exp>
+<player_exp lv="77" exp_next_lv="530400" exp_acc="11547100" >
+<attributes stamina="120" capacity_char="50" leadership="119" capacity_friend="45" stamina_refill="87" />
+</player_exp>
+<player_exp lv="78" exp_next_lv="549050" exp_acc="12077500" >
+<attributes stamina="120" capacity_char="50" leadership="121" capacity_friend="46" stamina_refill="88" />
+</player_exp>
+<player_exp lv="79" exp_next_lv="564000" exp_acc="12626550" >
+<attributes stamina="120" capacity_char="50" leadership="123" capacity_friend="46" stamina_refill="89" />
+</player_exp>
+<player_exp lv="80" exp_next_lv="583200" exp_acc="13190550" >
+<attributes stamina="120" capacity_char="50" leadership="125" capacity_friend="46" stamina_refill="90" />
+</player_exp>
+<player_exp lv="81" exp_next_lv="602700" exp_acc="13773750" >
+<attributes stamina="120" capacity_char="50" leadership="127" capacity_friend="47" stamina_refill="91" />
+</player_exp>
+<player_exp lv="82" exp_next_lv="622500" exp_acc="14376450" >
+<attributes stamina="120" capacity_char="50" leadership="129" capacity_friend="47" stamina_refill="92" />
+</player_exp>
+<player_exp lv="83" exp_next_lv="638400" exp_acc="14998950" >
+<attributes stamina="120" capacity_char="50" leadership="131" capacity_friend="47" stamina_refill="93" />
+</player_exp>
+<player_exp lv="84" exp_next_lv="658750" exp_acc="15637350" >
+<attributes stamina="120" capacity_char="50" leadership="133" capacity_friend="48" stamina_refill="94" />
+</player_exp>
+<player_exp lv="85" exp_next_lv="679400" exp_acc="16296100" >
+<attributes stamina="120" capacity_char="50" leadership="135" capacity_friend="48" stamina_refill="95" />
+</player_exp>
+<player_exp lv="86" exp_next_lv="700350" exp_acc="16975500" >
+<attributes stamina="120" capacity_char="50" leadership="137" capacity_friend="48" stamina_refill="96" />
+</player_exp>
+<player_exp lv="87" exp_next_lv="717200" exp_acc="17675850" >
+<attributes stamina="120" capacity_char="50" leadership="139" capacity_friend="49" stamina_refill="97" />
+</player_exp>
+<player_exp lv="88" exp_next_lv="738700" exp_acc="18393050" >
+<attributes stamina="120" capacity_char="50" leadership="141" capacity_friend="49" stamina_refill="98" />
+</player_exp>
+<player_exp lv="89" exp_next_lv="760500" exp_acc="19131750" >
+<attributes stamina="120" capacity_char="50" leadership="143" capacity_friend="49" stamina_refill="99" />
+</player_exp>
+<player_exp lv="90" exp_next_lv="782600" exp_acc="19892250" >
+<attributes stamina="120" capacity_char="50" leadership="145" capacity_friend="50" stamina_refill="100" />
+</player_exp>
+<player_exp lv="91" exp_next_lv="805000" exp_acc="20674850" >
+<attributes stamina="120" capacity_char="50" leadership="147" capacity_friend="50" stamina_refill="101" />
+</player_exp>
+<player_exp lv="92" exp_next_lv="823050" exp_acc="21479850" >
+<attributes stamina="120" capacity_char="50" leadership="149" capacity_friend="50" stamina_refill="102" />
+</player_exp>
+<player_exp lv="93" exp_next_lv="846000" exp_acc="22302900" >
+<attributes stamina="120" capacity_char="50" leadership="151" capacity_friend="51" stamina_refill="103" />
+</player_exp>
+<player_exp lv="94" exp_next_lv="869250" exp_acc="23148900" >
+<attributes stamina="120" capacity_char="50" leadership="153" capacity_friend="51" stamina_refill="104" />
+</player_exp>
+<player_exp lv="95" exp_next_lv="892800" exp_acc="24018150" >
+<attributes stamina="120" capacity_char="50" leadership="155" capacity_friend="52" stamina_refill="105" />
+</player_exp>
+<player_exp lv="96" exp_next_lv="916650" exp_acc="24910950" >
+<attributes stamina="120" capacity_char="50" leadership="157" capacity_friend="52" stamina_refill="106" />
+</player_exp>
+<player_exp lv="97" exp_next_lv="940800" exp_acc="25827600" >
+<attributes stamina="120" capacity_char="50" leadership="159" capacity_friend="53" stamina_refill="107" />
+</player_exp>
+<player_exp lv="98" exp_next_lv="965250" exp_acc="26768400" >
+<attributes stamina="120" capacity_char="50" leadership="161" capacity_friend="53" stamina_refill="108" />
+</player_exp>
+<player_exp lv="99" exp_next_lv="990000" exp_acc="27733650" >
+<attributes stamina="120" capacity_char="50" leadership="163" capacity_friend="54" stamina_refill="109" />
+</player_exp>
+<player_exp lv="100" exp_next_lv="1015050" exp_acc="28723650" >
+<attributes stamina="120" capacity_char="50" leadership="165" capacity_friend="55" stamina_refill="110" />
+</player_exp>
+<player_exp lv="101" exp_next_lv="1040400" exp_acc="29738700" >
+<attributes stamina="120" capacity_char="50" leadership="167" capacity_friend="55" stamina_refill="115" />
+</player_exp>
+<player_exp lv="102" exp_next_lv="1066050" exp_acc="30779100" >
+<attributes stamina="120" capacity_char="50" leadership="169" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="103" exp_next_lv="1092000" exp_acc="31845150" >
+<attributes stamina="120" capacity_char="50" leadership="171" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="104" exp_next_lv="1118250" exp_acc="32937150" >
+<attributes stamina="120" capacity_char="50" leadership="173" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="105" exp_next_lv="1144800" exp_acc="34055400" >
+<attributes stamina="120" capacity_char="50" leadership="175" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="106" exp_next_lv="1171650" exp_acc="35200200" >
+<attributes stamina="120" capacity_char="50" leadership="177" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="107" exp_next_lv="1198800" exp_acc="36371850" >
+<attributes stamina="120" capacity_char="50" leadership="179" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="108" exp_next_lv="1226250" exp_acc="37570650" >
+<attributes stamina="120" capacity_char="50" leadership="181" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="109" exp_next_lv="1259500" exp_acc="38796900" >
+<attributes stamina="120" capacity_char="50" leadership="183" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="110" exp_next_lv="1287600" exp_acc="40056400" >
+<attributes stamina="120" capacity_char="50" leadership="185" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="111" exp_next_lv="1316000" exp_acc="41344000" >
+<attributes stamina="120" capacity_char="50" leadership="187" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="112" exp_next_lv="1344700" exp_acc="42660000" >
+<attributes stamina="120" capacity_char="50" leadership="189" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="113" exp_next_lv="1373700" exp_acc="44004700" >
+<attributes stamina="120" capacity_char="50" leadership="191" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="114" exp_next_lv="1403000" exp_acc="45378400" >
+<attributes stamina="120" capacity_char="50" leadership="193" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="115" exp_next_lv="1438400" exp_acc="46781400" >
+<attributes stamina="120" capacity_char="50" leadership="195" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="116" exp_next_lv="1468350" exp_acc="48219800" >
+<attributes stamina="120" capacity_char="50" leadership="197" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="117" exp_next_lv="1498600" exp_acc="49688150" >
+<attributes stamina="120" capacity_char="50" leadership="199" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="118" exp_next_lv="1529150" exp_acc="51186750" >
+<attributes stamina="120" capacity_char="50" leadership="201" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="119" exp_next_lv="1566000" exp_acc="52715900" >
+<attributes stamina="120" capacity_char="50" leadership="203" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="120" exp_next_lv="1597200" exp_acc="54281900" >
+<attributes stamina="120" capacity_char="50" leadership="205" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="121" exp_next_lv="1628700" exp_acc="55879100" >
+<attributes stamina="120" capacity_char="50" leadership="207" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="122" exp_next_lv="1666650" exp_acc="57507800" >
+<attributes stamina="120" capacity_char="50" leadership="209" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="123" exp_next_lv="1698800" exp_acc="59174450" >
+<attributes stamina="120" capacity_char="50" leadership="211" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="124" exp_next_lv="1731250" exp_acc="60873250" >
+<attributes stamina="120" capacity_char="50" leadership="213" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="125" exp_next_lv="1770300" exp_acc="62604500" >
+<attributes stamina="120" capacity_char="50" leadership="215" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="126" exp_next_lv="1803400" exp_acc="64374800" >
+<attributes stamina="120" capacity_char="50" leadership="217" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="127" exp_next_lv="1836800" exp_acc="66178200" >
+<attributes stamina="120" capacity_char="50" leadership="219" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="128" exp_next_lv="1876950" exp_acc="68015000" >
+<attributes stamina="120" capacity_char="50" leadership="221" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="129" exp_next_lv="1911000" exp_acc="69891950" >
+<attributes stamina="120" capacity_char="50" leadership="223" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="130" exp_next_lv="1945350" exp_acc="71802950" >
+<attributes stamina="120" capacity_char="50" leadership="225" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="131" exp_next_lv="1986600" exp_acc="73748300" >
+<attributes stamina="120" capacity_char="50" leadership="227" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="132" exp_next_lv="2021600" exp_acc="75734900" >
+<attributes stamina="120" capacity_char="50" leadership="229" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="133" exp_next_lv="2063600" exp_acc="77756500" >
+<attributes stamina="120" capacity_char="50" leadership="231" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="134" exp_next_lv="2099250" exp_acc="79820100" >
+<attributes stamina="120" capacity_char="50" leadership="233" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="135" exp_next_lv="2142000" exp_acc="81919350" >
+<attributes stamina="120" capacity_char="50" leadership="235" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="136" exp_next_lv="2178300" exp_acc="84061350" >
+<attributes stamina="120" capacity_char="50" leadership="237" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="137" exp_next_lv="2221800" exp_acc="86239650" >
+<attributes stamina="120" capacity_char="50" leadership="239" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="138" exp_next_lv="2258750" exp_acc="88461450" >
+<attributes stamina="120" capacity_char="50" leadership="241" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="139" exp_next_lv="2303000" exp_acc="90720200" >
+<attributes stamina="120" capacity_char="50" leadership="243" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="140" exp_next_lv="2340600" exp_acc="93023200" >
+<attributes stamina="120" capacity_char="50" leadership="245" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="141" exp_next_lv="2385600" exp_acc="95363800" >
+<attributes stamina="120" capacity_char="50" leadership="247" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="142" exp_next_lv="2423850" exp_acc="97749400" >
+<attributes stamina="120" capacity_char="50" leadership="249" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="143" exp_next_lv="2469600" exp_acc="100173250" >
+<attributes stamina="120" capacity_char="50" leadership="251" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="144" exp_next_lv="2515750" exp_acc="102642850" >
+<attributes stamina="120" capacity_char="50" leadership="253" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="145" exp_next_lv="2555000" exp_acc="105158600" >
+<attributes stamina="120" capacity_char="50" leadership="255" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="146" exp_next_lv="2601900" exp_acc="107713600" >
+<attributes stamina="120" capacity_char="50" leadership="257" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="147" exp_next_lv="2641800" exp_acc="110315500" >
+<attributes stamina="120" capacity_char="50" leadership="259" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="148" exp_next_lv="2689450" exp_acc="112957300" >
+<attributes stamina="120" capacity_char="50" leadership="261" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="149" exp_next_lv="2737500" exp_acc="115646750" >
+<attributes stamina="120" capacity_char="50" leadership="263" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="150" exp_next_lv="2778400" exp_acc="118384250" >
+<attributes stamina="120" capacity_char="50" leadership="265" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="151" exp_next_lv="2827200" exp_acc="121162650" >
+<attributes stamina="120" capacity_char="50" leadership="267" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="152" exp_next_lv="2876400" exp_acc="123989850" >
+<attributes stamina="120" capacity_char="50" leadership="269" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="153" exp_next_lv="2926000" exp_acc="126866250" >
+<attributes stamina="120" capacity_char="50" leadership="271" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="154" exp_next_lv="2968250" exp_acc="129792250" >
+<attributes stamina="120" capacity_char="50" leadership="273" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="155" exp_next_lv="3018600" exp_acc="132760500" >
+<attributes stamina="120" capacity_char="50" leadership="275" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="156" exp_next_lv="3069350" exp_acc="135779100" >
+<attributes stamina="120" capacity_char="50" leadership="277" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="157" exp_next_lv="3112600" exp_acc="138848450" >
+<attributes stamina="120" capacity_char="50" leadership="279" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="158" exp_next_lv="3164100" exp_acc="141961050" >
+<attributes stamina="120" capacity_char="50" leadership="281" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="159" exp_next_lv="3216000" exp_acc="145125150" >
+<attributes stamina="120" capacity_char="50" leadership="283" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="160" exp_next_lv="3268300" exp_acc="148341150" >
+<attributes stamina="120" capacity_char="50" leadership="285" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="161" exp_next_lv="3321000" exp_acc="151609450" >
+<attributes stamina="120" capacity_char="50" leadership="287" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="162" exp_next_lv="3365950" exp_acc="154930450" >
+<attributes stamina="120" capacity_char="50" leadership="289" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="163" exp_next_lv="3419400" exp_acc="158296400" >
+<attributes stamina="120" capacity_char="50" leadership="291" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="164" exp_next_lv="3473250" exp_acc="161715800" >
+<attributes stamina="120" capacity_char="50" leadership="293" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="165" exp_next_lv="3527500" exp_acc="165189050" >
+<attributes stamina="120" capacity_char="50" leadership="295" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="166" exp_next_lv="3582150" exp_acc="168716550" >
+<attributes stamina="120" capacity_char="50" leadership="297" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="167" exp_next_lv="3637200" exp_acc="172298700" >
+<attributes stamina="120" capacity_char="50" leadership="299" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="168" exp_next_lv="3692650" exp_acc="175935900" >
+<attributes stamina="120" capacity_char="50" leadership="301" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="169" exp_next_lv="3740000" exp_acc="179628550" >
+<attributes stamina="120" capacity_char="50" leadership="303" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="170" exp_next_lv="3796200" exp_acc="183368550" >
+<attributes stamina="120" capacity_char="50" leadership="305" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="171" exp_next_lv="3852800" exp_acc="187164750" >
+<attributes stamina="120" capacity_char="50" leadership="307" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="172" exp_next_lv="3909800" exp_acc="191017550" >
+<attributes stamina="120" capacity_char="50" leadership="309" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="173" exp_next_lv="3967200" exp_acc="194927350" >
+<attributes stamina="120" capacity_char="50" leadership="311" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="174" exp_next_lv="4025000" exp_acc="198894550" >
+<attributes stamina="120" capacity_char="50" leadership="313" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="175" exp_next_lv="4083200" exp_acc="202919550" >
+<attributes stamina="120" capacity_char="50" leadership="315" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="176" exp_next_lv="4141800" exp_acc="207002750" >
+<attributes stamina="120" capacity_char="50" leadership="317" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="177" exp_next_lv="4200800" exp_acc="211144550" >
+<attributes stamina="120" capacity_char="50" leadership="319" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="178" exp_next_lv="4260200" exp_acc="215345350" >
+<attributes stamina="120" capacity_char="50" leadership="321" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="179" exp_next_lv="4320000" exp_acc="219605550" >
+<attributes stamina="120" capacity_char="50" leadership="323" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="180" exp_next_lv="4380200" exp_acc="223925550" >
+<attributes stamina="120" capacity_char="50" leadership="325" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="181" exp_next_lv="4440800" exp_acc="228305750" >
+<attributes stamina="120" capacity_char="50" leadership="327" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="182" exp_next_lv="4501800" exp_acc="232746550" >
+<attributes stamina="120" capacity_char="50" leadership="329" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="183" exp_next_lv="4563200" exp_acc="237248350" >
+<attributes stamina="120" capacity_char="50" leadership="331" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="184" exp_next_lv="4625000" exp_acc="241811550" >
+<attributes stamina="120" capacity_char="50" leadership="333" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="185" exp_next_lv="4687200" exp_acc="246436550" >
+<attributes stamina="120" capacity_char="50" leadership="335" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="186" exp_next_lv="4749800" exp_acc="251123750" >
+<attributes stamina="120" capacity_char="50" leadership="337" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="187" exp_next_lv="4812800" exp_acc="255873550" >
+<attributes stamina="120" capacity_char="50" leadership="339" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="188" exp_next_lv="4885650" exp_acc="260686350" >
+<attributes stamina="120" capacity_char="50" leadership="341" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="189" exp_next_lv="4949500" exp_acc="265572000" >
+<attributes stamina="120" capacity_char="50" leadership="343" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="190" exp_next_lv="5013750" exp_acc="270521500" >
+<attributes stamina="120" capacity_char="50" leadership="345" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="191" exp_next_lv="5078400" exp_acc="275535250" >
+<attributes stamina="120" capacity_char="50" leadership="347" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="192" exp_next_lv="5143450" exp_acc="280613650" >
+<attributes stamina="120" capacity_char="50" leadership="349" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="193" exp_next_lv="5208900" exp_acc="285757100" >
+<attributes stamina="120" capacity_char="50" leadership="351" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="194" exp_next_lv="5274750" exp_acc="290966000" >
+<attributes stamina="120" capacity_char="50" leadership="353" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="195" exp_next_lv="5350800" exp_acc="296240750" >
+<attributes stamina="120" capacity_char="50" leadership="355" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="196" exp_next_lv="5417500" exp_acc="301591550" >
+<attributes stamina="120" capacity_char="50" leadership="357" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="197" exp_next_lv="5484600" exp_acc="307009050" >
+<attributes stamina="120" capacity_char="50" leadership="359" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="198" exp_next_lv="5552100" exp_acc="312493650" >
+<attributes stamina="120" capacity_char="50" leadership="361" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="199" exp_next_lv="5620000" exp_acc="318045750" >
+<attributes stamina="120" capacity_char="50" leadership="363" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+<player_exp lv="200" exp_next_lv="5698350" exp_acc="323665750" >
+<attributes stamina="120" capacity_char="50" leadership="365" capacity_friend="55" stamina_refill="120" />
+</player_exp>
+</player_exps>

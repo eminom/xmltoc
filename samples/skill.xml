@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<skills>
+<skill id="30001" name="Mortal Strike" quality="10" class_restrict="2" lv_restrict="0" desc="单体攻击，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".2" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1.5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30002" name="Whirlwind" quality="10" class_restrict="2" lv_restrict="0" desc="攻击周围所有敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="3" >
+<attributes cast_ratio=".15" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30003" name="Execute" quality="10" class_restrict="2" lv_restrict="0" desc="单体攻击，敌人HP在20%以下时，直接致死" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".3" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="3" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".5" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30004" name="Blast" quality="10" class_restrict="2" lv_restrict="0" desc="攻击单列敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="2" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30005" name="Hamstring" quality="10" class_restrict="1" lv_restrict="0" desc="单体攻击，造成“x”伤害，并造成定身" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".2" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1.5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="1" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30006" name="Shield Slam" quality="10" class_restrict="1" lv_restrict="0" desc="单体攻击，造成“x”伤害，并打晕" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".15" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="1" noattack_round="1" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30007" name="Thunder Clap" quality="10" class_restrict="1" lv_restrict="0" desc="攻击周围所有敌人，造成“x”伤害，并造成定身" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="3" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".5" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="1" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30008" name="Retaliation" quality="10" class_restrict="1" lv_restrict="0" desc="反击所有射程内攻击自己的敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30009" name="Sinister Strike" quality="10" class_restrict="3" lv_restrict="0" desc="单体攻击，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".3" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1.5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30010" name="Kidney Shot" quality="10" class_restrict="3" lv_restrict="0" desc="单体攻击，造成“x”伤害，并造成眩晕一回合" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".15" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="1" noattack_round="1" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30011" name="Bleed" quality="10" class_restrict="3" lv_restrict="0" desc="单体攻击，造成“x”伤害，并造成“y”持续伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".2" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio=".3" mdot_ratio="0" hot_ratio="0" duration="3" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio=".1" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30012" name="Death Dance" quality="10" class_restrict="3" lv_restrict="0" desc="攻击周围所有敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="3" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".5" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30013" name="Shadowstep " quality="10" class_restrict="3" lv_restrict="0" desc="瞬移至随机目标，造成“x”伤害，并返回原地" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="5" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1.5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30014" name="Aim Shot" quality="10" class_restrict="4" lv_restrict="0" desc="单体攻击，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".3" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1.5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30015" name="Full Draw Shot" quality="10" class_restrict="4" lv_restrict="0" desc="单体攻击，造成“x”伤害，并击退一格" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".15" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".9" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="1" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30016" name="Multi-Shot" quality="10" class_restrict="4" lv_restrict="0" desc="攻击前方随机三个敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="6" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".5" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30017" name="Guided Arrow" quality="10" class_restrict="4" lv_restrict="0" desc="攻击随机目标，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="5" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="3" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30018" name="Polymorph" quality="10" class_restrict="5" lv_restrict="0" desc="单体变羊一回合" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="1" >
+<attributes cast_ratio=".3" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="1" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30019" name="Cone of Cold" quality="10" class_restrict="5" lv_restrict="0" desc="单列攻击，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="2" >
+<attributes cast_ratio=".15" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="1.5" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30020" name="Nova" quality="10" class_restrict="5" lv_restrict="0" desc="攻击前方所有敌人，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="7" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".5" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30021" name="Blizzard" quality="10" class_restrict="5" lv_restrict="0" desc="攻击全屏目标，造成“x”伤害" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="4" >
+<attributes cast_ratio=".1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio=".5" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio=".1" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="30022" name="Summon Water Element" quality="10" class_restrict="5" lv_restrict="0" desc="召唤水元素" src="" evoid="0" evomtrl="1~1" lvlimit="10" pattern="8" >
+<attributes cast_ratio="1" grow_cast_ratio="0" summon_id="5" summon_lv="1" grow_summon_lv="5" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="31001" name="Normal Attack" quality="10" class_restrict="0" lv_restrict="0" desc="" src="" evoid="0" evomtrl="1~1" lvlimit="1" pattern="1" >
+<attributes cast_ratio="1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="31002" name="Shoot Attack" quality="10" class_restrict="0" lv_restrict="0" desc="" src="" evoid="0" evomtrl="1~1" lvlimit="1" pattern="1" >
+<attributes cast_ratio="1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="1" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="31003" name="Magic Attack" quality="10" class_restrict="0" lv_restrict="0" desc="" src="" evoid="0" evomtrl="1~1" lvlimit="1" pattern="1" >
+<attributes cast_ratio="1" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="1" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32001" name="Lv1 Endurance Aura" quality="10" class_restrict="0" lv_restrict="0" desc="increase team hp limit" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="120" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32002" name="Lv2 Endurance Aura" quality="20" class_restrict="0" lv_restrict="0" desc="increase team hp limit" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="180" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32003" name="Lv3 Endurance Aura" quality="30" class_restrict="0" lv_restrict="0" desc="increase team hp limit" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="270" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32004" name="Lv4 Endurance Aura" quality="40" class_restrict="0" lv_restrict="0" desc="increase team hp limit" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="405" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32005" name="Lv5 Endurance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase team hp limit" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="608" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32006" name="Lv1 Brilliance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk and patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32007" name="Lv2 Brilliance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk and patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32008" name="Lv3 Brilliance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk and patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32009" name="Lv4 Brilliance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk and patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32010" name="Lv5 Brilliance Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk and patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32011" name="Lv1 Brave Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32012" name="Lv2 Brave Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32013" name="Lv3 Brave Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32014" name="Lv4 Brave Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32015" name="Lv5 Brave Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase patk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32016" name="Lv1 Wisdom Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32017" name="Lv2 Wisdom Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32018" name="Lv3 Wisdom Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32019" name="Lv4 Wisdom Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32020" name="Lv5 Wisdom Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase matk" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32021" name="Lv1 Accuracy Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase hit rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32022" name="Lv2 Accuracy Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase hit rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32023" name="Lv3 Accuracy Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase hit rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32024" name="Lv4 Accuracy Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase hit rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32025" name="Lv5 Accuracy Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase hit rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32026" name="Lv1 Agility Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase dodge rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32027" name="Lv2 Agility Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase dodge rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32028" name="Lv3 Agility Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase dodge rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32029" name="Lv4 Agility Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase dodge rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32030" name="Lv5 Agility Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase dodge rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32031" name="Lv1 Concentration Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase critstrike rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32032" name="Lv2 Concentration Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase critstrike rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32033" name="Lv3 Concentration Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase critstrike rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32034" name="Lv4 Concentration Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase critstrike rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+<skill id="32035" name="Lv5 Concentration Aura" quality="50" class_restrict="0" lv_restrict="0" desc="increase critstrike rate" src="" evoid="0" evomtrl="0" lvlimit="10" pattern="9" >
+<attributes cast_ratio="0" grow_cast_ratio="0" summon_id="0" summon_lv="0" grow_summon_lv="0" patk_ratio="0" matk_ratio="0" hlp_ratio="0" pdot_ratio="0" mdot_ratio="0" hot_ratio="0" duration="0" grow_patk_ratio="0" grow_matk_ratio="0" grow_hlp_ratio="0" grow_pdot_ratio="0" grow_mdot_ratio="0" grow_hot_ratio="0" grow_duration="0" nomove_round="0" noattack_round="0" knockback="0" pdmg_ratio="0" mdmg_ratio="0" hp="0" mp="0" patk="0" matk="0" hlp="0" pdef="0" mdef="0" htr="0" crr="0" dgr="0" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="0" grow_mp="0" grow_patk="0" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="0" movrng="0" movghost="0" />
+<others res0="0" res1="0" res2="0" res3="0" />
+<img icon="" frame="" classicon="" />
+</skill>
+</skills>

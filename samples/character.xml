@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<characters>
+<character id="10001" name="Wild Blade I" quality="10" class="2" desc="warrior" src="Summon" evoid="10002" evomtrl="10001" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="180" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="36" grow_mp="0" grow_patk="13.2" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10001.png" head="char_head_10001.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10002" name="Wild Blade II" quality="20" class="2" desc="warrior" src="Summon" evoid="10003" evomtrl="10002" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="270" mp="0" patk="99" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="54" grow_mp="0" grow_patk="20" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10002.png" head="char_head_10002.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10003" name="Wild Blade III" quality="30" class="2" desc="warrior" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="360" mp="0" patk="132" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="72" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10003.png" head="char_head_10003.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10004" name="Iron Guard I" quality="10" class="1" desc="knight" src="Summon" evoid="10005" evomtrl="10004" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".33" mdmg_ratio=".69" hp="252" mp="0" patk="33" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="50.4" grow_mp="0" grow_patk="6.6" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30006" noratk_skill="31001" leader_skill="32001" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10004.png" head="char_head_10004.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00001.png" />
+</character>
+<character id="10005" name="Iron Guard II" quality="20" class="1" desc="knight" src="Summon" evoid="10006" evomtrl="10005" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".33" mdmg_ratio=".69" hp="378" mp="0" patk="50" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="76" grow_mp="0" grow_patk="10" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30006" noratk_skill="31001" leader_skill="32002" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10005.png" head="char_head_10005.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00001.png" />
+</character>
+<character id="10006" name="Iron Guard III" quality="30" class="1" desc="knight" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".33" mdmg_ratio=".69" hp="504" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="101" grow_mp="0" grow_patk="13" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30006" noratk_skill="31001" leader_skill="32003" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10006.png" head="char_head_10006.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00001.png" />
+</character>
+<character id="10007" name="Shadow Walker I" quality="10" class="3" desc="rogue" src="Summon" evoid="10008" evomtrl="10007" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".66" mdmg_ratio=".55" hp="135" mp="0" patk="85.8" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".11" dgr=".11" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="27" grow_mp="0" grow_patk="17.2" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30013" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10007.png" head="char_head_10007.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00003.png" />
+</character>
+<character id="10008" name="Shadow Walker II" quality="20" class="3" desc="rogue" src="Summon" evoid="10009" evomtrl="10008" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".66" mdmg_ratio=".55" hp="203" mp="0" patk="129" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".11" dgr=".11" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="41" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30013" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10008.png" head="char_head_10008.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00003.png" />
+</character>
+<character id="10009" name="Shadow Walker III" quality="30" class="3" desc="rogue" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".66" mdmg_ratio=".55" hp="270" mp="0" patk="172" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".11" dgr=".11" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="54" grow_mp="0" grow_patk="34" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30013" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10009.png" head="char_head_10009.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00003.png" />
+</character>
+<character id="10010" name="Forest Ranger I" quality="10" class="4" desc="hunter" src="Summon" evoid="10011" evomtrl="10010" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".77" mdmg_ratio=".44" hp="117" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="23.4" grow_mp="0" grow_patk="13.2" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30016" noratk_skill="31002" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10010.png" head="char_head_10010.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00004.png" />
+</character>
+<character id="10011" name="Forest Ranger II" quality="20" class="4" desc="hunter" src="Summon" evoid="10012" evomtrl="10011" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".77" mdmg_ratio=".44" hp="176" mp="0" patk="99" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="35" grow_mp="0" grow_patk="20" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30016" noratk_skill="31002" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10011.png" head="char_head_10011.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00004.png" />
+</character>
+<character id="10012" name="Forest Ranger III" quality="30" class="4" desc="hunter" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".77" mdmg_ratio=".44" hp="234" mp="0" patk="132" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="47" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30016" noratk_skill="31002" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10012.png" head="char_head_10012.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00004.png" />
+</character>
+<character id="10013" name="Purple Magus I" quality="10" class="5" desc="mage" src="Summon" evoid="10014" evomtrl="10013" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".83" mdmg_ratio=".37" hp="90" mp="0" patk="0" matk="109.56" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="18" grow_mp="0" grow_patk="0" grow_matk="21.9" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30019" noratk_skill="31003" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10013.png" head="char_head_10013.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00005.png" />
+</character>
+<character id="10014" name="Purple Magus II" quality="20" class="5" desc="mage" src="Summon" evoid="10015" evomtrl="10014" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".83" mdmg_ratio=".37" hp="176" mp="0" patk="0" matk="164" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="27" grow_mp="0" grow_patk="0" grow_matk="33" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30019" noratk_skill="31003" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10014.png" head="char_head_10014.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00005.png" />
+</character>
+<character id="10015" name="Purple Magus III" quality="30" class="5" desc="mage" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".83" mdmg_ratio=".37" hp="234" mp="0" patk="0" matk="219" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="36" grow_mp="0" grow_patk="0" grow_matk="44" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30019" noratk_skill="31003" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10015.png" head="char_head_10015.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00005.png" />
+</character>
+<character id="10016" name="Bloody Butcher" quality="20" class="2" desc="warrior" src="Summon" evoid="0" evomtrl="0" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="270" mp="0" patk="99" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="54" grow_mp="0" grow_patk="20" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10016.png" head="char_head_10016.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10017" name="Goblin" quality="10" class="2" desc="warrior" src="Summon" evoid="0" evomtrl="0" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="180" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="36" grow_mp="0" grow_patk="13.2" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10017.png" head="char_head_10017.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10018" name="Goblin Elder" quality="20" class="5" desc="mage" src="Summon" evoid="0" evomtrl="0" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".83" mdmg_ratio=".37" hp="176" mp="0" patk="0" matk="164" hlp="0" pdef="0" mdef="0" htr=".95" crr=".09" dgr=".09" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="27" grow_mp="0" grow_patk="0" grow_matk="33" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30019" noratk_skill="31003" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10018.png" head="char_head_10018.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00005.png" />
+</character>
+<character id="10019" name="Goblin King" quality="30" class="2" desc="warrior" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="360" mp="0" patk="132" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="72" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10019.png" head="char_head_10019.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10020" name="Goblin Sapper" quality="10" class="2" desc="warrior" src="Summon" evoid="0" evomtrl="0" leadership="4" lvlimit="25" >
+<attributes pdmg_ratio=".55" mdmg_ratio=".55" hp="180" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".05" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="36" grow_mp="0" grow_patk="13.2" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10020.png" head="char_head_10020.png" bodybase="char_bodybase_00001.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00001.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10021" name="Goblin Craftsman" quality="20" class="3" desc="rogue" src="Summon" evoid="0" evomtrl="0" leadership="6" lvlimit="40" >
+<attributes pdmg_ratio=".66" mdmg_ratio=".55" hp="203" mp="0" patk="129" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".11" dgr=".11" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="41" grow_mp="0" grow_patk="26" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30013" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10021.png" head="char_head_10021.png" bodybase="char_bodybase_00003.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00002.png" classicon="char_classicon_00003.png" />
+</character>
+<character id="10022" name="Goblin Bruiser" quality="30" class="1" desc="knight" src="Summon" evoid="0" evomtrl="0" leadership="10" lvlimit="70" >
+<attributes pdmg_ratio=".33" mdmg_ratio=".69" hp="504" mp="0" patk="66" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="101" grow_mp="0" grow_patk="13" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30006" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10022.png" head="char_head_10022.png" bodybase="char_bodybase_00005.png" headframe="char_headframe_00001.png" qualityicon="char_qualityicon_00003.png" classicon="char_classicon_00001.png" />
+</character>
+<character id="10023" name="Archmage" quality="41" class="5" desc="" src="Summon" evoid="0" evomtrl="0" leadership="15" lvlimit="99" >
+<attributes pdmg_ratio=".83" mdmg_ratio=".37" hp="252" mp="0" patk="0" matk="501.984" hlp="0" pdef="0" mdef="0" htr=".95" crr=".07" dgr=".05" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="50.4" grow_mp="0" grow_patk="0" grow_matk="100.52" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="2" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30019" noratk_skill="31003" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10015.png" head="char_head_10015.png" bodybase="char_bodybase_00007.png" headframe="char_headframe_00002.png" qualityicon="char_qualityicon_00004.png" classicon="char_classicon_00005.png" />
+</character>
+<character id="10024" name="The Berserker" quality="41" class="2" desc="" src="Summon" evoid="0" evomtrl="0" leadership="15" lvlimit="99" >
+<attributes pdmg_ratio=".44" mdmg_ratio=".69" hp="604.8" mp="0" patk="211.68" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="120.96" grow_mp="0" grow_patk="42.28" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10003.png" head="char_head_10003.png" bodybase="char_bodybase_00007.png" headframe="char_headframe_00002.png" qualityicon="char_qualityicon_00004.png" classicon="char_classicon_00002.png" />
+</character>
+<character id="10025" name="Night Slayer" quality="41" class="3" desc="" src="Summon" evoid="0" evomtrl="0" leadership="15" lvlimit="99" >
+<attributes pdmg_ratio=".66" mdmg_ratio=".5" hp="403.2" mp="0" patk="393.12" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".11" dgr=".11" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="80.64" grow_mp="0" grow_patk="78.68" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30013" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10009.png" head="char_head_10009.png" bodybase="char_bodybase_00007.png" headframe="char_headframe_00002.png" qualityicon="char_qualityicon_00004.png" classicon="char_classicon_00003.png" />
+</character>
+<character id="10026" name="Blade Master" quality="51" class="2" desc="" src="Summon" evoid="0" evomtrl="0" leadership="27" lvlimit="99" >
+<attributes pdmg_ratio=".44" mdmg_ratio=".69" hp="712.8" mp="0" patk="249.48" matk="0" hlp="0" pdef="0" mdef="0" htr=".95" crr=".03" dgr=".03" grow_pdmg_ratio="0" grow_mdmg_ratio="0" grow_hp="142.56" grow_mp="0" grow_patk="49.83" grow_matk="0" grow_hlp="0" grow_pdef="0" grow_mdef="0" grow_htr="0" grow_crr="0" grow_dgr="0" atkrng="1" atkscp="2" excl_atkrng="0" excl_atkscp="0" movrng="1" movghost="0" size="1" />
+<others talent_skill="30002" noratk_skill="31001" leader_skill="0" res_skill0="0" res_skill1="0" res_skill2="0" res_skill3="0" boost0="0" boost1="0" boost2="0" boost3="0" boost4="0" boost5="0" res0="0" res1="0" res2="0" res3="0" />
+<image body="char_body_10006.png" head="char_head_10006.png" bodybase="char_bodybase_00009.png" headframe="char_headframe_00002.png" qualityicon="char_qualityicon_00005.png" classicon="char_classicon_00002.png" />
+</character>
+</characters>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<drops>
+<drop id="60001" name="Silvermoon Wood" desc="" >
+<prob char_drop_lv="1" char_drop_rate=".3" piece_drop_rate="0" gold_drop_num="100" gold_drop_rate=".1" drop_0="0" drop_rate_0="0" drop_1="0" drop_rate_1="0" drop_2="0" drop_rate_2="0" drop_3="0" drop_rate_3="0" />
+</drop>
+<drop id="61001" name="Silvermoon Wood" desc="" >
+<prob char_drop_lv="1" char_drop_rate=".1" piece_drop_rate="0" gold_drop_num="1000" gold_drop_rate=".1" drop_0="0" drop_rate_0="0" drop_1="0" drop_rate_1="0" drop_2="0" drop_rate_2="0" drop_3="0" drop_rate_3="0" />
+</drop>
+</drops>

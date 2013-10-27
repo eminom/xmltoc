@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<gachas>
+<gacha id="110001" name="gem single gacha" desc="" cost_gem="10" cost_coin="0" cost_friend_pts="0" >
+<prob common="0" uncommon=".7" rare=".2" epic=".09" legendary=".01" />
+</gacha>
+<gacha id="110002" name="pf single gacha" desc="" cost_gem="0" cost_coin="0" cost_friend_pts="100" >
+<prob common=".6" uncommon=".3" rare=".09" epic=".009" legendary=".001" />
+</gacha>
+<gacha id="110003" name="gem combo gacha" desc="" cost_gem="90" cost_coin="0" cost_friend_pts="0" >
+<prob common="0" uncommon=".7" rare=".2" epic=".09" legendary=".01" />
+</gacha>
+<gacha id="110004" name="pf combo gacha" desc="" cost_gem="0" cost_coin="0" cost_friend_pts="1000" >
+<prob common=".6" uncommon=".3" rare=".09" epic=".009" legendary=".001" />
+</gacha>
+</gachas>
