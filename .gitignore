@@ -1,4 +1,5 @@
 *.xml
 *.cpp
 *.h
+.gen
 node_modules
