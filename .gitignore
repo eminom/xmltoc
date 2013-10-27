@@ -1,0 +1,4 @@
+*.xml
+*.cpp
+*.h
+node_modules
