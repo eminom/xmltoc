@@ -26,8 +26,7 @@ function filterCVarName(name){
 }
 
 function parseConsole(){
-	var pat_i = /-i=([\w\.]+)/;
-	var pat_o = /-o=([\w\.]+)/;
+	var pat_i = /-i=([\/\w\.]+)/;
 	var args = Array.prototype.slice.call(process.argv,0);
 	var rv = {}
 	for(var i in args){
@@ -36,11 +35,6 @@ function parseConsole(){
 		if(m){
 			rv.i = m[1];
 		}
-
-		m = pat_o.exec(t);
-		if(m){
-			rv.o = m[1];
-		}
 	}
 	if ( rv.i ) {
 		var p = rv.i.lastIndexOf('.xml');
@@ -48,17 +42,12 @@ function parseConsole(){
 			rv.i = rv.i + '.xml';
 		}
 	}
-	if ( ! rv.o && rv.i ) {
-		var input = rv.i;
-		var p = input.lastIndexOf('.');
-		if ( p>=0){
-			rv.o = input.substr(0,p) + '.c';
-		} else {
-			rv.o= input + '.c';
-		}
-	}
 	if ( rv.i && ! rv.name ) {
 		var s = rv.i;
+		var p = s.lastIndexOf('/');
+		if(p>=0){
+			s = s.substr(p+1);
+		}
 		var p = s.indexOf('.');
 		if ( p >= 0 ){
 			rv.name = s.substr(0,p);	
