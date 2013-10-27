@@ -9,6 +9,15 @@ use 5.010;
 use strict;
 use warnings;
 
+my $platform_mv;
+sub config{
+	if ( $^O =~ /Win/i ){
+		$platform_mv = 'move';
+	} else {
+		$platform_mv = 'mv';
+	}
+}
+
 sub doGens{
 	my $input = shift or die "no inputs";
 	my $js = 'xmltoc.js';
@@ -27,7 +36,7 @@ sub doGens{
 		die if $?;
 		for(@a){
 			chomp;
-			my $mv = "mv $_ $gendir";
+			my $mv = "$platform_mv $_ $gendir";
 			`$mv`;
 			die "move $_ failed" if $?;
 			$_ = "$gendir/$_";
@@ -89,6 +98,7 @@ sub main{
 }
 
 # Ground zero:>>
+config;
 main;
 print "\ndone\n";
 
